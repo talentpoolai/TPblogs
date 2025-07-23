@@ -13,13 +13,12 @@ excerpt: >-
 
   - [What you need to know about multimodal language models](#t...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2022-06-30T00:00:00.000Z
 readTime: 7 min read
-category: fintech-5
+category: Fintech 5
 tags: []
 featuredImage: ''
 featured: false

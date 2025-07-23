@@ -7,13 +7,12 @@ excerpt: >-
   hiring processes. While uncertainties are not in the hands of the company,
   better recruitment processes certainly are and can...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-06-08T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - recruitment-software
   - recruitment-software-solutions

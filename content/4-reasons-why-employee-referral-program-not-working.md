@@ -10,13 +10,12 @@ excerpt: >-
   Job satisfaction, a genuine desire to help people in their networks and their
   company fi...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-09-14T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: employee-referral-1-scaled-1-1.jpg
 featured: false

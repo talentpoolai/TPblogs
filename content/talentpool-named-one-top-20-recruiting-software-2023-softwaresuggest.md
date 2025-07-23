@@ -9,13 +9,12 @@ excerpt: >-
   as one of the 20 Best Recruiting Software of 2023 by SoftwareSuggest. This
   recognition highlights Talentpool’s commitment...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2023-08-25T00:00:00.000Z
 readTime: 3 min read
-category: press-release
+category: Press Release
 tags: &ref_0
   - recruitment-software-solutions
   - softwaresuggest

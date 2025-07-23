@@ -7,13 +7,12 @@ excerpt: >-
   employer brand has become essential for attracting top candidates. As
   companies strive to stand out and become the employ...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2023-07-13T00:00:00.000Z
 readTime: 9 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - employer-brand
   - employer-branding-strategy

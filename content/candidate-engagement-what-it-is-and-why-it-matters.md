@@ -10,13 +10,12 @@ excerpt: >-
   Well, it is not just about posting job ads and waiting for resumes to come in.
   There is a strategy where recrui...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2023-12-18T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - candidate-engagement
   - candidate-experience

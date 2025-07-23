@@ -6,11 +6,10 @@ excerpt: "_Do you know that 50% of candidates would not work for a\_[company wit
 author:
   name: Poushali Ganguly
   role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  avatar: /poushali.png
 publishedAt: 2023-08-28T00:00:00.000Z
 readTime: 9 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - employer-brand
   - recruitment-metrics

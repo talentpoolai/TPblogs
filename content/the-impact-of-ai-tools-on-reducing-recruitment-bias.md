@@ -9,11 +9,10 @@ excerpt: >-
 author:
   name: Poushali Ganguly
   role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  avatar: /poushali.png
 publishedAt: 2024-09-09T00:00:00.000Z
 readTime: 6 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - ats

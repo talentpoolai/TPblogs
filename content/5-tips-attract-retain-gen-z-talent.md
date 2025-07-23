@@ -9,13 +9,12 @@ excerpt: >-
 
   This generation is unique in multiple ways. For instance, the ave...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-08-23T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: gen-z-scaled-1-1.jpg
 featured: false

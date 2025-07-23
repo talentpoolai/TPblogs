@@ -6,11 +6,10 @@ excerpt: "When it comes to recruiting, time is of paramount importance.\n\n**_A 
 author:
   name: Poushali Ganguly
   role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  avatar: /poushali.png
 publishedAt: 2023-01-25T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - applicant-tracking-system

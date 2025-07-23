@@ -10,13 +10,12 @@ excerpt: >-
 
   Its built-in job search tool and ap...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2022-05-19T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - hiring-quality
   - recruitment-process

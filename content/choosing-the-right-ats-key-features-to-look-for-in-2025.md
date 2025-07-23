@@ -6,11 +6,10 @@ excerpt: "Did you know that 94% of recruiters say that using an ATS has accelera
 author:
   name: Poushali Ganguly
   role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  avatar: /poushali.png
 publishedAt: 2025-05-26T00:00:00.000Z
 readTime: 6 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - applicant-tracking-system

@@ -4,13 +4,12 @@ title: Top 5 mistakes Small Businesses (SMBs) make when buying recruitment softw
 slug: top-5-mistakes-smbs-make-when-buying-recruitment-software
 excerpt: "Having met many promising companies in the SMB segment who want to streamline recruitment, we have observed a pattern in how they seem to take their buying decision.\_\_\n\nThere is no denying the fact t..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2020-07-03T00:00:00.000Z
 readTime: 3 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - ats

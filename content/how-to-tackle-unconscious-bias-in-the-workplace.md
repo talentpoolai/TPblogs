@@ -7,13 +7,12 @@ excerpt: >-
   backgrounds, cultures, and experiences come together to achieve common goals.
   While this diversity can bring numerous benefits, it c...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2023-05-05T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - diversity-and-inclusion
   - unconscious-bias

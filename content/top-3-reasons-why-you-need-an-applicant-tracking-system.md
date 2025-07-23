@@ -7,13 +7,12 @@ excerpt: >-
   of tactics to fish in the best talent in the market. But do we really have the
   time? Most of us end up using only some of...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2017-03-17T00:00:00.000Z
 readTime: 6 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: Blog-Image-2-1.png
 featured: false

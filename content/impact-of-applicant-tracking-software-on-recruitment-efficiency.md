@@ -7,13 +7,12 @@ excerpt: >-
   efficiency in the recruitment process has become paramount. With the
   increasing demand for top-notch talent in competitive marke...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2024-01-12T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - recruitment-efficiency

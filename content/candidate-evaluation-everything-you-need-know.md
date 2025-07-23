@@ -7,13 +7,12 @@ excerpt: >-
   the right candidate is a critical step in building a successful team and
   driving organisational...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2023-06-29T00:00:00.000Z
 readTime: 9 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - candidate-evaluation
   - candidate-experience

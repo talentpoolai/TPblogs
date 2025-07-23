@@ -6,11 +6,10 @@ excerpt: "_Got a new hire joining you soon? Congrats!_\n\nBut starting a new rol
 author:
   name: Poushali Ganguly
   role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  avatar: /poushali.png
 publishedAt: 2023-04-25T00:00:00.000Z
 readTime: 9 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - employee-engagement
   - employee-satisfaction

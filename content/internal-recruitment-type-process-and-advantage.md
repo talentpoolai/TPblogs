@@ -7,13 +7,12 @@ excerpt: >-
   need for more employees to help you in your journey towards growth. It makes
   it essential to remain updated and have a re...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2023-07-14T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - internal-job-posting
   - internal-job-transfer

@@ -7,13 +7,12 @@ excerpt: >-
   hybrid work model. This shift is driven by several factors - a keen interest
   to save on rental space, labor, and utility costs...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2022-09-29T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: hybrid-work-model-1.jpg
 featured: false

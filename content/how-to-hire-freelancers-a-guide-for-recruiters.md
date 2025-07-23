@@ -7,13 +7,12 @@ excerpt: >-
   from being an alternative work model to an essential component of successful
   business operations. For recruiters, unders...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2024-02-05T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - effective-hiring
   - freelancer

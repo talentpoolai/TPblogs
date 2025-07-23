@@ -4,13 +4,12 @@ title: 6 Ways How HR can Improve their Email Communication
 slug: 6-ways-how-hr-can-improve-their-email-communication
 excerpt: "Writing quality emails has become an unsaid rule of people management. It’s not a quality that we look out for, but it sure helps to have the right skills and create a lasting impression.\_\n\nAn unclea..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2021-12-10T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - ats
   - communication

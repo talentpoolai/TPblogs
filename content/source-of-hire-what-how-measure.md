@@ -7,13 +7,12 @@ excerpt: >-
   success. You also know that it can be challenging to find the best candidates
   for your organisation.To achieve this, it is cruci...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2023-07-12T00:00:00.000Z
 readTime: 8 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - hiring-strategy
   - recruitment-strategies

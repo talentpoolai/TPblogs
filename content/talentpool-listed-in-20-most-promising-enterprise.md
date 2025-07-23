@@ -4,13 +4,12 @@ title: Talentpool Listed in 20 Most Promising Enterprise Software Companies
 slug: talentpool-listed-in-20-most-promising-enterprise
 excerpt: "> _Talentpool recognized in 20 most Promising Enterprise\_Software Companies by CIO Review_\n\n**Pune,\_March 09, 2016**: Talentpool has been listed as one of the top\_20 most promising Enterprise compani..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2016-03-10T00:00:00.000Z
 readTime: 6 min read
-category: press-release
+category: Press Release
 tags: &ref_0
   - easyrecruitment
   - mostpromisingenterpriseats

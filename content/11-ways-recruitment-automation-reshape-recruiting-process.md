@@ -7,13 +7,12 @@ excerpt: >-
   better than others in the industry. It won't be wrong to say that a talented
   workforce is a real advantage that any compa...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2022-09-01T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: recruitment-automation-scaled-1-1.jpg
 featured: false

@@ -10,13 +10,12 @@ excerpt: >-
 
   One slip and government agencies can come cr...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2022-09-27T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: comliance-checklist-scaled-1-1.jpg
 featured: false

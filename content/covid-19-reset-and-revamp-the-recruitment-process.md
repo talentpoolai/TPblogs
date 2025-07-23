@@ -7,13 +7,12 @@ excerpt: >-
   world. Many businesses had come to a standstill. However, as the dust begins
   to settle, we realize that this could be the...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2020-05-15T00:00:00.000Z
 readTime: 3 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - ats
   - recruitment-software

@@ -7,13 +7,12 @@ excerpt: >-
   changing the way recruiters approach hiring. A virtual interview is much like
   an in-person interview, except that it happens rem...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2021-07-21T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - effective-hiring

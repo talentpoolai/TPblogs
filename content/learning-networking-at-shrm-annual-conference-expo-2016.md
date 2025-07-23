@@ -7,13 +7,12 @@ excerpt: >-
   gathered some of the biggest names of the India Inc. Internationally-renowned
   speakers offered fresh points of view and inspir...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2016-10-27T00:00:00.000Z
 readTime: 1 min read
-category: events
+category: Events
 tags: []
 featuredImage: shrm-9-1.jpg
 featured: false

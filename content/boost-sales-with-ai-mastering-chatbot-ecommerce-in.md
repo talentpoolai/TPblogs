@@ -10,13 +10,12 @@ excerpt: >-
   follow the brand voice and sound natural. So make sure that when you are
   creating any kind of...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-08-18T00:00:00.000Z
 readTime: 10 min read
-category: artificial-intelligence
+category: Artificial Intelligence
 tags: []
 featuredImage: ''
 featured: false

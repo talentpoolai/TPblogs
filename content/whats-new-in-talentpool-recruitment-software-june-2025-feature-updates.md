@@ -7,13 +7,12 @@ excerpt: >-
   can make or break your recruitment outcomes. Modern recruiters are not just
   looking for more resumes but looking for better...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2025-07-10T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - ats
   - recruitment-process

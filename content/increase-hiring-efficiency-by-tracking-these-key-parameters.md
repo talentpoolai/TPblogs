@@ -9,13 +9,12 @@ excerpt: >-
 
   As more and more employees are quitting and competitors are making agg...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2022-08-11T00:00:00.000Z
 readTime: 6 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: hiring-efficiency-1-scaled-1-1.jpg
 featured: false

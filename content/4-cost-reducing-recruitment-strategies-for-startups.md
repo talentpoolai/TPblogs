@@ -7,13 +7,12 @@ excerpt: >-
   have just started their business might not have ample funds. Most of the fund
   collected by an entrepreneur goes into est...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2022-07-11T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - recruitment-automation
   - recruitment-strategies

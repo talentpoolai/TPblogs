@@ -7,13 +7,12 @@ excerpt: >-
   affected by a bad hire. That only strengthens the fact that bringing in the
   wrong person for a job can have a huge impact...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2021-01-27T00:00:00.000Z
 readTime: 3 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - ats
   - hiring

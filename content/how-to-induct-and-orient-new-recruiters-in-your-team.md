@@ -7,13 +7,12 @@ excerpt: >-
   second! Your recruiters are part of the same workforce. Ensuring that your
   recruitment process runs seamlessly without a hitc...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2018-01-18T00:00:00.000Z
 readTime: 2 min read
-category: uncategorised
+category: Uncategorised
 tags: []
 featuredImage: ''
 featured: false

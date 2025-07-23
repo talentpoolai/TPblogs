@@ -7,13 +7,12 @@ excerpt: >-
   internship. This is a time to learn new skills, get exposure to a company's
   work culture, and acquire domain experience....
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2022-08-16T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: virtual-intership-scaled-1-1.jpg
 featured: false

@@ -4,13 +4,12 @@ title: Nitman Relaunches As Talentpool!
 slug: nitman-relaunches-as-talentpool
 excerpt: "> _We are excited to introduce you to the newly-designed brand\_image of Talentpool!_\n\nRecruitment has evolved a lot from the time we started our journey back in 2006. From being just software that he..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2015-12-03T00:00:00.000Z
 readTime: 4 min read
-category: press-release
+category: Press Release
 tags: &ref_0
   - enterprisesoftware
   - newlogo

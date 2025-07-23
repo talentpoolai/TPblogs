@@ -10,13 +10,12 @@ excerpt: >-
   _Each corporate job posting attracts approximately_ 250 resumes_. Out of
   these, four...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2022-12-29T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - candidate-experience

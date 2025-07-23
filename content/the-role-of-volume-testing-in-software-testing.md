@@ -7,13 +7,12 @@ excerpt: >-
   Execute the application scenario manually before the load test is performed.
   Prepare the elements of the test environment and i...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-09-07T00:00:00.000Z
 readTime: 6 min read
-category: software-development-4
+category: Software Development 4
 tags: []
 featuredImage: ''
 featured: false

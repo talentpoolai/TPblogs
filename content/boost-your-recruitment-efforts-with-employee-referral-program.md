@@ -7,13 +7,12 @@ excerpt: >-
   best talent, you are probably aware of how hard it is to find that perfect fit
   for your team. Every firm wants its emplo...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2021-03-24T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - ats
   - recruitment-software

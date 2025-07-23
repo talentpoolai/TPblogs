@@ -7,13 +7,12 @@ excerpt: >-
   posting](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post/),
   and the applications are pouring in. You are receiving many strong candi...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2023-06-20T00:00:00.000Z
 readTime: 9 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - candidate-shortlisting
   - candidate-sourcing

@@ -7,13 +7,12 @@ excerpt: >-
   find the right candidates and almost sell the job opportunity. Recruiters,
   therefore, should ideally know the USPs of thei...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2020-11-17T00:00:00.000Z
 readTime: 3 min read
-category: recruiter-toolkit
+category: Recruiter Toolkit
 tags: &ref_0
   - job-description-template
   - software-engineer-jd

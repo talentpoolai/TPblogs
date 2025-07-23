@@ -4,13 +4,12 @@ title: An Interactive Session at the Talentpool-SHRM India Mumbai Forum
 slug: exploring-design-thinking-in-the-hiring-world-insights-from-shrm-mumbai-forum
 excerpt: "**Defining Design Thinking** Design Thinking is a blend of both design and thinking.\_ Any system, process or product that is created by applying the principles of design thinking will be practical, e..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2017-01-30T00:00:00.000Z
 readTime: 11 min read
-category: events
+category: Events
 tags: []
 featuredImage: F-Blog-Collage-1.png
 featured: false

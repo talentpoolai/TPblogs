@@ -7,13 +7,12 @@ excerpt: >-
   **_Deloitte Mental Health Report_** _**states that 55% of employees are
   experiencing burnout, which is affecting their productivit...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2023-02-27T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - employee-engagement
   - employee-productivity

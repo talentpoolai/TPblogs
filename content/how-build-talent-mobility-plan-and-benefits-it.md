@@ -7,13 +7,12 @@ excerpt: >-
   competitor or start their own business. One of them is the lack of growth
   opportunities and career progression within a compan...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2022-10-07T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: mobility-plan-scaled-1-1.jpg
 featured: false

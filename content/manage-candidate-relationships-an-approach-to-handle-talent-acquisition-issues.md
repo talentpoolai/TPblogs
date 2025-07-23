@@ -9,13 +9,12 @@ excerpt: >-
   an entirely new area, which I had not ventured out before. I could observe,
   the various working styles of recruiters, in...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2018-02-26T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - candidate-relationships
   - talent-acquisition

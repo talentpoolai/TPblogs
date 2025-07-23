@@ -7,13 +7,12 @@ excerpt: >-
   decision-makers and HR managers. Every recruiter spends a lot of time in
   sourcing talent. And there are multiple channels that help...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2023-04-25T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - employee-productivity
   - naukri

@@ -7,13 +7,12 @@ excerpt: >-
   However, finding the top talent is not a cakewalk for HR professionals in
   2022. The competition between companies has increased...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-08-19T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: recruitment-mistakes-1.jpg
 featured: false

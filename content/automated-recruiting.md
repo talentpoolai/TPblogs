@@ -7,13 +7,12 @@ excerpt: >-
   high churning. As per a
   [report](https://www.michaelpage.co.in/about-us/media-releases/86-indias-professionals-seek-new-jobs...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2022-08-10T00:00:00.000Z
 readTime: 5 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: ''
 featured: false

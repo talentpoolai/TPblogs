@@ -7,13 +7,12 @@ excerpt: >-
   [recruiter](https://www.thetalentpool.ai/blogs/7-time-saving-hacks-for-recruiters/)
   just will not cut it anymore. To thrive in this dyn...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2023-09-13T00:00:00.000Z
 readTime: 8 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - recruitment-processing-outsourcing
   - rpo

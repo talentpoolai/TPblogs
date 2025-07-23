@@ -4,13 +4,12 @@ title: The Pros and Cons of Cloud-Based Candidate Tracking Systems
 slug: the-pros-and-cons-of-cloud-based-candidate-tracking-systems
 excerpt: "Let's talk about Smita!\_\n\nSmita is a talent acquisition manager at a mid-sized IT firm. With multiple open roles and a surge in applications, her inbox is flooding with resumes, follow-up emails, and..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2025-05-23T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - ats
   - candidate-tracking-software

@@ -7,13 +7,12 @@ excerpt: >-
   [resumes](https://www.thetalentpool.ai/resume-management-software/) and
   keeping track of applicants can be overwhelming w...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2024-01-25T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - candidate-management-software
   - recruitment-automation

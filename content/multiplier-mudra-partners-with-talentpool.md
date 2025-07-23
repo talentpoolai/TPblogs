@@ -10,13 +10,12 @@ excerpt: >-
   **Pune, February 9, 2017:** To bolster its existing resource strength and to
   manage the bulk hires...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2017-02-02T00:00:00.000Z
 readTime: 3 min read
-category: press-release
+category: Press Release
 tags: []
 featuredImage: Multiplier-Mudra-1.jpg
 featured: false

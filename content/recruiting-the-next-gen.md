@@ -4,13 +4,12 @@ title: Recruiting the Next Gen!
 slug: recruiting-the-next-gen
 excerpt: "It’s time to rethink the old recruiting techniques! Majority of the workforce now consists of candidates belonging to the Next Gen. these are the people who have witnessed\_some of the world’s biggest..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2016-01-28T00:00:00.000Z
 readTime: 6 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - enterprisesoftware
   - nextgen

@@ -10,13 +10,12 @@ excerpt: >-
   changed the game. Keep track of your KPIs to measure your candidates'
   experience and the...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-09-05T00:00:00.000Z
 readTime: 9 min read
-category: artificial-intelligence
+category: Artificial Intelligence
 tags: []
 featuredImage: ''
 featured: false

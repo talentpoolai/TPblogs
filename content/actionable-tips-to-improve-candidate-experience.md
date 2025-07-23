@@ -7,13 +7,12 @@ excerpt: >-
   [retaining](https://www.thetalentpool.ai/?s=retaining+top+talent&submit=Search)
   top talent is a priority for organisations. And one of the key factor...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2023-07-17T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - candidate-experience
   - hiring-process

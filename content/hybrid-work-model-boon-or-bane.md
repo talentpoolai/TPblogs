@@ -10,13 +10,12 @@ excerpt: >-
   When the [pandemic hit the world in
   2019](https://www.thetalentpool.ai/blogs/what-is-the-great-resigna...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-12-13T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: hybrid-work-1.jpg
 featured: false

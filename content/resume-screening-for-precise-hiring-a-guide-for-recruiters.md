@@ -9,13 +9,12 @@ excerpt: >-
 
   With so many candidates vying for the same position, it is crucial for re...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2024-05-24T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: resume-screening-scaled-2.jpg
 featured: false

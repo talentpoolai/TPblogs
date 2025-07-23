@@ -7,13 +7,12 @@ excerpt: >-
   candidate shapes your [employer
   branding](https://www.thetalentpool.ai/blogs/10-key-metrics-for-tracking-your-employer-br...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2024-02-09T00:00:00.000Z
 readTime: 6 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - candidate-rejection
   - effective-hiring

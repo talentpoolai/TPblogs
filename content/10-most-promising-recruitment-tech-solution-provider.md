@@ -6,13 +6,12 @@ title: >-
 slug: 10-most-promising-recruitment-tech-solution-provider
 excerpt: "> _“Delivering Recruitment Software to Delight Recruiters”_\n\n**Pune,\_January, 2020**: We are happy to announce that Talentpool has been named as one of the “10 Most Promising Recruitment Tech Solutio..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2020-02-03T00:00:00.000Z
 readTime: 1 min read
-category: press-release
+category: Press Release
 tags: &ref_0
   - applicant-tracking-system-for-enterprises
   - recruitment-software-solutions

@@ -12,11 +12,10 @@ excerpt: >-
 author:
   name: Poushali Ganguly
   role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  avatar: /poushali.png
 publishedAt: 2017-01-10T00:00:00.000Z
 readTime: 3 min read
-category: press-release
+category: Press Release
 tags: []
 featuredImage: logo-1.png
 featured: false

@@ -7,13 +7,12 @@ excerpt: >-
   over the first few months of 2017. Availability of talent and post-offer
   uncertainties are some of the critical challenges...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2017-01-11T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: hiring-trends-2017-860x450_c-1.gif
 featured: false

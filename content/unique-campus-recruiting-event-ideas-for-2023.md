@@ -4,13 +4,12 @@ title: Unique Campus Recruiting Event Ideas for 2023
 slug: unique-campus-recruiting-event-ideas-for-2023
 excerpt: "[Campus recruiting](https://www.thetalentpool.ai/blogs/5-effective-strategies-campus-recruitment/)\_has become a hot topic in the world of recruiting. But what exactly does it mean? And why is it so i..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2023-07-07T00:00:00.000Z
 readTime: 9 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - campus-recruitment
   - recruitment-methods

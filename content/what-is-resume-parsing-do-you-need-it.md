@@ -10,13 +10,12 @@ excerpt: >-
   But at the same time, HR recruiters may feel overwhelmed as they have to sift
   thr...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-11-03T00:00:00.000Z
 readTime: 6 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: resume-parsing-1-1.jpg
 featured: false

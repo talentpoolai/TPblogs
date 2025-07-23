@@ -7,13 +7,12 @@ excerpt: >-
   Using software and applications, one can complete tasks faster, save time, cut
   costs and enhance the efficiency of workflows....
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2022-04-27T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: top-recruitment-software-in-india-1.jpg
 featured: false

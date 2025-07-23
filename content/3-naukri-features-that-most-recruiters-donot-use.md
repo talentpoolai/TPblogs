@@ -9,13 +9,12 @@ excerpt: >-
 
   Over the past few years, Naukri has developed and added a...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpeg
 publishedAt: 2021-06-23T00:00:00.000Z
 readTime: 3 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - effective-hiring
   - naukri

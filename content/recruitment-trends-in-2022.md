@@ -7,13 +7,12 @@ excerpt: >-
   struggle to find the top talent with the required skills. Moreover, if the top
   talent isn't recruited by a company timely,...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2022-05-16T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - ai-in-recruitment
   - recruitment-process

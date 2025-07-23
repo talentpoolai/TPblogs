@@ -4,13 +4,12 @@ title: 7 Common Mistakes to Avoid When Using Applicant Tracking System (ATS) Sof
 slug: 7-common-mistakes-to-avoid-when-using-applicant-tracking-system-ats-software
 excerpt: "Did you know that 98.8% of Fortune 500 companies use [ATS software](https://www.thetalentpool.ai/applicant-tracking-software/) to manage their recruitment?\_\_\n\nWell, that’s because hiring top talent t..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2025-05-21T00:00:00.000Z
 readTime: 7 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - applicant-tracking-software
   - ats

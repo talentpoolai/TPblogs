@@ -4,13 +4,12 @@ title: 'Right Skills but, Right Fit?'
 slug: right-skills-but-right-fit
 excerpt: "Recruiters often speak about lack of a good talent pool or poor joining ratios as some of their major pain points. \_On further analysis, we figured that in both cases, candidates look out for more in..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2016-07-18T00:00:00.000Z
 readTime: 8 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: []
 featuredImage: Culture-jpeg-1.jpg
 featured: false

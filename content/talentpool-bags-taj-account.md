@@ -4,13 +4,12 @@ title: Talentpool Bags Taj Account!
 slug: talentpool-bags-taj-account
 excerpt: "> _Talentpool will manage the recruitment process for Taj and enhance candidate experience_\n\n**Pune, May\_25, 2016****:** Talentpool seamlessly integrates with the Taj website to provide a superlative..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpeg
 publishedAt: 2016-05-25T00:00:00.000Z
 readTime: 5 min read
-category: press-release
+category: Press Release
 tags: []
 featuredImage: ''
 featured: false

@@ -7,13 +7,12 @@ excerpt: >-
   2016 in New Delhi. This year the concept is “The Dare Story”. Some of the key
   purposes of this conference are breaking do...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2016-09-09T00:00:00.000Z
 readTime: 3 min read
-category: events
+category: Events
 tags: []
 featuredImage: SHRM-Linkedin-F-1.png
 featured: false

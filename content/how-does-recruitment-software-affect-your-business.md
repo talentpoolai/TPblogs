@@ -7,13 +7,12 @@ excerpt: >-
   their objectives in time. Not having the right people in the team can lead to
   sub-optimal performance and output. This is w...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2022-07-26T00:00:00.000Z
 readTime: 4 min read
-category: recruitment-know-how
+category: Recruitment Know How
 tags: &ref_0
   - recruitment-software
   - recruitment-software-solutions

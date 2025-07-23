@@ -11,13 +11,12 @@ excerpt: >-
   There was a time when automated screening and decision making were viewed as
   impersonal and irrelevant. Today, they serve as an invaluable tool to...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: >-
-    https://www.thetalentpool.ai/wp-content/uploads/2024/10/Poushali-Gangulyimage.webp
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpeg
 publishedAt: 2016-03-28T00:00:00.000Z
 readTime: 3 min read
-category: events
+category: Events
 tags: &ref_0
   - candidate-experience
   - talentpool-webinar
