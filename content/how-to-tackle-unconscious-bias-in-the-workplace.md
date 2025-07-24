@@ -7,9 +7,9 @@ excerpt: >-
   backgrounds, cultures, and experiences come together to achieve common goals.
   While this diversity can bring numerous benefits, it c...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2023-05-05T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

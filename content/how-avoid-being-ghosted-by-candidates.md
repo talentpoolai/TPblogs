@@ -9,9 +9,9 @@ excerpt: >-
 
   A 2021 research report by a leading job portal found that around...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-07-25T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

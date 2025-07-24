@@ -7,9 +7,9 @@ excerpt: >-
   hiring processes. While uncertainties are not in the hands of the company,
   better recruitment processes certainly are and can...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-06-08T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

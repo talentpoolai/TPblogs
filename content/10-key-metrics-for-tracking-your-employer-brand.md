@@ -4,9 +4,9 @@ title: 10 Key Metrics for Tracking Your Employer Brand
 slug: 10-key-metrics-for-tracking-your-employer-brand
 excerpt: "_Do you know that 50% of candidates would not work for a\_[company with a bad reputation, even for a pay increase](https://hrdailyadvisor.blr.com/2019/11/01/better-manage-your-online-reputation-to-att..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2023-08-28T00:00:00.000Z
 readTime: 9 min read
 category: Recruitment Know How

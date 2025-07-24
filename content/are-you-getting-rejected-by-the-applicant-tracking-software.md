@@ -10,9 +10,9 @@ excerpt: >-
 
   A few d...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2020-08-17T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

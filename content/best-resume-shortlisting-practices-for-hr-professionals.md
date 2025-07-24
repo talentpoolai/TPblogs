@@ -10,9 +10,9 @@ excerpt: >-
   **_Did you know that, on average, there are 250 applications for just one
   jo...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2024-02-13T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

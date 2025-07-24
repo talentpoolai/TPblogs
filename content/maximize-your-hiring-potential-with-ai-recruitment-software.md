@@ -7,9 +7,9 @@ excerpt: >-
   seeking ways to stay ahead of the curve. One of the most critical areas where
   innovation is making a substantial impact is...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2024-09-02T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

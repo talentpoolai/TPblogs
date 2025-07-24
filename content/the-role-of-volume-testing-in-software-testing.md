@@ -9,7 +9,7 @@ excerpt: >-
 author:
   name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2022-09-07T00:00:00.000Z
 readTime: 6 min read
 category: Software Development 4

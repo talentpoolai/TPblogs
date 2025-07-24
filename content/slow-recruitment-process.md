@@ -10,9 +10,9 @@ excerpt: >-
 
   Some easily discern...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2020-02-14T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

@@ -9,7 +9,7 @@ excerpt: >-
 author:
   name: Ankita Gupta
   role: Marketing Specialist
-  avatar: /ankita.jpeg
+  avatar: /ankita.jpg
 publishedAt: 2024-10-08T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

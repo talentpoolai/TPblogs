@@ -7,9 +7,9 @@ excerpt: >-
   internship. This is a time to learn new skills, get exposure to a company's
   work culture, and acquire domain experience....
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-08-16T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

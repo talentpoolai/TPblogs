@@ -9,9 +9,9 @@ excerpt: >-
 
   However, it’s harder than ever to find the best...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2022-08-01T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   fewer resources. As hiring is evolving, so is the demand for configurable
   recruitment management software. According to Res...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2025-04-23T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

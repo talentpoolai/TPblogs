@@ -4,9 +4,9 @@ title: Nitman Relaunches As Talentpool!
 slug: nitman-relaunches-as-talentpool
 excerpt: "> _We are excited to introduce you to the newly-designed brand\_image of Talentpool!_\n\nRecruitment has evolved a lot from the time we started our journey back in 2006. From being just software that he..."
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2015-12-03T00:00:00.000Z
 readTime: 4 min read
 category: Press Release

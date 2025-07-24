@@ -12,9 +12,9 @@ excerpt: >-
 
   **_"Where do I post jobs for...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-02-16T00:00:00.000Z
 readTime: 9 min read
 category: Recruitment Know How

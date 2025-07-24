@@ -9,9 +9,9 @@ excerpt: >-
 
   _In fact, a study found that 27% of companies have instituted a hiring...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-01-23T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

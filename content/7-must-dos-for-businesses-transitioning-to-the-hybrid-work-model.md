@@ -7,9 +7,9 @@ excerpt: >-
   hybrid work model. This shift is driven by several factors - a keen interest
   to save on rental space, labor, and utility costs...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-09-29T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

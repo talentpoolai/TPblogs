@@ -7,9 +7,9 @@ excerpt: >-
   perfect candidate. It is equally important to create a positive experience for
   all applicants involved. Creating a positiv...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2024-05-31T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

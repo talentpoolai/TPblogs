@@ -8,9 +8,9 @@ excerpt: >-
   teams](https://www.thetalentpool.ai/blogs/top-6-recruitment-challenges-and-how-to-overcome-them/),
   especially when cont...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-05-26T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   companies/recruiters find new talent with assistance from the existing
   workforce. By offering rewards, incentives, or monetary benefi...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-03-21T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

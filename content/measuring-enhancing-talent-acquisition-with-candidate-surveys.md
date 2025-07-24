@@ -10,9 +10,9 @@ excerpt: >-
   talent.](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors/)
   O...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-07-18T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

@@ -12,9 +12,9 @@ excerpt: >-
   As the demand for top talent is rapidly growing, finding competent individuals
   will likely continue to be a significant recruiting challenge for...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-04-27T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

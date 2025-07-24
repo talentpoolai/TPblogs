@@ -10,9 +10,9 @@ excerpt: >-
 
   Every job position requires different...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2021-01-14T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

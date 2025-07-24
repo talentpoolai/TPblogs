@@ -6,7 +6,7 @@ excerpt: "Did you know that 98.8% of Fortune 500 companies use [ATS software](ht
 author:
   name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2025-05-21T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

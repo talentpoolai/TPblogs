@@ -7,9 +7,9 @@ excerpt: >-
   retaining talent are some of the key priorities for business leaders across
   the globe. While LinkedIn and online job portals h...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2017-07-28T00:00:00.000Z
 readTime: 2 min read
 category: Recruitment Know How

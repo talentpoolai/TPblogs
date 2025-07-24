@@ -7,9 +7,9 @@ excerpt: >-
   [talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors/)
   to fuel their workforce in this modern...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2024-03-28T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

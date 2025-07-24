@@ -10,9 +10,9 @@ excerpt: >-
   Recruiters spend a lot of time finding the right candidate for the job.
   However, most of the time, candid...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-10-18T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

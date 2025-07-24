@@ -7,9 +7,9 @@ excerpt: >-
   seeking ways to stay ahead of the competition. One of the most effective
   strategies to achieve this is by investing in emp...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-04-26T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

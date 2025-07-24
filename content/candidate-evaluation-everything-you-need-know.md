@@ -7,9 +7,9 @@ excerpt: >-
   the right candidate is a critical step in building a successful team and
   driving organisational...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2023-06-29T00:00:00.000Z
 readTime: 9 min read
 category: Recruitment Know How

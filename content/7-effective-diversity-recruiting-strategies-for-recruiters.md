@@ -7,9 +7,9 @@ excerpt: >-
   inclusion in the workplace cannot be overstated. Organisations worldwide are
   recognizing the value of a diverse workforce. N...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-06-19T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

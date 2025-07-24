@@ -10,9 +10,9 @@ excerpt: >-
 
   _So obvious...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-12-14T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

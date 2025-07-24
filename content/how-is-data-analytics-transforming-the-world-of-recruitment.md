@@ -12,9 +12,9 @@ excerpt: >-
 
   **_"Has my offer to join ratio changed only this year or...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-11-25T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

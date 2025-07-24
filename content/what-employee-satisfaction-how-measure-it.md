@@ -8,9 +8,9 @@ excerpt: >-
   is a struggle many organizations are facing more than ever. To tackle this,
   employers need...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-03-30T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

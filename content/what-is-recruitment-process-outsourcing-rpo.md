@@ -7,9 +7,9 @@ excerpt: >-
   volumes](https://www.thetalentpool.ai/blogs/what-is-high-volume-hiring-top-strategies-to-survive-high-volume-hiring/)
   of candidat...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-09-12T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

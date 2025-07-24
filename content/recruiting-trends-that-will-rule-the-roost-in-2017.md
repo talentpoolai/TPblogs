@@ -7,9 +7,9 @@ excerpt: >-
   over the first few months of 2017. Availability of talent and post-offer
   uncertainties are some of the critical challenges...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2017-01-11T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

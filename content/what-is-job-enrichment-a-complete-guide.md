@@ -7,9 +7,9 @@ excerpt: >-
   employees](https://www.oak.com/blog/employee-engagement-statistics/#:~:text=85%25%20Of%20Employees%20Are%20Not,of%20employees%20are%20actively%20engaged.)
   worldwide are dise...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-03-31T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

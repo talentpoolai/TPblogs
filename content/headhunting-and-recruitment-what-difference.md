@@ -12,9 +12,9 @@ excerpt: >-
 
   Understanding the difference between headhunting and recruitment is c...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-12-16T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

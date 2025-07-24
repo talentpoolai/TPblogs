@@ -7,9 +7,9 @@ excerpt: >-
   [resumes](https://www.thetalentpool.ai/resume-management-software/) and
   keeping track of applicants can be overwhelming w...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2024-01-25T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

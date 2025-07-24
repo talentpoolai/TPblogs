@@ -7,9 +7,9 @@ excerpt: >-
   "http://schema.org",<br /> "@type": "BlogPosting",<br /> "mainEntityOfPage":
   {<br /> "@type": "WebPage",<br /> "@id": "https://www.thetalentpoo...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2018-05-07T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

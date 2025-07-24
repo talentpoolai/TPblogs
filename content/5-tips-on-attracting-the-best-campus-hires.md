@@ -7,9 +7,9 @@ excerpt: >-
   _change_? Are you ready to _adapt_ to the needs of your young customers?
   Inevitably, you need to rely on campus recruitmen...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2017-08-28T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

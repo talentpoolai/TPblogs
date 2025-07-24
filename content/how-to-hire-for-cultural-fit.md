@@ -7,9 +7,9 @@ excerpt: >-
   not only have the necessary skills and experience but also align with your
   company's values, beliefs, and way of working....
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2024-03-27T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

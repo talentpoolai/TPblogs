@@ -7,9 +7,9 @@ excerpt: >-
   from being an alternative work model to an essential component of successful
   business operations. For recruiters, unders...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2024-02-05T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

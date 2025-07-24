@@ -7,9 +7,9 @@ excerpt: >-
   recruiters](https://www.adweek.com/performance-marketing/survey-96-of-recruiters-use-social-media-to-find-high-quality-candidates/)_**
   **_globally use social media...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-02-09T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

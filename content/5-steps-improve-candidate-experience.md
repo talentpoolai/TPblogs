@@ -10,9 +10,9 @@ excerpt: >-
   The major ingredient in hiring top talent is creating a recruitment experience
   similar to customer exper...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2021-02-16T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

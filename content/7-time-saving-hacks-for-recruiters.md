@@ -10,9 +10,9 @@ excerpt: >-
 
   Several tasks must be completed duri...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-06-13T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

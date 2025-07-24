@@ -7,9 +7,9 @@ excerpt: >-
   this has been the norm of recruitment for generations to follow. By addressing
   the issue of diversity in hiring, many comp...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-01-24T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

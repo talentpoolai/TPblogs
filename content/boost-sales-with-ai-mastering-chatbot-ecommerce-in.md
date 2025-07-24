@@ -10,9 +10,9 @@ excerpt: >-
   follow the brand voice and sound natural. So make sure that when you are
   creating any kind of...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-08-18T00:00:00.000Z
 readTime: 10 min read
 category: Artificial Intelligence

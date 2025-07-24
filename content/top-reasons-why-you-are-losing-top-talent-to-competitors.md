@@ -9,9 +9,9 @@ excerpt: >-
 
   The job market is getting more competitive than ever...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-01-12T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

@@ -9,9 +9,9 @@ excerpt: >-
 
   Employee promotion serves as a crucial milestone, symbolizing gro...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2023-06-27T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

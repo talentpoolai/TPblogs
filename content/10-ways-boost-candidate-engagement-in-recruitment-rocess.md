@@ -10,9 +10,9 @@ excerpt: >-
   Recruiters are up against a challenge they have not seen in the last couple of
   years. In this s...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-09-05T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   need for more employees to help you in your journey towards growth. It makes
   it essential to remain updated and have a re...
 author:
-  name: Jyoti Shukla
+  name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2023-07-14T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

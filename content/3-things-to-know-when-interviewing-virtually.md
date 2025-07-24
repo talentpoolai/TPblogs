@@ -7,9 +7,9 @@ excerpt: >-
   changing the way recruiters approach hiring. A virtual interview is much like
   an in-person interview, except that it happens rem...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2021-07-21T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   fundamental shift in mindset and approach. It is a recognition that every
   individual within the organization possesses uniqu...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2023-05-12T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

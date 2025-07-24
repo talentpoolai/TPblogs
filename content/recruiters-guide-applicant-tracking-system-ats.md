@@ -9,9 +9,9 @@ excerpt: >-
 
   You need [recruitment technology](https://www.thetalentp...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2023-05-31T00:00:00.000Z
 readTime: 11 min read
 category: Recruitment Know How

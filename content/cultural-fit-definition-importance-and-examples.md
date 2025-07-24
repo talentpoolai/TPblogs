@@ -10,9 +10,9 @@ excerpt: >-
 
   Cultural fit...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2023-09-14T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

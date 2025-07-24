@@ -9,9 +9,9 @@ excerpt: >-
 
   This generation is unique in multiple ways. For instance, the ave...
 author:
-  name: Jyoti Shukla
+  name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2022-08-23T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

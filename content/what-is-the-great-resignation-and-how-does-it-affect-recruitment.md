@@ -7,9 +7,9 @@ excerpt: >-
   some companies were completely shut down, others suffered heavy losses and
   were forced to reduce their staff. Others cha...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-11-15T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

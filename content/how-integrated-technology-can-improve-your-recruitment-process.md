@@ -12,9 +12,9 @@ excerpt: >-
 
   Integrated tec...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2023-05-31T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

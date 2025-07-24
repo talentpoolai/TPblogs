@@ -7,9 +7,9 @@ excerpt: >-
   while maintaining high hiring standards. For most recruiters and talent
   acquisition leaders, the biggest challenge is ma...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2025-07-08T00:00:00.000Z
 readTime: 10 min read
 category: Recruitment Know How

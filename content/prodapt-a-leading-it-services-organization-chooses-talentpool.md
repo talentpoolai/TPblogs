@@ -10,9 +10,9 @@ excerpt: >-
   **Pune, December 7, 2016:** Prodapt, a known name in the software,
   engineering, and...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2016-12-27T00:00:00.000Z
 readTime: 5 min read
 category: Press Release

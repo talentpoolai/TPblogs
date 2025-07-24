@@ -7,9 +7,9 @@ excerpt: >-
   of tactics to fish in the best talent in the market. But do we really have the
   time? Most of us end up using only some of...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2017-03-17T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

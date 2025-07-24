@@ -7,9 +7,9 @@ excerpt: >-
   through piles of paper resumes and relying on word-of-mouth recommendations.
   In 2024, the landscape is more dynamic, drive...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2024-08-28T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

@@ -10,9 +10,9 @@ excerpt: >-
   When the [pandemic hit the world in
   2019](https://www.thetalentpool.ai/blogs/what-is-the-great-resigna...
 author:
-  name: Jyoti Shukla
+  name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2022-12-13T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

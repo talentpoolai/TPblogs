@@ -7,9 +7,9 @@ excerpt: >-
   you have a strategic plan in place to adapt to ever-changing business needs
   while retaining your valuable [talent](https://...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2024-02-06T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

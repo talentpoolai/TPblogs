@@ -10,9 +10,9 @@ excerpt: >-
   industry. Recruitment is all about finding those exceptional individuals who
   have the skills and talent to make a real i...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2024-05-29T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

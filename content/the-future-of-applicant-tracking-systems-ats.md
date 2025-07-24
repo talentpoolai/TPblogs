@@ -7,9 +7,9 @@ excerpt: >-
   systems](https://www.thetalentpool.ai/blogs/recruiters-guide-applicant-tracking-system-ats/)
   (ATS) are essential for recruiters and hiring manage...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2024-08-08T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

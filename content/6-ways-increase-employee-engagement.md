@@ -7,9 +7,9 @@ excerpt: >-
   workplace satisfaction. Employees today want to be truly involved in their
   work and committed to the organization they work fo...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2021-09-06T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

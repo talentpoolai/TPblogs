@@ -7,9 +7,9 @@ excerpt: >-
   production. It is important to use a tool to manage your bugs and defects
   efficiently so that you deliver and maintain a q...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-06-29T00:00:00.000Z
 readTime: 7 min read
 category: Software Development 4

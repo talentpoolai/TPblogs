@@ -10,9 +10,9 @@ excerpt: >-
 
   Keeping your hi...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2024-04-29T00:00:00.000Z
 readTime: 5 min read
 category: Uncategorised

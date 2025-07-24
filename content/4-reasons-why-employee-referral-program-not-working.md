@@ -10,9 +10,9 @@ excerpt: >-
   Job satisfaction, a genuine desire to help people in their networks and their
   company fi...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-09-14T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

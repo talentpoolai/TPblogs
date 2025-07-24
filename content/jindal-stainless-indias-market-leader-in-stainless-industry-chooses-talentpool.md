@@ -12,9 +12,9 @@ excerpt: >-
   **Pune, March 27, 2017:** Jindal Stainless, one of India’s largest stainless
   steel groups...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2017-03-27T00:00:00.000Z
 readTime: 2 min read
 category: Press Release

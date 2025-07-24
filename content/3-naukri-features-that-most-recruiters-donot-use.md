@@ -9,9 +9,9 @@ excerpt: >-
 
   Over the past few years, Naukri has developed and added a...
 author:
-  name: Jyoti Shukla
+  name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2021-06-23T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

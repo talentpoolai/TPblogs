@@ -4,9 +4,9 @@ title: How to Accelerate the Hiring Process Using an Applicant Tracking System?
 slug: how-accelerate-hiring-process-using-applicant-tracking-system
 excerpt: "When it comes to recruiting, time is of paramount importance.\n\n**_A LinkedIn study states that\_top candidates\_are typically off the market in_** **_[10 days](https://www.linkedin.com/pulse/top-100-hi..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2023-01-25T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

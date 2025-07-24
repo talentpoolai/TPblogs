@@ -7,9 +7,9 @@ excerpt: >-
   measured. But, working and measuring each recruitment metric could be a tricky
   and full-time job. As we know most recruiters d...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2023-02-20T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

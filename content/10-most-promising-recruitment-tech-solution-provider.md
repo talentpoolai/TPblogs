@@ -6,9 +6,9 @@ title: >-
 slug: 10-most-promising-recruitment-tech-solution-provider
 excerpt: "> _“Delivering Recruitment Software to Delight Recruiters”_\n\n**Pune,\_January, 2020**: We are happy to announce that Talentpool has been named as one of the “10 Most Promising Recruitment Tech Solutio..."
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2020-02-03T00:00:00.000Z
 readTime: 1 min read
 category: Press Release

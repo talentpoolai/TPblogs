@@ -7,9 +7,9 @@ excerpt: >-
   have? How do you know which of the features are essential while considering
   which applicant tracking software to opt for?...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2017-07-25T00:00:00.000Z
 readTime: 2 min read
 category: Recruitment Know How

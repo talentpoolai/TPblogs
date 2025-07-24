@@ -7,9 +7,9 @@ excerpt: >-
   attention to finer details with senior-level hiring. The [talent
   pool](https://www.thetalentpool.ai/) is often smaller for sta...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2021-08-30T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

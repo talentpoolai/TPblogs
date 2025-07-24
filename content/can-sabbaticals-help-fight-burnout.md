@@ -9,7 +9,7 @@ excerpt: >-
 author:
   name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2023-02-27T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

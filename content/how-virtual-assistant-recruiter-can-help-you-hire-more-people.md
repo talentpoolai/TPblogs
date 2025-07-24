@@ -10,9 +10,9 @@ excerpt: >-
   The urgent need for digitization and confined demand have amplified the need
   for talent...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-09-07T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

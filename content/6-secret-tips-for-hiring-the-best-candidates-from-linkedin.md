@@ -10,9 +10,9 @@ excerpt: >-
 
   Its built-in job search tool and ap...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-05-19T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

@@ -9,7 +9,7 @@ excerpt: >-
 author:
   name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2025-07-22T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

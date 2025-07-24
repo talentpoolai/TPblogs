@@ -7,9 +7,9 @@ excerpt: >-
   top candidates off the market in as little as 10 days, recruiters cannot
   afford slow, disorganised hiring processes. Yet,...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2025-07-01T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

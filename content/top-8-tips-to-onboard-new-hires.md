@@ -9,9 +9,9 @@ excerpt: >-
 
   Initial two to three months make an impression in a new job which is cri...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-10-13T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

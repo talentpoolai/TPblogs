@@ -7,9 +7,9 @@ excerpt: >-
   have to close in two weeks. That is probably the biggest challenge recruiters
   are facing these days. Manually sorting thr...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2025-05-12T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

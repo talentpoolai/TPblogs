@@ -7,9 +7,9 @@ excerpt: >-
   difficult. Assessments are an easy way to sift out better applicants. They
   help recruiters narrow down the large pool of candidate...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2022-06-21T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

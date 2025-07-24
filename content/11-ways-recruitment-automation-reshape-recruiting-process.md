@@ -7,9 +7,9 @@ excerpt: >-
   better than others in the industry. It won't be wrong to say that a talented
   workforce is a real advantage that any compa...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-09-01T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

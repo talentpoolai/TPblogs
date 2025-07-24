@@ -7,9 +7,9 @@ excerpt: >-
   behind our emotional, material and survival exchanges. Our instincts, choices
   and relationships spring out of confidence in...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2017-08-16T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

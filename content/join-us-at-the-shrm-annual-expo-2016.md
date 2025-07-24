@@ -9,7 +9,7 @@ excerpt: >-
 author:
   name: Ankita Gupta
   role: Marketing Specialist
-  avatar: /ankita.jpeg
+  avatar: /ankita.jpg
 publishedAt: 2016-09-09T00:00:00.000Z
 readTime: 3 min read
 category: Events

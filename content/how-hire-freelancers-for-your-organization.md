@@ -7,9 +7,9 @@ excerpt: >-
   several firms have started recruiting freelancers. Freelancers are not
   committed for the long-term to your company and are...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2021-11-23T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

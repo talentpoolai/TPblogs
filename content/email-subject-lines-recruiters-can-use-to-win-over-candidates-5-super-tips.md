@@ -9,9 +9,9 @@ excerpt: >-
 
   _However, a well-crafted email subject line can increase open rates by...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2023-10-27T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

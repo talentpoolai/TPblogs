@@ -7,9 +7,9 @@ excerpt: >-
   can make or break your recruitment outcomes. Modern recruiters are not just
   looking for more resumes but looking for better...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2025-07-10T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

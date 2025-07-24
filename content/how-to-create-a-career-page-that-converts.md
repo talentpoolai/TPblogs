@@ -7,9 +7,9 @@ excerpt: >-
   online](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post/)
   to advertise job openings. But this does not mean that...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2023-03-16T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

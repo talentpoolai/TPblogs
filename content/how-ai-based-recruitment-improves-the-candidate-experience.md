@@ -7,9 +7,9 @@ excerpt: >-
   poor applicant experience. To effectively attract high-quality applicants,
   recruiters and HR teams must leave a positive i...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2025-07-15T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

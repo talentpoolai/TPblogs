@@ -10,9 +10,9 @@ excerpt: >-
 
   In a small team, even a single employee can have a...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2025-02-04T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

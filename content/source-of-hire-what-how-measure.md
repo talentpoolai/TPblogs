@@ -7,9 +7,9 @@ excerpt: >-
   success. You also know that it can be challenging to find the best candidates
   for your organisation.To achieve this, it is cruci...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-07-12T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

@@ -10,9 +10,9 @@ excerpt: >-
   before. Be it a recruiter who has to manage several tasks simultaneously or a
   hiring manager who needs to ensure that the fe...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2025-06-23T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

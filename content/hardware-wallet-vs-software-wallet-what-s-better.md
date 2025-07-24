@@ -13,9 +13,9 @@ excerpt: >-
 
   - [What you need to know about multimodal language models](#t...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-06-30T00:00:00.000Z
 readTime: 7 min read
 category: Fintech 5

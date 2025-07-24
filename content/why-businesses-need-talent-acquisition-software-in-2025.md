@@ -7,9 +7,9 @@ excerpt: >-
   turning more competitive than ever, candidates have higher expectations, and
   businesses can not afford to take their time wi...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2025-05-14T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

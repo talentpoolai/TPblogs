@@ -10,9 +10,9 @@ excerpt: >-
   This is because your [job
   description](https://www.thetalentpool.ai/blogs/wh...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-11-23T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

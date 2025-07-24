@@ -9,9 +9,9 @@ excerpt: >-
 
   However, the onboarding process of new hires i...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-09-19T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

@@ -11,9 +11,9 @@ excerpt: >-
 
   2. **Hire** via soc...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2018-01-15T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

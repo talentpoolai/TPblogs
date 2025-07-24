@@ -4,9 +4,9 @@ title: 'Choosing the Right ATS: Key Features to Look For in 2025'
 slug: choosing-the-right-ats-key-features-to-look-for-in-2025
 excerpt: "Did you know that 94% of recruiters say that using an ATS has accelerated their hiring process?\_\n\nWith the job market becoming increasingly competitive, businesses cannot afford to rely on outdated r..."
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2025-05-26T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

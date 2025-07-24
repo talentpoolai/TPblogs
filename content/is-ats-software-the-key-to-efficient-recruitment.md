@@ -7,9 +7,9 @@ excerpt: >-
   interviews, and keeping candidates engaged is a complicated process that
   frequently leaves hiring teams stretched thin. That...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2024-11-19T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

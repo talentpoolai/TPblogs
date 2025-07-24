@@ -7,9 +7,9 @@ excerpt: >-
   your company and prepared extensively and is eager to make an impression.
   However, his excitement fades when he encounters...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2025-01-15T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

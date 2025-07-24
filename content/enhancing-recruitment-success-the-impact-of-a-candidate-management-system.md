@@ -7,9 +7,9 @@ excerpt: >-
   with the rapid evolution of business and technology, the challenge has only
   intensified. Gone are the days when sifting thr...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2024-11-19T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

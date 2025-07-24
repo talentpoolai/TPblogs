@@ -7,9 +7,9 @@ excerpt: >-
   the right talent to boost the company’s growth. To successfully do this, they
   depend on multiple staffing and recruitment...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-07-27T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

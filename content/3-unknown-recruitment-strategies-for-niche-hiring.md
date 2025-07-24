@@ -7,9 +7,9 @@ excerpt: >-
   niche hiring. A small candidate pool that's extremely rich in skill-set is a
   more desirable situation. However, conducti...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2021-03-09T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

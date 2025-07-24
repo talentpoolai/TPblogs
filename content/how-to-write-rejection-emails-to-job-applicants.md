@@ -10,9 +10,9 @@ excerpt: >-
   _Each corporate job posting attracts approximately_ 250 resumes_. Out of
   these, four...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-12-29T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

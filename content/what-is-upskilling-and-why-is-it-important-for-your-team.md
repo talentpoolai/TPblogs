@@ -7,9 +7,9 @@ excerpt: >-
   stage. With the government pouring resources into upskilling initiatives,
   there’s a clear signal for India’s workforce: it’s...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2025-02-25T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   changed. The widespread adoption of video conferencing platforms has made
   conducting video interviews more viable and conveni...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2023-03-24T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

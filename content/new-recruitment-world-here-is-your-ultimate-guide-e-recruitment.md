@@ -7,9 +7,9 @@ excerpt: >-
   is not a walk in the park. In fact, finding the ideal candidate today is more
   difficult than it was in the past...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-03-23T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

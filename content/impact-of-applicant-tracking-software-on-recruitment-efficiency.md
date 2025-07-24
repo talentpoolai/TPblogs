@@ -7,9 +7,9 @@ excerpt: >-
   efficiency in the recruitment process has become paramount. With the
   increasing demand for top-notch talent in competitive marke...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2024-01-12T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

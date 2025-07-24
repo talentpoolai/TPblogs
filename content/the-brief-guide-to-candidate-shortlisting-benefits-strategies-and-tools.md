@@ -7,9 +7,9 @@ excerpt: >-
   posting](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post/),
   and the applications are pouring in. You are receiving many strong candi...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-06-20T00:00:00.000Z
 readTime: 9 min read
 category: Recruitment Know How

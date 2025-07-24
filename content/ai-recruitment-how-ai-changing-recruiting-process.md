@@ -7,9 +7,9 @@ excerpt: >-
   companies are looking to leverage AI to improve their business operations.
   Some companies have already been using AI for recruiti...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-05-10T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

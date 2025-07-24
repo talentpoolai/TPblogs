@@ -10,9 +10,9 @@ excerpt: >-
   The metaverse offers virtually endless opportunities for businesses in a
   varie...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2023-02-01T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

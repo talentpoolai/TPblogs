@@ -9,9 +9,9 @@ excerpt: >-
   You need to find the best candidate among hundreds of applications, make sure
   they are a good fit for your company, and do all this within a...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2024-05-27T00:00:00.000Z
 readTime: 5 min read
 category: Artificial Intelligence

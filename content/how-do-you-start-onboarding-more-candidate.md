@@ -4,9 +4,9 @@ title: How do you start onboarding more candidates?
 slug: how-do-you-start-onboarding-more-candidate
 excerpt: "The probability of hiring the right candidate also increases when you have a seamless onboarding process. Let’s delve deeper into how you can get joiners fast in today’s dynamic corporate world.\_\n\n<!..."
 author:
-  name: Jyoti Shukla
+  name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2021-12-14T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

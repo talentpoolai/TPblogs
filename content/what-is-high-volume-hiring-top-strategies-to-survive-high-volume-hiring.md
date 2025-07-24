@@ -7,9 +7,9 @@ excerpt: >-
   are assigned the task of hiring hundreds to thousands of top candidates
   instead of filling your normal quota. And that t...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2023-03-28T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

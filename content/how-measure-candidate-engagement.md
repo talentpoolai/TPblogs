@@ -10,9 +10,9 @@ excerpt: >-
   Are you curious about whether your recruitment process keeps them engaged or
   if they lose interest along the way?...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2023-09-04T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   [recruiter](https://www.thetalentpool.ai/blogs/7-time-saving-hacks-for-recruiters/)
   just will not cut it anymore. To thrive in this dyn...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2023-09-13T00:00:00.000Z
 readTime: 8 min read
 category: Recruitment Know How

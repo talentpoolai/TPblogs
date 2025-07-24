@@ -7,9 +7,9 @@ excerpt: >-
   find the right candidates and almost sell the job opportunity. Recruiters,
   therefore, should ideally know the USPs of thei...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2020-11-17T00:00:00.000Z
 readTime: 3 min read
 category: Recruiter Toolkit

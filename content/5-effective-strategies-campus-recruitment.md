@@ -7,9 +7,9 @@ excerpt: >-
   before they graduate from their respective colleges. Most freshers believe
   that campus placements are their best chance of sec...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-03-16T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

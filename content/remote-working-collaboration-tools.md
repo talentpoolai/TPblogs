@@ -7,9 +7,9 @@ excerpt: >-
   you still hiring more remote employees in the existing team? Covid-19 has
   brought forth a lot of challenges for every or...
 author:
-  name: Jyoti Shukla
+  name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  avatar: /namrata.jpg
 publishedAt: 2020-10-21T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

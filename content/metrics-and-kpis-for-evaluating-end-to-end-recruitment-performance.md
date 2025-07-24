@@ -7,9 +7,9 @@ excerpt: >-
   "Recruitment metrics ")are crucial to your recruitment firm. They allow you to
   assess your agency's performance and iden...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2024-09-10T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

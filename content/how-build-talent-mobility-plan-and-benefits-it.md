@@ -7,9 +7,9 @@ excerpt: >-
   competitor or start their own business. One of them is the lack of growth
   opportunities and career progression within a compan...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-10-07T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

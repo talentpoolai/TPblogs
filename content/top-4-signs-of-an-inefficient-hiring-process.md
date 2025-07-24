@@ -7,9 +7,9 @@ excerpt: >-
   healthy pipeline to figuring out if the interview panel is selected and ready
   for the upcoming interviews and then managing...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2018-01-05T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

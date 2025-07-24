@@ -7,9 +7,9 @@ excerpt: >-
   decade. Organizations have escaped the need for change. But now, an online
   recruiting software is a “must-have” in every HR...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2017-04-13T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   gathered some of the biggest names of the India Inc. Internationally-renowned
   speakers offered fresh points of view and inspir...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2016-10-27T00:00:00.000Z
 readTime: 1 min read
 category: Events

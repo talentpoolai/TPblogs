@@ -9,9 +9,9 @@ excerpt: >-
 
   A recent poll conducted by the Society for...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2024-04-22T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

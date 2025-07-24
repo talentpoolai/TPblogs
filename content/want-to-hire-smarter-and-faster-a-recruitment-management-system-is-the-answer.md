@@ -7,9 +7,9 @@ excerpt: >-
   efficiently. Yet, many businesses still struggle with slow, inefficient hiring
   processes that drain resources and leave recruiters...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  avatar: /jyoti.jpg
 publishedAt: 2025-05-16T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

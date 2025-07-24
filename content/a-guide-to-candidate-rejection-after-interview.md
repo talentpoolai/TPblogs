@@ -7,9 +7,9 @@ excerpt: >-
   candidate shapes your [employer
   branding](https://www.thetalentpool.ai/blogs/10-key-metrics-for-tracking-your-employer-br...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2024-02-09T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

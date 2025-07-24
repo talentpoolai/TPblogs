@@ -9,9 +9,9 @@ excerpt: >-
   as one of the 20 Best Recruiting Software of 2023 by SoftwareSuggest. This
   recognition highlights Talentpool’s commitment...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2023-08-25T00:00:00.000Z
 readTime: 3 min read
 category: Press Release

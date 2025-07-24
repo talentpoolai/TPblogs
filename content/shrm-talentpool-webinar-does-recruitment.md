@@ -11,9 +11,9 @@ excerpt: >-
   There was a time when automated screening and decision making were viewed as
   impersonal and irrelevant. Today, they serve as an invaluable tool to...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2016-03-28T00:00:00.000Z
 readTime: 3 min read
 category: Events

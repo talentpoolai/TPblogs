@@ -10,9 +10,9 @@ excerpt: >-
   But at the same time, HR recruiters may feel overwhelmed as they have to sift
   thr...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-11-03T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

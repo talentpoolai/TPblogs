@@ -10,9 +10,9 @@ excerpt: >-
   practice in every business domain. The recruitment sector is no exception.
   While countless trends have come and gone, ar...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2025-06-30T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

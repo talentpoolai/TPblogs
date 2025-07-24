@@ -7,9 +7,9 @@ excerpt: >-
   Having a rich talent database will render futile if it does not get you
   quality candidates in lesser time. **Root Cause:**...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2017-05-05T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

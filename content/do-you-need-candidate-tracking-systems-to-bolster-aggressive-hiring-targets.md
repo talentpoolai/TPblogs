@@ -7,9 +7,9 @@ excerpt: >-
   a significant challenge for many organizations. To meet these demands,
   companies are increasingly turning to candidate tr...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2024-06-06T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

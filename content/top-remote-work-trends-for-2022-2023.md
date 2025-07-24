@@ -10,9 +10,9 @@ excerpt: >-
 
   Even as thing...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-12-12T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

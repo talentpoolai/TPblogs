@@ -10,9 +10,9 @@ excerpt: >-
   One approach to this process is to invite candidates for an asynchronous
   interview, also k...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-10-03T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

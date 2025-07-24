@@ -8,9 +8,9 @@ excerpt: >-
   that any recruiter faces is finding suitable talent for the job opening. Even
   if you g...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2023-01-06T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

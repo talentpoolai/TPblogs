@@ -9,9 +9,9 @@ excerpt: >-
 
   Hiring decisions have significant implications for busin...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpeg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2023-05-29T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

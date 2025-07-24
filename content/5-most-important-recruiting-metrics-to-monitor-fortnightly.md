@@ -7,9 +7,9 @@ excerpt: >-
   a strategic pillar of business growth. With increasing pressure to improve
   recruitment efficiency and outcomes, TA leader...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpeg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2025-07-17T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How
