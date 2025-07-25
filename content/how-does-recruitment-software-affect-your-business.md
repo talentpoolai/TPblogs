@@ -7,9 +7,9 @@ excerpt: >-
   their objectives in time. Not having the right people in the team can lead to
   sub-optimal performance and output. This is w...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-07-26T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

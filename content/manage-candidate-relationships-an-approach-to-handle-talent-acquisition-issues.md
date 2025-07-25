@@ -9,9 +9,9 @@ excerpt: >-
   an entirely new area, which I had not ventured out before. I could observe,
   the various working styles of recruiters, in...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2018-02-26T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

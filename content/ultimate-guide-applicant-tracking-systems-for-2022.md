@@ -10,9 +10,9 @@ excerpt: >-
 
   Recruiters have to...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-03-28T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

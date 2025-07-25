@@ -7,9 +7,9 @@ excerpt: >-
   world. Many businesses had come to a standstill. However, as the dust begins
   to settle, we realize that this could be the...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpg
+  avatar: /jyoti.jpg
 publishedAt: 2020-05-15T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

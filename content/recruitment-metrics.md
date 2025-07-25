@@ -7,9 +7,9 @@ excerpt: >-
   organization's top management. They are also referred to as the company's
   firefighters as they help battle all the major and minor...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-06-06T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

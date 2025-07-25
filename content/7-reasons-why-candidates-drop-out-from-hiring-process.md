@@ -7,9 +7,9 @@ excerpt: >-
   communicate on time? Besides communication, various obstacles in the hiring
   process might force a candidate to drop out. If...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-03-25T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

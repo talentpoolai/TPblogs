@@ -7,9 +7,9 @@ excerpt: >-
   building a community and networking with others in the field. This network
   allows you to remain updated about the latest in the...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-02-14T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

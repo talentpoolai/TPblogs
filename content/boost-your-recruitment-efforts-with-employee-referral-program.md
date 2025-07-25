@@ -7,9 +7,9 @@ excerpt: >-
   best talent, you are probably aware of how hard it is to find that perfect fit
   for your team. Every firm wants its emplo...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2021-03-24T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

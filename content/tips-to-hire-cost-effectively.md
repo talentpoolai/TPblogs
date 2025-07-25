@@ -11,9 +11,9 @@ excerpt: >-
 
   2. **Hire** via soc...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2018-01-15T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

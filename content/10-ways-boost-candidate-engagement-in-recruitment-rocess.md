@@ -10,9 +10,9 @@ excerpt: >-
   Recruiters are up against a challenge they have not seen in the last couple of
   years. In this s...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-09-05T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

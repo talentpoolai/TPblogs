@@ -10,9 +10,9 @@ excerpt: >-
   The major ingredient in hiring top talent is creating a recruitment experience
   similar to customer exper...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpg
+  avatar: /jyoti.jpg
 publishedAt: 2021-02-16T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

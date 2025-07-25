@@ -10,9 +10,9 @@ excerpt: >-
 
   Every job position requires different...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2021-01-14T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

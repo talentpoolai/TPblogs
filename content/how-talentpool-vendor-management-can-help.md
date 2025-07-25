@@ -7,9 +7,9 @@ excerpt: >-
   the right talent to boost the company’s growth. To successfully do this, they
   depend on multiple staffing and recruitment...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-07-27T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

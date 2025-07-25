@@ -10,9 +10,9 @@ excerpt: >-
 
   A few d...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2020-08-17T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

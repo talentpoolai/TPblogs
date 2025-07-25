@@ -9,9 +9,9 @@ excerpt: >-
 
   A 2021 research report by a leading job portal found that around...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-07-25T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

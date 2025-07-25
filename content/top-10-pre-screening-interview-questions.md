@@ -10,9 +10,9 @@ excerpt: >-
 
   A crucia...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-04-29T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

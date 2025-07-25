@@ -7,9 +7,9 @@ excerpt: >-
   recruit international talent. A lot changes among people based on their
   geographical location, which is why you should know wha...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-01-11T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

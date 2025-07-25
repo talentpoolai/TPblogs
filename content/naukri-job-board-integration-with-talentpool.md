@@ -4,9 +4,9 @@ title: Naukri Job Board Integration with Talentpool
 slug: naukri-job-board-integration-with-talentpool
 excerpt: "We are pleased to announce that Talentpool has partnered with Naukri to bring you the publish feature. Now you can publish your open positions to Naukri, right from Talentpool. \_\n\nEnable Naukri integ..."
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2021-06-15T00:00:00.000Z
 readTime: 2 min read
 category: Recruitment Know How

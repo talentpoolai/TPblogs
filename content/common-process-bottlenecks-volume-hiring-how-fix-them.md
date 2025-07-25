@@ -9,9 +9,9 @@ excerpt: >-
   Organizations often blame the market conditions for shortcomings in their
   hiring process. For example, they might think...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-05-11T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

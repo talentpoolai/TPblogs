@@ -10,9 +10,9 @@ excerpt: >-
 
   - Are you facing visibility...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2020-09-25T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

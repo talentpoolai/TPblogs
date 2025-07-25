@@ -7,9 +7,9 @@ excerpt: >-
   struggle to find the top talent with the required skills. Moreover, if the top
   talent isn't recruited by a company timely,...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-05-16T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

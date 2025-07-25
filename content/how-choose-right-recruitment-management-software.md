@@ -7,9 +7,9 @@ excerpt: >-
   a recruiter to automate and streamline their hiring process. It also helps
   manage the complete end-to-end recruitment pro...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-03-31T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

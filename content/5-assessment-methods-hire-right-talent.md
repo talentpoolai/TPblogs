@@ -7,9 +7,9 @@ excerpt: >-
   are efficient and have the same qualifications, relevant work experience. How
   does one know who the ideal candidate is?...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-01-31T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   potential candidate. These ads must provide all the necessary information to
   applicants looking for a job. Similarly, th...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-06-23T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

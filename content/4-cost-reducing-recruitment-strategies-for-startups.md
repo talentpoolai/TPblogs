@@ -7,9 +7,9 @@ excerpt: >-
   have just started their business might not have ample funds. Most of the fund
   collected by an entrepreneur goes into est...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-07-11T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

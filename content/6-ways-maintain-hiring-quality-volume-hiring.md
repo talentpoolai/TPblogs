@@ -7,9 +7,9 @@ excerpt: >-
   candidates in a defined time period. Hiring quality candidates at a large
   scale is not a cakewalk to the recruitment team...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-02-21T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

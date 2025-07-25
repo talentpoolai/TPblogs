@@ -7,9 +7,9 @@ excerpt: >-
   second! Your recruiters are part of the same workforce. Ensuring that your
   recruitment process runs seamlessly without a hitc...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2018-01-18T00:00:00.000Z
 readTime: 2 min read
 category: Uncategorised

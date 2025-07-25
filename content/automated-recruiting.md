@@ -7,9 +7,9 @@ excerpt: >-
   high churning. As per a
   [report](https://www.michaelpage.co.in/about-us/media-releases/86-indias-professionals-seek-new-jobs...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-08-10T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   Recently, the WFH culture gained immense popularity due to the COVID-19
   pandemic. Since organizations were not operating du...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2021-12-07T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

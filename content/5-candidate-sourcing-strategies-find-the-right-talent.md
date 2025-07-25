@@ -7,9 +7,9 @@ excerpt: >-
   to create a talent pipeline for job openings in the present and future. But
   candidates won't always apply for your open j...
 author:
-  name: Jyoti Shukla
+  name: Namrata Gupta
   role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  avatar: /namrata.jpg
 publishedAt: 2022-06-30T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

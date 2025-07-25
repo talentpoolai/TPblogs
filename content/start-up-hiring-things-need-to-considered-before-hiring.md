@@ -7,9 +7,9 @@ excerpt: >-
   years? The 10% that do succeed must be performing things differently. One of
   the factors that can get you into that 10% club...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpg
+  avatar: /jyoti.jpg
 publishedAt: 2021-10-18T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

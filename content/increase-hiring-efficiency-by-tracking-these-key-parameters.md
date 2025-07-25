@@ -9,9 +9,9 @@ excerpt: >-
 
   As more and more employees are quitting and competitors are making agg...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-08-11T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

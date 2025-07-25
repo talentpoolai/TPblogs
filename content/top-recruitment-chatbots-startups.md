@@ -10,9 +10,9 @@ excerpt: >-
   changed the game. Keep track of your KPIs to measure your candidates'
   experience and the...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-09-05T00:00:00.000Z
 readTime: 9 min read
 category: Artificial Intelligence

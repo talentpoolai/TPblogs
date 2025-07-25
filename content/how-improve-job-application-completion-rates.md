@@ -7,9 +7,9 @@ excerpt: >-
   rate is as low as 10.60%. This means more users today fail to reach the end of
   an application process, and businesses could...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-05-13T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

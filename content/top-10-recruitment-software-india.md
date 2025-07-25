@@ -7,9 +7,9 @@ excerpt: >-
   Using software and applications, one can complete tasks faster, save time, cut
   costs and enhance the efficiency of workflows....
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2022-04-27T00:00:00.000Z
 readTime: 7 min read
 category: Recruitment Know How

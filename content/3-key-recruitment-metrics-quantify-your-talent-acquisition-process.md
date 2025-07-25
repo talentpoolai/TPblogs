@@ -7,9 +7,9 @@ excerpt: >-
   acquisition industry to improve the efficiency of their internal processes
   while measuring success simultaneously. The recru...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2021-01-22T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   companies/recruiters find new talent with assistance from the existing
   workforce. By offering rewards, incentives, or monetary benefi...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-03-21T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

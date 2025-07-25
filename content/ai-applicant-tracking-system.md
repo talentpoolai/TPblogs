@@ -10,9 +10,9 @@ excerpt: >-
   Perhaps sourcing, the initial screening, assessment and then providing
   predictive analytics whi...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2019-12-23T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

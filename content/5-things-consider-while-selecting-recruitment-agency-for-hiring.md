@@ -7,9 +7,9 @@ excerpt: >-
   organization. By partnering with a recruitment agency, companies can save
   costs incurred in the recruitment of employees. However...
 author:
-  name: Sanchita Paul
-  role: Marketing Communication Specialist
-  avatar: /sanchita.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2022-01-18T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

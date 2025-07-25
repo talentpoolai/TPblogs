@@ -7,9 +7,9 @@ excerpt: >-
   affected by a bad hire. That only strengthens the fact that bringing in the
   wrong person for a job can have a huge impact...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2021-01-27T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How

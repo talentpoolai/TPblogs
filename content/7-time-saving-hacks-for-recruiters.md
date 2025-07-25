@@ -10,9 +10,9 @@ excerpt: >-
 
   Several tasks must be completed duri...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Poushali Ganguly
+  role: Business Head
+  avatar: /poushali.png
 publishedAt: 2022-06-13T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

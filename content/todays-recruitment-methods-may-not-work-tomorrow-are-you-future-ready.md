@@ -7,9 +7,9 @@ excerpt: >-
   "http://schema.org",<br /> "@type": "BlogPosting",<br /> "mainEntityOfPage":
   {<br /> "@type": "WebPage",<br /> "@id": "https://www.thetalentpoo...
 author:
-  name: Namrata Gupta
+  name: Jyoti Shukla
   role: Senior Sales Manager
-  avatar: /namrata.jpg
+  avatar: /jyoti.jpg
 publishedAt: 2018-05-07T00:00:00.000Z
 readTime: 6 min read
 category: Recruitment Know How

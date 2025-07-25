@@ -7,9 +7,9 @@ excerpt: >-
   companies are looking to leverage AI to improve their business operations.
   Some companies have already been using AI for recruiti...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Jyoti Shukla
+  role: Senior Sales Manager
+  avatar: /jyoti.jpg
 publishedAt: 2022-05-10T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

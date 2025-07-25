@@ -7,9 +7,9 @@ excerpt: >-
   aren't satisfied at their current workplace? Employee satisfaction is more
   important than ever in this competitive era. You...
 author:
-  name: Namrata Gupta
-  role: Senior Sales Manager
-  avatar: /namrata.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2022-02-08T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

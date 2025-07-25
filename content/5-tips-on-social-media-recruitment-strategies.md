@@ -9,9 +9,9 @@ excerpt: >-
 
   A recent survey states that 85% of recruiters said social me...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2021-09-22T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

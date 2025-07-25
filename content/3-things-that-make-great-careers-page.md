@@ -7,9 +7,9 @@ excerpt: >-
   careers page encapsulates your organization’s story. It is a potent means to
   **inform, influence, and inspire**. It forges...
 author:
-  name: Ankita Gupta
-  role: Marketing Specialist
-  avatar: /ankita.jpg
+  name: Sanchita Paul
+  role: Marketing Communication Specialist
+  avatar: /sanchita.png
 publishedAt: 2021-04-19T00:00:00.000Z
 readTime: 4 min read
 category: Recruitment Know How

@@ -7,9 +7,9 @@ excerpt: >-
   interview bias. Most interview biases are involuntary- unconscious one might
   say. As an interviewer it is one's duty to recru...
 author:
-  name: Jyoti Shukla
-  role: Senior Sales Manager
-  avatar: /jyoti.jpg
+  name: Ankita Gupta
+  role: Marketing Specialist
+  avatar: /ankita.jpg
 publishedAt: 2020-03-17T00:00:00.000Z
 readTime: 5 min read
 category: Recruitment Know How

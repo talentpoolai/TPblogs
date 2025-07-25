@@ -7,9 +7,9 @@ excerpt: >-
   organization. You cannot afford to lose the best talent to some other company
   or your competitors due to a lag or recrui...
 author:
-  name: Poushali Ganguly
-  role: Business Head
-  avatar: /poushali.png
+  name: Namrata Gupta
+  role: Senior Sales Manager
+  avatar: /namrata.jpg
 publishedAt: 2020-06-12T00:00:00.000Z
 readTime: 3 min read
 category: Recruitment Know How
