@@ -1,0 +1,20 @@
+# .github/workflows/notify-website-dev.yml
+name: Notify website (dev)
+
+on:
+  push:
+    branches: [ dev ]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to website/dev
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_TOKEN }} # PAT with Actions: RW on website repo
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/talentpoolai/your-website-repo/dispatches \
+            -d '{"event_type":"tpblogs-updated-dev","client_payload":{"ref":"dev"}}'
