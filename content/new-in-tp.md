@@ -21,7 +21,7 @@ seo:
   keywords: *ref_0
 ---
 
-**What’s New in Talentpool? July 2025 Feature Updates**
+**What’s New in Talentpool? July 2025 Feature**
 
 Recruiters don’t need more tools. They need a simplified, clutter-free system that channelizes their workflow in a better way.
 
