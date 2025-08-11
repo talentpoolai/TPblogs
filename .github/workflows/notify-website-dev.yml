@@ -1,6 +1,10 @@
 # .github/workflows/notify-website-dev.yml
 name: Notify website (dev)
 
+concurrency:
+  group: tpblogs-dispatch
+  cancel-in-progress: true 
+  
 on:
   push:
     branches: [ main ]
