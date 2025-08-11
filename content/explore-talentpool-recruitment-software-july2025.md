@@ -13,7 +13,7 @@ readTime: ""
 category: Feature Release
 tags: &ref_0
 
-featuredImage: images/explore-talentpool-recruitment-software-july2025-LWpwaA.png
+featuredImage: explore-talentpool-recruitment-software-july2025-LWpwaA.png
 featured: false
 seo:
   metaTitle: ""
