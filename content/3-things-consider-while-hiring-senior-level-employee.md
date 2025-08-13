@@ -5,7 +5,7 @@ slug: 3-things-consider-while-hiring-senior-level-employee
 excerpt: >-
   Every company is seasoned to hire freshers. However, there is a need for
   attention to finer details with senior-level hiring. The [talent
-  pool](https://www.thetalentpool.ai/) is often smaller for sta...
+  pool](https://www.thetalentpool.ai) is often smaller for sta...
 author:
   name: Poushali Ganguly
   role: Business Head
@@ -22,11 +22,11 @@ seo:
   metaDescription: >-
     Every company is seasoned to hire freshers. However, there is a need for
     attention to finer details with senior-level hiring. The [talent
-    pool](https://www.thetalentpool.ai/) is often smaller for sta...
+    pool](https://www.thetalentpool.ai) is often smaller for sta...
   keywords: *ref_0
 ---
 
-Every company is seasoned to hire freshers. However, there is a need for attention to finer details with senior-level hiring. The [talent pool](https://www.thetalentpool.ai/) is often smaller for starters, and they expect professionalism and processes of a much higher gradient. 
+Every company is seasoned to hire freshers. However, there is a need for attention to finer details with senior-level hiring. The [talent pool](https://www.thetalentpool.ai) is often smaller for starters, and they expect professionalism and processes of a much higher gradient. 
 
 It’s essential to get everyone on the **same page** before recruiting. All the decision-makers must come from the same school of thought. It’s critical to define precisely what characteristics, roles, and responsibilities they are looking forward to delegate. 
 
@@ -38,7 +38,7 @@ Here are three of the most critical aspects to consider while hiring a senior-le
 
 A hiring process comes riddled with overheads of its own. It’s not viable for the company to constantly spend time, effort, and workforce all year long, especially with senior-level positions. 
 
-For the above reason, it’s important to **[justify the cost of hiring](https://www.thetalentpool.ai/blogs/tips-to-hire-cost-effectively/)**. The person should seem to commit to the company in the long run. We can also gauge this quality by understanding their resilience in past roles.
+For the above reason, it’s important to **[justify the cost of hiring](https://www.thetalentpool.ai/blogs/tips-to-hire-cost-effectively)**. The person should seem to commit to the company in the long run. We can also gauge this quality by understanding their resilience in past roles.
 
 They must also align with the **vision and the mission** of the establishment. This factor becomes all the more critical when higher-up on the chain of command. Outside of the resume, they must also remain a **cultural fit** to the company. Joining at a senior level comes with the challenges of adapting to a new working environment.
 

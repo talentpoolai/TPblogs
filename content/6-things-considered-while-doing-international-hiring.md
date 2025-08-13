@@ -47,7 +47,7 @@ There's no compulsion that you need to visit a foreign country in order to recru
 
 You can use job-sharing digital channels to kickstart the international hiring process. Social media sites like LinkedIn and Twitter can help you recruit global talent. By leveraging the power of hiring channels, you can also slash recruitment costs.
 
-Not all candidates search for a job role actively. For example, many passive candidates not applying for an open job role do possess the skills needed for the job. Passive candidates are usually already recruited by some other employer. However, it has been observed that passive candidates search for job opportunities on several freelancing websites/platforms. You can use such freelancing websites to enhance your international [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process/).
+Not all candidates search for a job role actively. For example, many passive candidates not applying for an open job role do possess the skills needed for the job. Passive candidates are usually already recruited by some other employer. However, it has been observed that passive candidates search for job opportunities on several freelancing websites/platforms. You can use such freelancing websites to enhance your international [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process).
 
 There are multiple freelancing websites where passive candidates are looking for opportunities, one can start communicating through these channels
 

@@ -68,7 +68,7 @@ To make this process easier, you can head to the connection tab and filter conne
 
 The Apply Starter feature is an incredible way to enhance the number of applications you receive. It is a plugin added to your career site that enables candidates to present their LinkedIn profiles to the recruiter before they begin the application process. This occurs via the Past Applicants Spotlight. 
 
-Such an archive also allows the creation of a better pipeline for further recruiting. Another advantage of the Apply Starter feature is giving recruiters the ability to directly connect with job applicants who started the [application process](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process/).
+Such an archive also allows the creation of a better pipeline for further recruiting. Another advantage of the Apply Starter feature is giving recruiters the ability to directly connect with job applicants who started the [application process](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process).
 
 ## 4\. Analyze Candidates' Profiles 
 
@@ -81,7 +81,7 @@ When you have more than 150 million active profiles and thousands of job seekers
 
 ## 5\. Start Using LinkedIn Talent Hub
 
-LinkedIn Talent Hub is an [applicant tracking system](https://www.thetalentpool.ai/) integrated into the platform. This tool makes it straightforward to source, manage, and acquire talent - all from a single dashboard. 
+LinkedIn Talent Hub is an [applicant tracking system](https://www.thetalentpool.ai) integrated into the platform. This tool makes it straightforward to source, manage, and acquire talent - all from a single dashboard. 
 
 LTH helps you post a job directly and help notify relevant candidates. All applicants remain on the same page, making hiring faster and easier.
 

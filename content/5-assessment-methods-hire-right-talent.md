@@ -37,7 +37,7 @@ Furthermore, based on a 2019 LinkedIn report, close to 57% of recruiting profess
 
 ## Advantage of Assessment Methods to Hire
 
-So, is this process of assessment-based [recruitment efficient](https://www.thetalentpool.ai/blogs/time-hire-all-recruiters-need-know-about-recruitment-metric/)? Here are some [advantages](https://www.thetalentpool.ai/recruitment-management-software-benefits/) to this approach.
+So, is this process of assessment-based [recruitment efficient](https://www.thetalentpool.ai/blogs/time-hire-all-recruiters-need-know-about-recruitment-metric)? Here are some [advantages](https://www.thetalentpool.ai/recruitment-management-software-benefits) to this approach.
 
 - The hiring process remains purely based on skills and merit, and this will eliminate the chances of a weak candidate snatching a position based on references. 
 
@@ -47,7 +47,7 @@ So, is this process of assessment-based [recruitment efficient](https://www.thet
 
 - By basing the hiring process majority on the assessment, the company can eliminate biases based on race, gender, income groups, etc. 
 
-- This process of assessments is a massive time-and-money-saver in the case of mass [recruitment](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring/) drives. Most recruiters use such tests as a first filter to eliminate irrelevant candidate. 
+- This process of assessments is a massive time-and-money-saver in the case of mass [recruitment](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring) drives. Most recruiters use such tests as a first filter to eliminate irrelevant candidate. 
 
 ## 5 Assessment Methods For Any Company
 

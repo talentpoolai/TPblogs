@@ -47,7 +47,7 @@ A well-written job description represents multiple factors, from company culture
 
 ## **Why job description need to look different?**
 
-To stand out in the competitive market and establish a better candidate experience, the job description and its representation play an important role. A poorly written [job description](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions/) could attract unqualified candidate applications, adding to the recruiter’s task of scouting through scores of applications but not finding the suitable one.
+To stand out in the competitive market and establish a better candidate experience, the job description and its representation play an important role. A poorly written [job description](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions) could attract unqualified candidate applications, adding to the recruiter’s task of scouting through scores of applications but not finding the suitable one.
 
 ## **How do you get to the right job description for any role?**
 

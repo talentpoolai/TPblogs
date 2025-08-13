@@ -36,9 +36,9 @@ seo:
 
 **Applying regularly for jobs every day but are not receiving interview calls? Is there something wrong from your end or from the employer's end? Well it's all because of the ATS, perhaps!**
 
-A few days back, I spotted a trending conversation on LinkedIn about how candidates are getting rejected by the [applicant tracking software](https://www.thetalentpool.ai/blogs/ai-applicant-tracking-system/) based on some algorithms or rules.
+A few days back, I spotted a trending conversation on LinkedIn about how candidates are getting rejected by the [applicant tracking software](https://www.thetalentpool.ai/blogs/ai-applicant-tracking-system) based on some algorithms or rules.
 
-Now that reminded me of conversations that we at [Talentpool](https://www.thetalentpool.ai/) often have with our prospects. Many organizations ask us for features that will block irrelevant candidates.
+Now that reminded me of conversations that we at [Talentpool](https://www.thetalentpool.ai) often have with our prospects. Many organizations ask us for features that will block irrelevant candidates.
 
 Having had worked with recruiters, we understand that relevance can be defined in more ways than one and it is dependent on the nature of the position that you are working on.
 
@@ -52,7 +52,7 @@ You can certainly add the following shortlisting or parsing criteria if your rel
 
 Not only are these straight forward, these are also those attributes that hardly change with time.  Add these to your website application forms to receive applications only from those candidates who can potentially be evaluated – short term or long term!
 
-The moot question then remains that how does a [recruitment software](https://www.thetalentpool.ai/blogs/recruiting-software/) help recruiters reach the right candidates faster.
+The moot question then remains that how does a [recruitment software](https://www.thetalentpool.ai/blogs/recruiting-software) help recruiters reach the right candidates faster.
 
 - Ensuring that the candidate data is at one single place
 - Providing search filters and flags to get to the most relevant candidates

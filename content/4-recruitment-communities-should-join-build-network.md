@@ -31,7 +31,7 @@ Working in silos has never helped anyone. The only way to thrive is by building 
 
 <!--more-->
 
-So, what are [recruitment](https://www.thetalentpool.ai/) communities? These are networks of human resource associates and recruiters. These groups typically host seminars, the network for the latest HR tech, run discussions on recruiting and HR management practices, and much more.
+So, what are [recruitment](https://www.thetalentpool.ai) communities? These are networks of human resource associates and recruiters. These groups typically host seminars, the network for the latest HR tech, run discussions on recruiting and HR management practices, and much more.
 
 ## The 4 Most Talked About Communities for Recruitment
 
@@ -56,7 +56,7 @@ This community is a perfect match for HRs looking to build a network, stay ahead
 
 ### **How to Join** 
 
-This is a paid membership with a vast host of advantages and starts at $219 a year for a professional and works out to be cheaper for a whole company. This cost includes all the network [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits/) without any filtrations, and one can quickly fill out a form and register online.
+This is a paid membership with a vast host of advantages and starts at $219 a year for a professional and works out to be cheaper for a whole company. This cost includes all the network [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits) without any filtrations, and one can quickly fill out a form and register online.
 
 ## 2\. The Human Capital Institue (HCI) 
 
@@ -87,7 +87,7 @@ The HRAI or the HR Association of India is a region-specific channel that has ea
 - Provide awards and distinctions to those who do exemplary work. 
 - Hold discussions on best practices for recruiting and management. 
 - Focus on providing learning opportunities for the overall development of human resource management. 
-- Host regular seminars and networking events to help connect the [community](https://www.thetalentpool.ai/blogs/4-recruitment-communities-should-join-build-network/) with a focus on upskilling.
+- Host regular seminars and networking events to help connect the [community](https://www.thetalentpool.ai/blogs/4-recruitment-communities-should-join-build-network) with a focus on upskilling.
 
 ### **How to Join** 
 

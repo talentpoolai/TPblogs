@@ -66,7 +66,7 @@ The formatting of your JD can also improve readability. For example, using bulle
 
 Nearly 51% of respondents claim they would find an ad with images more appealing than one without them. This shows the need for design in job ads. Reading just long paragraphs of monotonous text can make your ad less attractive. 
 
-Design based on your audience. Do not pick templates that fail to meet your brand image. Use colors, fonts, and designs to attract your type of [application](https://www.thetalentpool.ai/blogs/how-improve-job-application-completion-rates/) and represent your company's culture and branding.
+Design based on your audience. Do not pick templates that fail to meet your brand image. Use colors, fonts, and designs to attract your type of [application](https://www.thetalentpool.ai/blogs/how-improve-job-application-completion-rates) and represent your company's culture and branding.
 
 For example, a legacy brand might avoid using playful colors, while a young brand could use pop-cultural approaches. 
 
@@ -84,7 +84,7 @@ If not on the ad itself, have these details available elsewhere. For example, me
 
 Using a hiring tool or recruitment software can also make job ads easier to create. Additionally, they help speed up the process, track applicants, and make hiring more efficient. 
 
-Most [hiring software](https://www.thetalentpool.ai/) comes with job ad templates designed for better results. Thus, it's impossible to miss out on details and easier to publish across platforms. They also help maintain consistency. 
+Most [hiring software](https://www.thetalentpool.ai) comes with job ad templates designed for better results. Thus, it's impossible to miss out on details and easier to publish across platforms. They also help maintain consistency. 
 
 Lastly, such software provides ad performance, reach, and conversion rate statistics. This data can enable companies to create better ads in future attempts and save costs in the long run. 
 

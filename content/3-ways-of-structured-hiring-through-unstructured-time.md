@@ -53,7 +53,7 @@ Recruitment teams deal with massive data pointers and information around organiz
 
 interviewers, requisitioners, recruiters, HR managers, vendors, and employees. Delay at any point leads to a cumulative impact on the hiring TAT. So, it becomes very important and necessary to introduce a single platform for everybody to work together.
 
-At every stage of the [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process/), **communication plays a vital role**. Each interaction is important from the perspective of moving the process forward. Getting all interactions recorded in a single repository is critical to streamlining the data management.
+At every stage of the [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process), **communication plays a vital role**. Each interaction is important from the perspective of moving the process forward. Getting all interactions recorded in a single repository is critical to streamlining the data management.
 
 The other important piece in hiring is the seamless [recruitment workflow](https://www.thetalentpool.ai/recruitment-management-software-features.html) that needs to be managed without any manual intervention. This ensures that there are minimal funnel leakages. This also helps in real time visibility of each and every candidate in the present in the hiring process.
 

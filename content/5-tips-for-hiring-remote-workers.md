@@ -69,7 +69,7 @@ The video should clearly showcase your company's work culture and what it would 
 
 ## **4\. Offer a Virtual Job Try-Out**
 
-If you want to gauge people's [remote working](https://www.thetalentpool.ai/blogs/5-remote-working-mistakes-should-avoid/) skills and how much attention they give while working on a project. So, it is important to assign a virtual pre-hiring assignment to check the candidates’ capabilities.
+If you want to gauge people's [remote working](https://www.thetalentpool.ai/blogs/5-remote-working-mistakes-should-avoid) skills and how much attention they give while working on a project. So, it is important to assign a virtual pre-hiring assignment to check the candidates’ capabilities.
 
 You need to set strict guidelines and deadlines, which, in the end, help you identify the best talent and get them on board to work for the betterment of your company. 
 
@@ -81,7 +81,7 @@ For example, an applicant with long-term work experience in one particular compa
 
 ## **Final Take**
 
-Remote working is here to stay. A decade ago, [remote working](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools/) was not even an option due to the lack of available technology to support it.
+Remote working is here to stay. A decade ago, [remote working](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools) was not even an option due to the lack of available technology to support it.
 
 Post-pandemic, with the advancements in the technological front worldwide, companies are shifting their work culture by allowing remote work on certain days of the week.
 
@@ -89,6 +89,6 @@ However, it is being predicted that many companies, especially those in the IT s
 
 Remote working, as simple and convenient as it may sound, calls for an entirely different approach when it comes to hiring the right candidate for the respective posts.
 
-Following the above guidelines and partnering with platforms like [Talentpool](https://www.thetalentpool.ai/) that design special tailor-made software for recruitment processes can make your journey easier and get you the most deserving candidate for the job. 
+Following the above guidelines and partnering with platforms like [Talentpool](https://www.thetalentpool.ai) that design special tailor-made software for recruitment processes can make your journey easier and get you the most deserving candidate for the job. 
 
 ![hiring-remote](images/hiring-remote-scaled-1-1-1024x536.jpg)

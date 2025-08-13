@@ -77,7 +77,7 @@ As the tax is paid at the source, it reduces the possibility of tax evasion. As 
 
 The Payment of Bonus Act, 1965, applies to every factory or establishment that employs more than 20 persons.
 
-The law regulates the bonus paid in such establishments depending on profit and [productivity](https://www.thetalentpool.ai/blogs/increase-hiring-efficiency-by-tracking-these-key-parameters/). It mandates giving bonuses to all employees who receive salaries or wages up to INR 20,000 per month.
+The law regulates the bonus paid in such establishments depending on profit and [productivity](https://www.thetalentpool.ai/blogs/increase-hiring-efficiency-by-tracking-these-key-parameters). It mandates giving bonuses to all employees who receive salaries or wages up to INR 20,000 per month.
 
 It also calls for the distribution of bonuses to all employees who have spent at least 30 days working in a year.
 
@@ -105,7 +105,7 @@ Every country has payroll-related rules and regulations to protect the rights of
 
 In India, apart from the Provident Fund Act and the Minimum Wages Act, 1948, there are other laws such as the Payment of Wages Act, 1936, Amendments to Maternity Benefits Act, 1961, and some taxation rules.
 
-Non-compliance to these can lead to jail time and hefty fines. Thus, ensuring employee [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits/) and payroll compliance in any organization is extremely important.
+Non-compliance to these can lead to jail time and hefty fines. Thus, ensuring employee [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits) and payroll compliance in any organization is extremely important.
 
 ## Conclusion
 

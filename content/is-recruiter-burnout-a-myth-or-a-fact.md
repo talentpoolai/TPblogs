@@ -86,11 +86,11 @@ A well-designed talent acquisition software gives recruiters a centralized, real
 
 ### **AI-Powered Shortlisting**
 
-The best applicant tracking systems for recruiters, like Talentpool, use AI to automatically rank resumes by relevance and suggest whether a candidate should be shortlisted, saving hours every week. In fact, [AI recruiting](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025/) can reduce manual screening effort by up to 75%.
+The best applicant tracking systems for recruiters, like Talentpool, use AI to automatically rank resumes by relevance and suggest whether a candidate should be shortlisted, saving hours every week. In fact, [AI recruiting](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025) can reduce manual screening effort by up to 75%.
 
 ### **Built-in Collaboration**
 
-Instead of emailing hiring managers for feedback or manually updating interview scores, a good [ATS](https://www.thetalentpool.ai/blogs/choosing-the-right-ats-key-features-to-look-for-in-2025/) automates it all, sending reminders, tracking input, etc.
+Instead of emailing hiring managers for feedback or manually updating interview scores, a good [ATS](https://www.thetalentpool.ai/blogs/choosing-the-right-ats-key-features-to-look-for-in-2025) automates it all, sending reminders, tracking input, etc.
 
 ### **Interview Scheduling Done Right**
 
@@ -100,7 +100,7 @@ Get a talent acquisition software that integrates with Google or Microsoft Calen
 
 Recruiters can visually track every candidate’s movement, like who needs attention, who is stuck, and who is ready for an offer in one place. This kind of clarity is invaluable when you manage 10+ open positions.
 
-Choose a top applicant tracking system for recruiters built around the pain points recruiters and hiring teams face every day. With Talentpool's role-based modules, every stakeholder gets to manage only the work they are responsible for. It is an AI-first [recruitment management software](https://www.thetalentpool.ai/blogs/the-ultimate-guide-to-selecting-the-right-recruitment-software/) that ensures recruiters, hiring managers, and HRs can increase productivity and get ROI with the help of the latest technology.
+Choose a top applicant tracking system for recruiters built around the pain points recruiters and hiring teams face every day. With Talentpool's role-based modules, every stakeholder gets to manage only the work they are responsible for. It is an AI-first [recruitment management software](https://www.thetalentpool.ai/blogs/the-ultimate-guide-to-selecting-the-right-recruitment-software) that ensures recruiters, hiring managers, and HRs can increase productivity and get ROI with the help of the latest technology.
 
 ## **Final Thought: It is Time We Talk About It**
 

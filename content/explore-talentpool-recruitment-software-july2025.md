@@ -27,7 +27,7 @@ Recruiters don’t need more tools. They need a simplified, clutter-free system 
 
 If you've ever waited three days for feedback from a panelist, struggled with multiple tabs just to check how a job looks on your careers page, or had to escalate to IT for something as simple as deactivating a user, this update is for you.
 
-Talentpool [Recruitment Software](https://www.thetalentpool.ai/)’s July 2025 release focuses on removing the blockers that silently slow down enterprise hiring. Let’s walk you through what’s new and how they can help you streamline your workflow.
+Talentpool [Recruitment Software](https://www.thetalentpool.ai)’s July 2025 release focuses on removing the blockers that silently slow down enterprise hiring. Let’s walk you through what’s new and how they can help you streamline your workflow.
 
 **Total Access Control with SSO Integration**
 
@@ -74,4 +74,4 @@ When hiring velocity and quality are both critical, your applicant tracking soft
 
 If you're upgrading your recruitment tech or exploring new recruitment software, now is the perfect time to see Talentpool in action.
 
-Schedule a [demo](https://www.thetalentpool.ai/recruitment-software/?utm_source=google&utm_medium=cpc&utm_campaign=Savit_tp_search_10th_july&utm_term=Recruitment_Software&utm_content=ad3&utm_campaign=TP_Search_10th_July%2723&adgroupid=147953691101&utm_content=665222855886&utm_term=recruitment%20software&utm_source=google&utm_medium=cpc&gad_source=1&gad_campaignid=20357671870&gbraid=0AAAAADpeGwdIWpK1xPEVSYgSkWfMWX5DB&gclid=Cj0KCQjwndHEBhDVARIsAGh0g3BN4XbEwPvZrm7aCkvJVVLWh5ubaMv1DaSr-hz-kNgL6CoOn9uu8EYaAlAxEALw_wcB) today and discover how we can help your team move faster, stay secure, and hire smarter.
+Schedule a [demo](https://www.thetalentpool.ai/recruitment-software?utm_source=google&utm_medium=cpc&utm_campaign=Savit_tp_search_10th_july&utm_term=Recruitment_Software&utm_content=ad3&utm_campaign=TP_Search_10th_July%2723&adgroupid=147953691101&utm_content=665222855886&utm_term=recruitment%20software&utm_source=google&utm_medium=cpc&gad_source=1&gad_campaignid=20357671870&gbraid=0AAAAADpeGwdIWpK1xPEVSYgSkWfMWX5DB&gclid=Cj0KCQjwndHEBhDVARIsAGh0g3BN4XbEwPvZrm7aCkvJVVLWh5ubaMv1DaSr-hz-kNgL6CoOn9uu8EYaAlAxEALw_wcB) today and discover how we can help your team move faster, stay secure, and hire smarter.

@@ -36,7 +36,7 @@ seo:
 
 So, you posted a job online and received a lot of interesting applications. But after a few weeks, you only have a few candidates who are interested in moving forward with their applications.
 
-It may also happen that the selected candidates do not show up for the scheduled [interview.](https://www.thetalentpool.ai/interview-management-software/) Or they may also back out at the last moment before the joining date.
+It may also happen that the selected candidates do not show up for the scheduled [interview.](https://www.thetalentpool.ai/interview-management-software) Or they may also back out at the last moment before the joining date.
 
 <!--more-->
 
@@ -46,13 +46,13 @@ This is because there are many candidates who begin your evaluation process but,
 
 HR professionals across industries are facing this challenge and are looking for ways to curb the applicant dropout rate.
 
-Understanding the reason behind the dropouts helps recruiters understand exactly what they need to change in their [end-to-end recruitment process.](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/)
+Understanding the reason behind the dropouts helps recruiters understand exactly what they need to change in their [end-to-end recruitment process.](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle)
 
 In this blog, we will discuss milestones where you could potentially lose candidates and some tips to help you reduce the candidate drop-off rate in your organization.
 
 ## 1\. **Avoid Using Jargon in the Job Posting**
 
-Have you ever seen a [job description](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions/) that was so full of jargon that it sounded like it was written by a robot? That approach just does not resonate with potential candidates. Ensure you have a clear and well-defined job description that enlists what the candidate is expected to do on the job. List down all the necessary skills and qualifications required for the role, along with the experience that the candidate needs to have. Use the job description to set clear expectations and attract qualified candidates.
+Have you ever seen a [job description](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions) that was so full of jargon that it sounded like it was written by a robot? That approach just does not resonate with potential candidates. Ensure you have a clear and well-defined job description that enlists what the candidate is expected to do on the job. List down all the necessary skills and qualifications required for the role, along with the experience that the candidate needs to have. Use the job description to set clear expectations and attract qualified candidates.
 
 Secondly, talk about the organizational culture and the team they will be working with.
 
@@ -66,7 +66,7 @@ Long, repetitive, and confusing forms can frustrate the candidate, and they will
 
 _A study by Sullivan reports that in Fortune 500 firms, 9 out of 10 potential applicants drop out because they encounter a frustrating application process._
 
-To convert more candidates, ask questions pertaining to information that will help you filter the candidates. Questions that help you assess the quality of your candidature can also be asked later if the candidate meets your shortlisting criteria. You can also integrate with platforms like [LinkedIn](https://www.thetalentpool.ai/blogs/6-secret-tips-for-hiring-the-best-candidates-from-linkedin/), where filtering happens right before the application is accepted.
+To convert more candidates, ask questions pertaining to information that will help you filter the candidates. Questions that help you assess the quality of your candidature can also be asked later if the candidate meets your shortlisting criteria. You can also integrate with platforms like [LinkedIn](https://www.thetalentpool.ai/blogs/6-secret-tips-for-hiring-the-best-candidates-from-linkedin), where filtering happens right before the application is accepted.
 
 Also, recruitment teams can make it easy to apply from mobile and offer desktop resume parsing functionality to make the application process less time-consuming.
 
@@ -74,13 +74,13 @@ The job application you post is the candidate’s first interaction with your co
 
 ## **Keep a Casual Conversation During Interviews**
 
-When conducting an [interview](https://www.thetalentpool.ai/blogs/3-things-to-know-when-interviewing-virtually/), you must ensure that the individuals are comfortable and relaxed. This helps you assess the true potential of the candidate. Oftentimes, candidates get flustered and are not able to bring their best to the interview table.
+When conducting an [interview](https://www.thetalentpool.ai/blogs/3-things-to-know-when-interviewing-virtually), you must ensure that the individuals are comfortable and relaxed. This helps you assess the true potential of the candidate. Oftentimes, candidates get flustered and are not able to bring their best to the interview table.
 
 When asking the questions, interact with the applicants, making it look like a normal conversation. Another crucial thing is to provide candidates with feedback at the end of the interview. This will make a favorable impression on them, encouraging them to continue with the process.
 
 ## **Collect Candidate Feedback**
 
-You manage the [hiring process](https://www.thetalentpool.ai/blogs/6-onboarding-metrics-most-important-in-hiring-process/) for hundreds of candidates. Why not ask them about their experience? Surveying candidates to understand what is working and what is not is one of the best ways to identify improvement areas in your recruitment process.
+You manage the [hiring process](https://www.thetalentpool.ai/blogs/6-onboarding-metrics-most-important-in-hiring-process) for hundreds of candidates. Why not ask them about their experience? Surveying candidates to understand what is working and what is not is one of the best ways to identify improvement areas in your recruitment process.
 
 Allow candidates to rate their experience with your company by sharing a short survey at the end of the hiring process. Examine the comments to see where you are offering a pleasant experience and where you need to refocus in order to reduce candidate drop-off.
 
@@ -90,7 +90,7 @@ Pre-onboarding strategy is designed for the time between the offer and the candi
 
 A solid pre-onboarding plan can help generate a sense of belonging even before they start. This contributes significantly to the reduction of the candidate dropout rate.
 
-Plan your [communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication/) to include regular updates on company happenings with the prospective joiner.
+Plan your [communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication) to include regular updates on company happenings with the prospective joiner.
 
 Create some interesting activities like sharing team or employee success stories, a visit to the office, a check-in call before the joining date, calling or emailing about what they can expect on the first day, whom they will meet, details of the office layout, and more.
 
@@ -106,9 +106,9 @@ Share with applicants how they can get answers to commonly asked questions via F
 
 The main cause of candidate drop-out is a lengthy hiring process. Research suggests making hiring decisions within 10 days to avoid losing candidates to a competitor. Since the top talent is being pursued by several firms, they are likely to have one or more offers within 10 days.
 
-Companies can fast-track their recruitment process using an [applicant tracking system](https://www.thetalentpool.ai/applicant-tracking-software/) (ATS). It will help you standardize the entire recruitment process by eliminating the repetitive, mundane tasks that recruiters have to perform every day.
+Companies can fast-track their recruitment process using an [applicant tracking system](https://www.thetalentpool.ai/applicant-tracking-software) (ATS). It will help you standardize the entire recruitment process by eliminating the repetitive, mundane tasks that recruiters have to perform every day.
 
-[Automating your recruitment process](https://www.thetalentpool.ai/blogs/all-you-need-to-know-about-automation-technology-in-recruitment/) begins with job posting and applicant tracking and extends all the way through hiring. Automation technologies help keep top talent engaged throughout the whole process, from candidate sourcing to background checks.
+[Automating your recruitment process](https://www.thetalentpool.ai/blogs/all-you-need-to-know-about-automation-technology-in-recruitment) begins with job posting and applicant tracking and extends all the way through hiring. Automation technologies help keep top talent engaged throughout the whole process, from candidate sourcing to background checks.
 
 ## **Conclusion**
 

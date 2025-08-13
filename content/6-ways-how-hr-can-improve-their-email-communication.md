@@ -37,7 +37,7 @@ When recruiting new talent into an establishment, this email communication becom
 
 ### **01\. Ensure Brevity**
 
-Rule number one of any piece of information content: **“keep it short and sweet.”** Lengthy emails with irreverent information become counterproductive to the communication [process](https://www.thetalentpool.ai/blogs/slow-recruitment-process/). Break your email into bullet points in your mind and only articulate them precisely.
+Rule number one of any piece of information content: **“keep it short and sweet.”** Lengthy emails with irreverent information become counterproductive to the communication [process](https://www.thetalentpool.ai/blogs/slow-recruitment-process). Break your email into bullet points in your mind and only articulate them precisely.
 
 If you must share additional information that would compromise the brevity of your emails, you can use hyperlinks and attachments. This is typically information that is already available elsewhere or not as important.
 
@@ -53,7 +53,7 @@ The three most **essential pieces of information** that make a good email for ca
 
 The main body of your mail must remain fueled by information. Clear all the doubts of the candidate without violating brevity. **Use links and references here to keep your messaging concise**. 
 
-Additionally, the mail should crescendo to the primary objective of the [communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication/) towards its end.
+Additionally, the mail should crescendo to the primary objective of the [communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication) towards its end.
 
 ### **03\. Explains The Next Step Clearly**
 

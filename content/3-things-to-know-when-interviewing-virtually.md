@@ -76,6 +76,6 @@ Also, during the interview participants need to be mindful of their movements. M
 
 ### **Conclusion**
 
-A recruitment management software can help you manage the logistics before or after an interview. Our integration-ready [recruitment software](https://www.thetalentpool.ai/recruitment-management-software-benefits.html) can help you excel in the task by providing you access to real-time analytics and actionable insights. Check [Talentpool](https://www.thetalentpool.ai/recruitment-management-software-benefits/) for staying updated with the latest trends in recruitment.
+A recruitment management software can help you manage the logistics before or after an interview. Our integration-ready [recruitment software](https://www.thetalentpool.ai/recruitment-management-software-benefits.html) can help you excel in the task by providing you access to real-time analytics and actionable insights. Check [Talentpool](https://www.thetalentpool.ai/recruitment-management-software-benefits) for staying updated with the latest trends in recruitment.
 
 ![virtual-interview](images/virtual-inteview-2-1-1024x683.jpg)

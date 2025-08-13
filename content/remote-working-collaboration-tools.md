@@ -53,7 +53,7 @@ Study shows that a recruiter ends up wasting almost 50-60% of their time every d
 - Data safety and security
 - Document sharing and storing
 
-Yes, there are more effective tools for each and every challenge faced in [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process/), but is it advisable to go with multiple tools to get the solution?
+Yes, there are more effective tools for each and every challenge faced in [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process), but is it advisable to go with multiple tools to get the solution?
 
 ## **Let’s look at the problems associated with using multiple collaborative tools.**
 

@@ -55,17 +55,17 @@ HR analytics offers many benefits compared to the traditional recruitment model.
 
 The advantages of using analytics in hiring are numerous and can completely change a company's approach to sourcing fresh talent. It allows a firm to spend resources, time, and effort more efficiently. Moreover, it also helps hiring managers attract the best individuals for their organization through measurable metrics and properly extracted data.
 
-Let’s look at why it is high time to adopt data analytics in your [end-to-end recruitment process:](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/)
+Let’s look at why it is high time to adopt data analytics in your [end-to-end recruitment process:](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle)
 
 ## 1\. **Determining Hiring Criteria**
 
-The first step in any [recruitment process](https://www.thetalentpool.ai/blogs/10-ways-boost-candidate-engagement-in-recruitment-rocess/) involves defining the ideal candidate and identifying what skills, education, and experience are required for that open position. Data analytics helps companies improve their candidates’ understanding by providing a deeper insight into what they are looking for.
+The first step in any [recruitment process](https://www.thetalentpool.ai/blogs/10-ways-boost-candidate-engagement-in-recruitment-rocess) involves defining the ideal candidate and identifying what skills, education, and experience are required for that open position. Data analytics helps companies improve their candidates’ understanding by providing a deeper insight into what they are looking for.
 
 Data analytics provide benchmarking metrics for the company. HR can understand the hard and soft skills necessary for the job opening by looking at top-performing past hires. They can use this data model to establish appropriate qualifying and evaluation criteria for the job applicants.
 
 ## 2\. **Analysing Source Effectiveness**
 
-Next is the [sourcing stage](https://www.thetalentpool.ai/blogs/5-candidate-sourcing-strategies-find-the-right-talent/). Here, companies look for both active and passive candidates. Hence, they use a mix of various recruitment channels, including head-hunters, online job portals, social media campaigns, etc. As a recruitment manager, you need to understand which channels give the best return on investment. So, you'll know where to put your energy, money, and time.
+Next is the [sourcing stage](https://www.thetalentpool.ai/blogs/5-candidate-sourcing-strategies-find-the-right-talent). Here, companies look for both active and passive candidates. Hence, they use a mix of various recruitment channels, including head-hunters, online job portals, social media campaigns, etc. As a recruitment manager, you need to understand which channels give the best return on investment. So, you'll know where to put your energy, money, and time.
 
 With data analytics in recruitment, it is possible to test various hiring sources and evaluate their success rates with more precision. By evaluating indicators like the number of responses received through each channel and the number of job offers sent to candidates through a specific channel, you can evaluate the effectiveness of every hiring source. You can also check the conversion ratio of individuals per role and use those channels to carry out further recruitment.
 
@@ -75,7 +75,7 @@ Gone are the days when recruitment was dependent on the "hunch of the employer."
 
 Usually, HR professionals have to look through a large number of resumes to determine which candidates are qualified. But with data and analytics, you create a data model that helps you match candidates and pick the ones that have the highest chances of selection.
 
-Data analytics tools like the [ATS software](https://www.thetalentpool.ai/applicant-tracking-software/) search through candidates' profiles to help better gauge a candidate’s suitability. Of course, the final decision will be made by a human, but with data, you can save plenty of time by narrowing your search from hundreds of candidates to the most suitable ones. The saved time can be used by the hiring team to focus on other important tasks.
+Data analytics tools like the [ATS software](https://www.thetalentpool.ai/applicant-tracking-software) search through candidates' profiles to help better gauge a candidate’s suitability. Of course, the final decision will be made by a human, but with data, you can save plenty of time by narrowing your search from hundreds of candidates to the most suitable ones. The saved time can be used by the hiring team to focus on other important tasks.
 
 ## 4\. **Assessing the Likelihood of Joining**
 
@@ -97,7 +97,7 @@ Understanding your workforce is crucial to building an engaging team that serves
 
 HR professionals can obtain a better understanding of the overall employee experience by tracking metrics such as employee attendance, leaves, engagement, and productivity on a regular basis. This offers them an idea of where the organization stands and where it might need improvement.
 
-It not only helps them devise strategies to keep their employees engaged but also develops a stronger [employer brand.](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand/)
+It not only helps them devise strategies to keep their employees engaged but also develops a stronger [employer brand.](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand)
 
 For instance, it can help you determine how well the image that your organization projects align with the perceptions of the workforce. For example, a survey can be conducted to see how likely the employees are to recommend the company t o others and the reasons for low recommendations.
 

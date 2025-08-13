@@ -43,7 +43,7 @@ Here are some of the challenges experienced by candidates in completing the appl
 
 One of the most common problems candidates face is lengthy and time-consuming forms. Some applications take too long to fill, leaving the candidate demotivated to reach the end of the process. In some cases, applications might also be considered boring and repetitive. 
 
-Many forms often contain irrelevant questions that are of no use in the [recruitment process](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process/). For example, many applications fail to incorporate the essential aspects of the job role and stick to generic information. This also leads to the collection of data that is unusable. 
+Many forms often contain irrelevant questions that are of no use in the [recruitment process](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process). For example, many applications fail to incorporate the essential aspects of the job role and stick to generic information. This also leads to the collection of data that is unusable. 
 
 ### An un-mobile-friendly application
 
@@ -91,7 +91,7 @@ Further, allow users to save and return to the application form and complete it 
 
 As mentioned earlier, a one-size-fits-all solution will not work with hiring. Ensure you tailor-make your forms and assessment processes for each and every role.  
 
-Today, some hiring platforms provide real-time updates and [automation systems](https://www.thetalentpool.ai/) that can help shortlist candidates easier. The same is helpful with sending feedback, scheduling interviews, follow-ups, and rejections. 
+Today, some hiring platforms provide real-time updates and [automation systems](https://www.thetalentpool.ai) that can help shortlist candidates easier. The same is helpful with sending feedback, scheduling interviews, follow-ups, and rejections. 
 
 ### 5\. Add employer branding elements
 

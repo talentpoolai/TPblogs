@@ -31,7 +31,7 @@ seo:
 
 As the job market becomes more and more talent-driven, speed and efficiency can make or break your recruitment outcomes. Modern recruiters are not just looking for more resumes but looking for better tools to move faster, collaborate smarter, and reduce dependency on external teams or systems. 
 
-That is why we are excited to announce two powerful updates in Talentpool’s [recruitment software](https://www.thetalentpool.ai/) this June. These new capabilities are designed to help your team hire faster, collaborate better, and manage the recruitment pipeline seamlessly without extra IT help, third-party vendor dependency, or complex workarounds. 
+That is why we are excited to announce two powerful updates in Talentpool’s [recruitment software](https://www.thetalentpool.ai) this June. These new capabilities are designed to help your team hire faster, collaborate better, and manage the recruitment pipeline seamlessly without extra IT help, third-party vendor dependency, or complex workarounds. 
 
 Let’s explore what is new! 
 
@@ -41,7 +41,7 @@ Every great candidate journey begins with a great first impression: your career 
 
 A branded career page does not just look professional, but also boosts conversion rates and attracts high-quality applicants who resonate with your culture. And yet, creating or updating a career page is often delayed by back-and-forth with IT teams, branding approvals, or the need to coordinate with third-party vendors. Not anymore.  
 
-By integrating this capability into the recruitment software, you can cut delays and build better [candidate experiences](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips/) right from the start. 
+By integrating this capability into the recruitment software, you can cut delays and build better [candidate experiences](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips) right from the start. 
 
 ### **What’s New:** 
 
@@ -65,7 +65,7 @@ No need to go after internal IT teams. No waiting weeks for deployment. 
 
 Pre-employment assessments are a critical part of identifying top talent, but struggling between platforms can slow things down. 
 
-Switching between assessment tools and [applicant tracking systems](https://www.thetalentpool.ai/blogs/7-common-mistakes-to-avoid-when-using-applicant-tracking-system-ats-software/) (ATS) not only consumes time but also leads to data silos and communication gaps. With this new feature, recruiters and hiring managers can streamline candidate evaluation without losing context or momentum. 
+Switching between assessment tools and [applicant tracking systems](https://www.thetalentpool.ai/blogs/7-common-mistakes-to-avoid-when-using-applicant-tracking-system-ats-software) (ATS) not only consumes time but also leads to data silos and communication gaps. With this new feature, recruiters and hiring managers can streamline candidate evaluation without losing context or momentum. 
 
 ### **What’s New:** 
 
@@ -77,7 +77,7 @@ With our MeritTrac integration, Talentpool users can now: 
 
 - Send reminders or schedule tests without leaving the platform 
 
-This integration means that your [recruitment management system](https://www.thetalentpool.ai/blogs/want-to-hire-smarter-and-faster-a-recruitment-management-system-is-the-answer/) is now even more powerful - bridging the gap between sourcing and screening. It reduces turnaround time by day and ensures smarter, data-backed shortlisting. 
+This integration means that your [recruitment management system](https://www.thetalentpool.ai/blogs/want-to-hire-smarter-and-faster-a-recruitment-management-system-is-the-answer) is now even more powerful - bridging the gap between sourcing and screening. It reduces turnaround time by day and ensures smarter, data-backed shortlisting. 
 
 ## **How These Updates Improve Your End-to-End Hiring Workflow?** 
 

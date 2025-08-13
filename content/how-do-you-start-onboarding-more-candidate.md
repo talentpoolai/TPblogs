@@ -50,7 +50,7 @@ Finding the qualified and right talent is always be a big challenge if you do no
 
 - Run Boolean searches to find potential candidates using the internet. You can easily target your Google search strings using multiple criteria such as skills, location, project, etc.
 - Meet candidates in person during corporate events. You can also host your events to attract the right talent for various job roles within your organization.
-- Leverage the power of social media. You can build a strong social media [recruitment strategy](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring/) to hire the best talent on various social media platforms.
+- Leverage the power of social media. You can build a strong social media [recruitment strategy](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring) to hire the best talent on various social media platforms.
 - Conduct hackathonss, tech quiz competitions and announce a spot selection offer
 - Visit multiple platforms where candidate showcases their skill sets in terms of their portfolio and achievements. Websites like Behance, Squarespace, Weebly, etc. consist of a pool of talent who are looking for good opportunities. One can initiate conversation with the candidate regarding career opportunities
 
@@ -58,7 +58,7 @@ Finding the qualified and right talent is always be a big challenge if you do no
 
 Explaining more about job roles in detail is the first step to building a great employee referral program. On the other hand, creating an employee referral program awareness equally plays a crucial role. More employees know about the program, more qualified candidates can come into the candidate pipeline. A recruiter needs to keep your current employees updated and informed about any new vacancies which are there in the organization. In addition to this, one needs to acknowledge good referrals from your employees to keep them motivated. 
 
-The referral programs should also compensate your current employees fairly since they save a lot of time and money for the organization. It can be a mix of monetary and non-monetary [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits/).
+The referral programs should also compensate your current employees fairly since they save a lot of time and money for the organization. It can be a mix of monetary and non-monetary [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits).
 
 ## **Conclusion** 
 

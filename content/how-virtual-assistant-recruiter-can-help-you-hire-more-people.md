@@ -65,7 +65,7 @@ Passive candidates can communicate with the chatbot to understand the current va
 
 ### 2\. Manage Candidate Database
 
-One of the problems recruiters face is of managing their existing database. It becomes more pronounced in large organizations where the hiring numbers are high. This is where [**hiring an assistan**t](https://www.thetalentpool.ai/blogs/3-things-to-know-when-interviewing-virtually/) can make an incredible difference. 
+One of the problems recruiters face is of managing their existing database. It becomes more pronounced in large organizations where the hiring numbers are high. This is where [**hiring an assistan**t](https://www.thetalentpool.ai/blogs/3-things-to-know-when-interviewing-virtually) can make an incredible difference. 
 
 Chatbots can help find suitable candidates from the database using keyword searches. Moreover, this **virtual assistant recruitment** system can also engage with them for fresh requirements.
 
@@ -97,7 +97,7 @@ As per a survey, almost 70% of candidates do not receive any communication afte
 
 Candidates prefer to hear back even when they have not made it. Such communication helps them focus on other job opportunities. Recruiters often do not have the bandwidth to share this information when they are already doing so much.
 
-A **[virtual assistant recruitment system](https://www.thetalentpool.ai/recruitment-management-software-benefits/)** can automate this communication and share frequent updates to apprise the candidates.
+A **[virtual assistant recruitment system](https://www.thetalentpool.ai/recruitment-management-software-benefits)** can automate this communication and share frequent updates to apprise the candidates.
 
 ### 6\. Schedule Candidate Follow-Ups
 

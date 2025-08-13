@@ -49,7 +49,7 @@ AI and machine learning can drastically change the way recruitment works. In the
 
 The first thing that recruiters do today is finding the right set of candidates as per the provided job description. Recruiters enter the experience range, education, domain and the portal gives them a list of candidates which match their criteria. Recruiters go through each candidate profile, speak to the candidates to fill in information gaps and share the resumes with the requisitioners. While the interaction cannot be ruled out, the searching bit can certainly be.
 
-Therefore, Based on various search parameters, [AI applicant tracking systems](https://www.thetalentpool.ai/blogs/does-your-applicant-tracking-software-have-these-features/) can extend the reach of the recruiters to a huge database of candidates that is available across portals. Recruiters can, in fact, extract information from various social portals to fill in gaps of information. As a basic solution, applicant tracking systems for recruiters can simply rank candidates based on keyword match. In an advanced solution, the recruitment software can match profiles against the past joiners for such positions and provide analytics.
+Therefore, Based on various search parameters, [AI applicant tracking systems](https://www.thetalentpool.ai/blogs/does-your-applicant-tracking-software-have-these-features) can extend the reach of the recruiters to a huge database of candidates that is available across portals. Recruiters can, in fact, extract information from various social portals to fill in gaps of information. As a basic solution, applicant tracking systems for recruiters can simply rank candidates based on keyword match. In an advanced solution, the recruitment software can match profiles against the past joiners for such positions and provide analytics.
 
 Whichever be the extent of the capability of the solution – the recruiter benefits either way.
 
@@ -65,7 +65,7 @@ Under screening, also comes assessments which include various formats such as co
 
 ## Candidate nurturing
 
-Leveraging existing candidate database is the Achilles’ heel for most recruitment team. For the lack of an easy way to get to the most suitable candidates, recruiters ignore the database. On the other hand, AI- enabled [recruitment software](https://www.thetalentpool.ai/cloud-recruitment-software/) solutions can use machine learning algorithms to find the patterns and match candidates who are most likely to find the position interesting.
+Leveraging existing candidate database is the Achilles’ heel for most recruitment team. For the lack of an easy way to get to the most suitable candidates, recruiters ignore the database. On the other hand, AI- enabled [recruitment software](https://www.thetalentpool.ai/cloud-recruitment-software) solutions can use machine learning algorithms to find the patterns and match candidates who are most likely to find the position interesting.
 
 Based on the suggestions, recruiters can engage such candidates and effectively use their existing database.
 

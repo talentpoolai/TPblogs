@@ -37,7 +37,7 @@ We have evaluated all the platforms on the basis of these parameters:
 
 - Verticals that can use the platform based upon the kind of tests provided
 - Price
-- Ability to integrate with [**ATS systems**](https://www.thetalentpool.ai/)
+- Ability to integrate with [**ATS systems**](https://www.thetalentpool.ai)
 
 ## **HackerEarth**
 
@@ -136,7 +136,7 @@ TestGorilla provides a pre-employment assessment tool to screen and hire the qua
 **Features**
 
 - Test Library provides multiple tests which predict real-world job performance using more than 190 scientifically validated tests.
-- Conducting one-way video interviews, one-way video interview gives an opportunity for the recruiter to [save time](https://www.thetalentpool.ai/blogs/7-time-saving-hacks-for-recruiters/). Also, the time, which is consumed in coordinating multiple follow-ups and arranging interviews gets saved and qualified candidates can be directly called for a formal discussion.
+- Conducting one-way video interviews, one-way video interview gives an opportunity for the recruiter to [save time](https://www.thetalentpool.ai/blogs/7-time-saving-hacks-for-recruiters). Also, the time, which is consumed in coordinating multiple follow-ups and arranging interviews gets saved and qualified candidates can be directly called for a formal discussion.
 
 - Result Analysis, it is possible to check real-time assessment results and can discover easy-to-read output reports. 
 - These reports can be shared with the internal team and client with just one click. The reports can also be branded with the company logo and color. Similarly, all the notes and ratings can be seen in one report.

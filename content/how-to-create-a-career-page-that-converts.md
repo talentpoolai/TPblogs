@@ -4,7 +4,7 @@ title: How to Create a Career Page that Converts
 slug: how-to-create-a-career-page-that-converts
 excerpt: >-
   These days, there are hundreds of [job boards
-  online](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post/)
+  online](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post)
   to advertise job openings. But this does not mean that...
 author:
   name: Sanchita Paul
@@ -24,12 +24,12 @@ seo:
   metaTitle: How to Create a Career Page that Converts
   metaDescription: >-
     These days, there are hundreds of [job boards
-    online](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post/)
+    online](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post)
     to advertise job openings. But this does not mean that...
   keywords: *ref_0
 ---
 
-These days, there are hundreds of [job boards online](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post/) to advertise job openings. But this does not mean that you do not need to create a great career page.
+These days, there are hundreds of [job boards online](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post) to advertise job openings. But this does not mean that you do not need to create a great career page.
 
 _In fact, according to a [LinkedIn survey](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/c/pdfs/ultimate-list-of-employer-brand-stats.pdf), 68% of job candidates listed a company’s website as one of the most effective tools for talent branding_.
 
@@ -43,9 +43,9 @@ Let’s start.
 
 ## What Is a Career Page?
 
-A [career page](https://www.thetalentpool.ai/blogs/3-things-that-make-great-careers-page/) is a section on a company’s website that provides information about the company’s culture, values, and job openings. It is used to communicate your company’s stories and help individuals understand what it is like to work for your company.
+A [career page](https://www.thetalentpool.ai/blogs/3-things-that-make-great-careers-page) is a section on a company’s website that provides information about the company’s culture, values, and job openings. It is used to communicate your company’s stories and help individuals understand what it is like to work for your company.
 
-It typically includes information about how the company’s mission, vision, and values work in tandem with the hiring philosophy. They may also include testimonials from current employees, information about company benefits, and details about the hiring process. A well-designed career page helps a company build its [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand/) and attract high-quality candidates who share similar values.
+It typically includes information about how the company’s mission, vision, and values work in tandem with the hiring philosophy. They may also include testimonials from current employees, information about company benefits, and details about the hiring process. A well-designed career page helps a company build its [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand) and attract high-quality candidates who share similar values.
 
 ## **Why is a Career Page Important for a Company?**
 
@@ -53,7 +53,7 @@ A career page is where potential employees will form their first impressions of 
 
 Several benefits of creating a career page include:
 
-- **Attracting top talent**: A career page can be a powerful recruitment tool that helps a company [attract top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors/). It provides potential candidates with an understanding of the company’s culture, values, and mission, and a list of available job opportunities.**Building brand reputation**: A well-designed career page can help build a company’s reputation as an employer of choice. By highlighting the company’s culture and employee benefits, it can create a positive image in the minds of potential candidates. **Streamlining the recruitment process**: Potential candidates can register, apply, track, and find valuable information about the opening of their choice. This can help streamline the [recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/) and ensure that candidates are well informed about what is expected of them.
+- **Attracting top talent**: A career page can be a powerful recruitment tool that helps a company [attract top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors). It provides potential candidates with an understanding of the company’s culture, values, and mission, and a list of available job opportunities.**Building brand reputation**: A well-designed career page can help build a company’s reputation as an employer of choice. By highlighting the company’s culture and employee benefits, it can create a positive image in the minds of potential candidates. **Streamlining the recruitment process**: Potential candidates can register, apply, track, and find valuable information about the opening of their choice. This can help streamline the [recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle) and ensure that candidates are well informed about what is expected of them.
 
 ## **Tips to Create a Career Page that Converts**
 
@@ -65,7 +65,7 @@ In this section, we will walk you through some tips that will help you create a 
 
 Your career page should showcase your company culture to attract potential candidates. You can do this by:
 
-- Highlight your company’s values, history, and team structure. Try to explain what each value means and how they influence your company’s day-to-day operations. Use images, videos, and other visual elements to showcase your workplace. This can include photos of employees working, office spaces, team-building activities, etc. Share employee testimonials that describe what they love about working for your company and how they feel about the company culture. You can also share the perks your company offers, such as healthcare, retirement plans, employee discounts, and paid time off. Highlight initiatives and programs that support [diversity](https://www.thetalentpool.ai/blogs/5-steps-include-diversity-in-hiring/). Share stories of employees from diverse backgrounds to show that your company is committed to creating an inclusive culture.
+- Highlight your company’s values, history, and team structure. Try to explain what each value means and how they influence your company’s day-to-day operations. Use images, videos, and other visual elements to showcase your workplace. This can include photos of employees working, office spaces, team-building activities, etc. Share employee testimonials that describe what they love about working for your company and how they feel about the company culture. You can also share the perks your company offers, such as healthcare, retirement plans, employee discounts, and paid time off. Highlight initiatives and programs that support [diversity](https://www.thetalentpool.ai/blogs/5-steps-include-diversity-in-hiring). Share stories of employees from diverse backgrounds to show that your company is committed to creating an inclusive culture.
 
 Showcasing your company culture helps candidates understand what sets your organization apart and why they should consider joining your team. Be creative and think outside the box to make your company stand out. This can help you attract candidates who share your values and are a good fit for your company culture. It will ultimately lead to a more engaged and productive workforce.
 
@@ -73,7 +73,7 @@ Showcasing your company culture helps candidates understand what sets your organ
 
 Job descriptions are the first thing that your career page visitors will check out when they apply for a job. _On average, it takes an applicant only 60 seconds to determine whether a job description is a suitable fit._ So, to make sure your career page visitors convert into your employees, you need to draft good job descriptions.
 
-Make sure that the [job descriptions](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions/) are short and simple, and convey the right tone and information. It should include the job title, responsibilities, and requirements. You should have information on what success would look like in the role that you are hiring for. Give your job descriptions a thought and make them as close to reality as possible. Try to be specific about what you are looking for in a candidate.
+Make sure that the [job descriptions](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions) are short and simple, and convey the right tone and information. It should include the job title, responsibilities, and requirements. You should have information on what success would look like in the role that you are hiring for. Give your job descriptions a thought and make them as close to reality as possible. Try to be specific about what you are looking for in a candidate.
 
 ### 3. **Flaunt the Benefits**
 
@@ -103,7 +103,7 @@ You can create videos that showcase employee testimonials, a day in the life of 
 
 ### 7. Optimize your Application Filling Process
 
-With the [digitization of the hiring process](https://www.thetalentpool.ai/blogs/all-you-need-to-know-about-automation-technology-in-recruitment/), candidates now want application forms that are quick to fill. However, as a recruiter, you also need to make sure that the application forms give you relevant information about your candidates. So, to maintain the balance, make sure you speed up the form-filling process. This can be accomplished by extracting meaningful information from the submitted resume, like personal information, employment experience, and education history. Your candidates will save a lot of time this way. And you will receive all the relevant information.
+With the [digitization of the hiring process](https://www.thetalentpool.ai/blogs/all-you-need-to-know-about-automation-technology-in-recruitment), candidates now want application forms that are quick to fill. However, as a recruiter, you also need to make sure that the application forms give you relevant information about your candidates. So, to maintain the balance, make sure you speed up the form-filling process. This can be accomplished by extracting meaningful information from the submitted resume, like personal information, employment experience, and education history. Your candidates will save a lot of time this way. And you will receive all the relevant information.
 
 ### 8. **Use Clear Call-to-actions**
 

@@ -47,7 +47,7 @@ Before we dive in further, here are some benefits of using the best recruiting s
 
 ## How to Choose the Right Recruitment Management Software
 
-Once you understand its efficiency, it's also critical to invest in a perfect tool for your business. Here are some tips and tricks to help you pick the right [recruitment management software](https://www.thetalentpool.ai/cloud-recruitment-software/). 
+Once you understand its efficiency, it's also critical to invest in a perfect tool for your business. Here are some tips and tricks to help you pick the right [recruitment management software](https://www.thetalentpool.ai/cloud-recruitment-software). 
 
 ### What are the Recruitment Challenges? 
 
@@ -61,7 +61,7 @@ If more than one hiccup stalls your hiring process, your business could lack a s
 
 With a general overview and the fundamental pain points detected, you must now highlight the critical features of any tool to help you recruit better.
 
-Consider the example of email follow-ups above. Fixing this problem would require [recruitment management software](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools/) with list segmentation, reminder features, or email templates. 
+Consider the example of email follow-ups above. Fixing this problem would require [recruitment management software](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools) with list segmentation, reminder features, or email templates. 
 
 Apart from the lack of talent scouting, many companies also lose good candidates to a leaky talent pipeline. Automation for interview scheduling and a single dashboard can help fix this issue. 
 

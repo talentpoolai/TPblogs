@@ -69,7 +69,7 @@ One-way interviews allow many candidates to put their best foot forward and make
 
 Candidates across geographies can benefit from one-way interviews, especially if they belong to different time zones. This approach avoids scheduling conflicts, and neither interviewers nor candidates will need to show up for an interview at odd hours.
 
-The one-way [interview process](https://www.thetalentpool.ai/blogs/pros-and-cons-one-way-video-interview-process/) is thus a key solution, with so many candidates now looking to work remotely from various time zones. 
+The one-way [interview process](https://www.thetalentpool.ai/blogs/pros-and-cons-one-way-video-interview-process) is thus a key solution, with so many candidates now looking to work remotely from various time zones. 
 
 ### 5\. Effective Pre-Screening Tool
 

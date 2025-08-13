@@ -37,7 +37,7 @@ The days of manually sifting through resumes, scheduling interviews, and meeting
 
 <!--more-->
 
-Let's look at five ways in which [recruitment automation](https://www.thetalentpool.ai/blogs/11-ways-recruitment-automation-reshape-recruiting-process/) bridges important gaps and helps recruiters find quality candidates with speed and efficiency. 
+Let's look at five ways in which [recruitment automation](https://www.thetalentpool.ai/blogs/11-ways-recruitment-automation-reshape-recruiting-process) bridges important gaps and helps recruiters find quality candidates with speed and efficiency. 
 
 ## **1\. Effective Candidate Screening**
 
@@ -73,7 +73,7 @@ The key to AI-based assessment success is to program it well and ensure that exi
 
 Today, companies may ask candidates to submit a pre-interview selfie-style video. In the video, they must record themselves responding to several standardized questions such as "Share an example of a time when you played a leadership role in your last job."
 
-Sifting through so many videos is time-consuming. Instead, the recruiter can instruct the [recruitment automation](https://www.thetalentpool.ai/) to compile the video bytes of multiple candidates featuring specific questions into one or more videos.
+Sifting through so many videos is time-consuming. Instead, the recruiter can instruct the [recruitment automation](https://www.thetalentpool.ai) to compile the video bytes of multiple candidates featuring specific questions into one or more videos.
 
 The unnecessary parts are all edited out. These brief video clips help recruiters identify the best candidates to be interviewed in the shortest time.  
 

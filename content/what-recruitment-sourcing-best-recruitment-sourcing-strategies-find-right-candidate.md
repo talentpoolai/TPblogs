@@ -61,7 +61,7 @@ A well-planned recruitment sourcing strategy is essential to ensure that an orga
 
 **_Do you know that [73% of talent acquisition](https://www.linkedin.com/business/talent/blog/talent-acquisition/hiring-2023-talent-leaders-navigate-changing-market) leaders say that talent sourcing is a top priority for their organization, as it helps them fill positions faster and with better quality candidates?_**
 
-Indeed, [recruitment sourcing](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate/) is critical for organizations to attract the right talent, reduce hiring costs, and improve their overall hiring outcomes.
+Indeed, [recruitment sourcing](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate) is critical for organizations to attract the right talent, reduce hiring costs, and improve their overall hiring outcomes.
 
 ## **Let us explore the benefits of recruitment sourcing:**
 
@@ -91,9 +91,9 @@ Let us discuss some top recruitment sourcing strategies:
 
 ### **1\. Employee Referral Programs**
 
-Employee [referral programs](https://www.thetalentpool.ai/blogs/4-reasons-why-employee-referral-program-not-working/) are one of the most effective recruitment sourcing strategies. These programs encourage employees to refer qualified candidates from their network for open job positions.
+Employee [referral programs](https://www.thetalentpool.ai/blogs/4-reasons-why-employee-referral-program-not-working) are one of the most effective recruitment sourcing strategies. These programs encourage employees to refer qualified candidates from their network for open job positions.
 
-**_According to a study by Jobvite, [employee referrals](https://www.thetalentpool.ai/blogs/4-reasons-why-employee-referral-program-not-working/) are the number one source of quality hires, with a 40% referral-to-hire conversion rate._** Referral candidates are more likely to be a good fit for the organization's culture and requirements, resulting in faster time-to-hire and reduced hiring costs. Additionally, referral candidates tend to have higher retention rates compared to candidates from other sources.
+**_According to a study by Jobvite, [employee referrals](https://www.thetalentpool.ai/blogs/4-reasons-why-employee-referral-program-not-working) are the number one source of quality hires, with a 40% referral-to-hire conversion rate._** Referral candidates are more likely to be a good fit for the organization's culture and requirements, resulting in faster time-to-hire and reduced hiring costs. Additionally, referral candidates tend to have higher retention rates compared to candidates from other sources.
 
 ### 2\. **Social Media Recruitment**
 
@@ -129,13 +129,13 @@ Effective outreach messages should be personalized, engaging, and tailored to th
 
 ### 7\. **Recruitment Agencies**
 
-Recruitment agencies can also be a valuable resource for organizations in their [recruitment sourcing](https://www.thetalentpool.ai/employee-referral-software/) efforts. These agencies specialize in finding and screening potential candidates and can help organizations fill job vacancies quickly and efficiently. Recruitment agencies have access to a broad network of candidates and can provide valuable insights into the job market. However, this strategy can be costly and may not be suitable for all job positions.
+Recruitment agencies can also be a valuable resource for organizations in their [recruitment sourcing](https://www.thetalentpool.ai/employee-referral-software) efforts. These agencies specialize in finding and screening potential candidates and can help organizations fill job vacancies quickly and efficiently. Recruitment agencies have access to a broad network of candidates and can provide valuable insights into the job market. However, this strategy can be costly and may not be suitable for all job positions.
 
 | **A checklist of recruitment sourcing strategies and best practices**      ·       Identify and understand the needs of your target audience   ·       Use personalized and engaging outreach messages   ·       Leverage employee referral programs to get aligned candidates   ·       Use social media platforms to get inbound leads   ·       Nurture your internal talent pool database   ·       Use applicant tracking systems (ATS) to streamline the hiring process   ·       Monitor and evaluate recruitment sourcing strategies   ·       Measure effectiveness and tweak as needed.    |
 | --- |
 
 ## **Conclusion**
 
-Building a powerful recruiting sourcing strategy is a pivotal part of a productive [talent acquisition process](https://www.thetalentpool.ai/) that nets results. By using multiple sourcing channels, your organization can build a robust candidate pipeline, and land experienced talent that fits your company culture well.
+Building a powerful recruiting sourcing strategy is a pivotal part of a productive [talent acquisition process](https://www.thetalentpool.ai) that nets results. By using multiple sourcing channels, your organization can build a robust candidate pipeline, and land experienced talent that fits your company culture well.
 
 ![candidate-sourcing-strategy](images/candidate-sourcing-strategy-1-1024x536.jpg)

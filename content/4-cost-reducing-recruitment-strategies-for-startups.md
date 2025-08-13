@@ -43,7 +43,7 @@ However, start-ups do not want to spend funds to boost the recruitment process. 
 
 Well, there are several free and low-cost strategies to find the top talent. The average cost of a hire worldwide is a whopping USD 4,000. Start-ups can recruit in much less time with dedicated strategies.
 
-Let us see four r[ecruitment strategies](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring/) that aren’t expensive for start-ups.
+Let us see four r[ecruitment strategies](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring) that aren’t expensive for start-ups.
 
 ## **Best Practices to Optimize Recruitment Costs**
 
@@ -71,7 +71,7 @@ You can also share blogs and career tips to boost candidate experience. Make sur
 
 ### **Adopt Remote Interviewing** 
 
-Instead of traveling to a city/college, start-ups should adopt remote [interviewing](https://www.thetalentpool.ai/recruitment-management-software-benefits/) techniques.
+Instead of traveling to a city/college, start-ups should adopt remote [interviewing](https://www.thetalentpool.ai/recruitment-management-software-benefits) techniques.
 
 Many digital platforms allow recruiters to connect with candidates irrespective of geographic location. With remote interviewing, recruiters don’t have to dedicate a physical space to house candidates.
 

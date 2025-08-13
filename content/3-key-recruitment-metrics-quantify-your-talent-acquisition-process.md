@@ -69,7 +69,7 @@ High time-to-fill timelines signify a possible issue within the recruiting proce
 
 The total cost per hire is another important recruitment metric that should be tracked continuously for effective recruiting. This allows you to know the total cost the company is spending on each hire. 
 
-Cost per hire is calculated as the sum of internal and external recruiting costs divided by the total number of new hires. This includes varied costs such as advertising costs, internal recruiting costs, agency fees, travel-related expenses, assessment tools, and a total number of hours spent at each stage of the [recruiting process](https://www.thetalentpool.ai/recruitment-management-software-benefits/). 
+Cost per hire is calculated as the sum of internal and external recruiting costs divided by the total number of new hires. This includes varied costs such as advertising costs, internal recruiting costs, agency fees, travel-related expenses, assessment tools, and a total number of hours spent at each stage of the [recruiting process](https://www.thetalentpool.ai/recruitment-management-software-benefits). 
 
 **A few of the important things to keep in mind here include** -
 

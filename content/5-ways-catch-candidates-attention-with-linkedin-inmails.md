@@ -52,7 +52,7 @@ Some tips for creating the best InMails in 2022 are as follows: 
 
 The subject of your InMail serves as the best shot to catch candidates' attention. It can make or break your chances of getting a reply from a suitable applicant.
 
-Consider an ideal candidate that is already working happily in a company. Since they are already working, they might not take [recruitment](https://www.thetalentpool.ai/) InMails seriously. If an InMail starts with something generic like 'Career opportunity at XYZ company,' they will probably ignore it. 
+Consider an ideal candidate that is already working happily in a company. Since they are already working, they might not take [recruitment](https://www.thetalentpool.ai) InMails seriously. If an InMail starts with something generic like 'Career opportunity at XYZ company,' they will probably ignore it. 
 
 Recruiters need to think out of the box and create a short and appealing subject line. For example, consider a prospective candidate who is a talented UI/UX developer. Your subject line can be something like, "Hello, fellow UI/UX developer!"
 
@@ -80,7 +80,7 @@ What should the candidate do after receiving your InMail? Does the candidate nee
 
 Instead of leaving the candidate confused, you should be clear about the next steps. For better results, include a CTA (Call to Action) in your InMail.
 
-However, ensure you don't make the InMail too lengthy while adding the next steps. As per [LinkedIn](https://www.thetalentpool.ai/blogs/6-secret-tips-for-hiring-the-best-candidates-from-linkedin/) stats, InMails with a length between 200 – 400 characters have a higher response rate.
+However, ensure you don't make the InMail too lengthy while adding the next steps. As per [LinkedIn](https://www.thetalentpool.ai/blogs/6-secret-tips-for-hiring-the-best-candidates-from-linkedin) stats, InMails with a length between 200 – 400 characters have a higher response rate.
 
 ### 5\. **Use Common Connections Wisely** 
 

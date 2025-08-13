@@ -54,7 +54,7 @@ Pre-placement contact with students needs to be an integral part of your campus 
 
 Hence, it's important to visit the shortlisted colleges before the recruitment drive to connect with the students. By doing so, more and more students will be encouraged to participate in your upcoming recruitment drive.
 
-To deliver a guest lecture, it is required to arrange a seminar with the help of a representative from the respective institution. The team can also offer mentorships to students for recruitment preparation. In addition, you can share details about the available career opportunities, [recruitment processes](https://www.thetalentpool.ai/), [industry insights](https://www.thetalentpool.ai), and prep tips and tricks with the students. 
+To deliver a guest lecture, it is required to arrange a seminar with the help of a representative from the respective institution. The team can also offer mentorships to students for recruitment preparation. In addition, you can share details about the available career opportunities, [recruitment processes](https://www.thetalentpool.ai), [industry insights](https://www.thetalentpool.ai), and prep tips and tricks with the students. 
 
 ## **3\. Offer Paid Internships**
 
@@ -70,7 +70,7 @@ It's important to note that unpaid internships may not attract the right candida
 
 You need to offer regular training programs to make young interns job-ready.
 
-Interns are associated with your company even before you start the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process/). You need to groom them for upcoming challenges by offering training programs.
+Interns are associated with your company even before you start the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process). You need to groom them for upcoming challenges by offering training programs.
 
 In addition, make sure you are in regular contact with the interns even after they complete their internships. 
 
@@ -86,7 +86,7 @@ Try visiting colleges on occasions other than recruitment and interacting with t
 
 Make sure you follow the aforementioned strategies to run a successful campus recruitment drive.
 
-You can also contact a talent acquisition firm to adopt a campus [recruitment strategy](https://www.thetalentpool.ai/blogs/5-platforms-post-jobs-online-free-without-using-job-joards/) that's right for your organization. This will help you slash campus recruitment costs.
+You can also contact a talent acquisition firm to adopt a campus [recruitment strategy](https://www.thetalentpool.ai/blogs/5-platforms-post-jobs-online-free-without-using-job-joards) that's right for your organization. This will help you slash campus recruitment costs.
 
 So start building a definitive campus recruitment strategy in 2022!
 

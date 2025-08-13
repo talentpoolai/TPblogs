@@ -38,7 +38,7 @@ The result? By the time they finally shortlist the perfect candidate and extend 
 
 This scenario is quite common these days, where speed, precision, and candidate experience can make or break the results of your month-long recruitment efforts. That is where recruitment software can be the biggest possible help for recruiters to automate tedious tasks, streamline communication, and ensure you never lose top talent due to process inefficiencies. With the right system in place, recruiters can work smarter, not harder, and focus on securing the best candidates before the competition does. 
 
-In this guide, we will break down what [recruitment management software](https://www.thetalentpool.ai/blogs/want-to-hire-smarter-and-faster-a-recruitment-management-system-is-the-answer/) is, why it is essential, and how to select the best recruitment software in India that aligns with your hiring needs. So, let's get started! 
+In this guide, we will break down what [recruitment management software](https://www.thetalentpool.ai/blogs/want-to-hire-smarter-and-faster-a-recruitment-management-system-is-the-answer) is, why it is essential, and how to select the best recruitment software in India that aligns with your hiring needs. So, let's get started! 
 
 ## **What is a Recruitment Software?** 
 
@@ -60,13 +60,13 @@ Posting job openings with the help of your recruitment software should be as sim
 
 - Multi-platform job posting across LinkedIn, Naukri, company career pages, and niche job boards. 
 
-- AI-powered [candidate sourcing](https://www.thetalentpool.ai/candidate-sourcing-software/) based on skills, experience, and job relevance. 
+- AI-powered [candidate sourcing](https://www.thetalentpool.ai/candidate-sourcing-software) based on skills, experience, and job relevance. 
 
 - Talent pool management with a centralised database of active as well as passive candidates. 
 
 ### **Smart Resume Screening & Candidate Ranking** 
 
-Going through hundreds of resumes manually is not only time-consuming but it also increases the risk of overlooking top talent. Modern ATS with AI-powered [resume parsing](https://www.thetalentpool.ai/blogs/what-is-resume-parsing-do-you-need-it/) and ranking to filter and shortlist the best candidates and reduce time-to-hire by recognising key skills and eliminating duplicate candidate entries.  
+Going through hundreds of resumes manually is not only time-consuming but it also increases the risk of overlooking top talent. Modern ATS with AI-powered [resume parsing](https://www.thetalentpool.ai/blogs/what-is-resume-parsing-do-you-need-it) and ranking to filter and shortlist the best candidates and reduce time-to-hire by recognising key skills and eliminating duplicate candidate entries.  
 
 ### **Automated Interview Scheduling & Candidate Engagement** 
 

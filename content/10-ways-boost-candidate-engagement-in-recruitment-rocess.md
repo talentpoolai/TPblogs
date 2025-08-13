@@ -37,7 +37,7 @@ Recruiters are up against a challenge they have not seen in the last couple of y
 
 <!--more-->
 
-One aspect that can make a considerable difference is **candidate engagement.** Several times, candidates drop out in the middle of the [hiring process](https://www.thetalentpool.ai/), leaving the recruiters in a trouble. It not only wastes effort and time but also creates a negative impression on the business teams. 
+One aspect that can make a considerable difference is **candidate engagement.** Several times, candidates drop out in the middle of the [hiring process](https://www.thetalentpool.ai), leaving the recruiters in a trouble. It not only wastes effort and time but also creates a negative impression on the business teams. 
 
 **Candidate engagement strategies** ensure there is constant communication with the applicants to keep them warm. Moreover, it enables recruiters to detect early warning signs and take appropriate action.
 
@@ -47,7 +47,7 @@ The biggest advantage is that it leaves a lasting impression on the applicants, 
 
 ### **1\. A Simple Job Application Process**
 
-An effective **[candidate engagement](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement/)** strategy takes care of the candidates right from the beginning. A lengthy job application process can put them off and even cause them to drop out, even before entering your hiring funnel.
+An effective **[candidate engagement](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement)** strategy takes care of the candidates right from the beginning. A lengthy job application process can put them off and even cause them to drop out, even before entering your hiring funnel.
 
 ### 2\. Respond Faster
 
@@ -69,7 +69,7 @@ Several organizations have started using pre-screening tests to identify the bes
 
 For instance, calling them to your office or asking them to complete the test within a day can be unreasonable, given their demands at work.
 
-The most effective **[candidate engagement tools](https://www.thetalentpool.ai/)** are the ones that allow the candidates the flexibility to take these pre-screening tests at their convenient time and location.
+The most effective **[candidate engagement tools](https://www.thetalentpool.ai)** are the ones that allow the candidates the flexibility to take these pre-screening tests at their convenient time and location.
 
 ### 5\. Auto Interview Scheduling
 

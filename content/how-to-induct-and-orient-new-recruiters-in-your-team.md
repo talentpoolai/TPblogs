@@ -47,4 +47,4 @@ Avoid wasting time and efforts in setting a time-to-productivity target if it’
 
 In fact, we must consider incentivizing our team members with brownie points or bonus whenever they meet or exceed their time-to-productivity target. By following these parameters, you will be able to encourage your recruiters to give more priority to recruitment factors that deliver quality talent in lesser time!
 
-_**Prerna Kohli** is the Senior Manager – HR at **Navisite, Inc.,** a part of **Spectrum Enterprise.** Navisite uses [**Talentpool**](https://www.thetalentpool.ai/) to **automate** time-intensive hiring tasks and streamline their hiring process – right from **sourcing** a candidate to **onboarding** them._
+_**Prerna Kohli** is the Senior Manager – HR at **Navisite, Inc.,** a part of **Spectrum Enterprise.** Navisite uses [**Talentpool**](https://www.thetalentpool.ai) to **automate** time-intensive hiring tasks and streamline their hiring process – right from **sourcing** a candidate to **onboarding** them._

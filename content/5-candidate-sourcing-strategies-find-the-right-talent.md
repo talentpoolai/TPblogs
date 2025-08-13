@@ -45,7 +45,7 @@ Sourced candidates are more effective than candidates that have applied for a jo
 
 ## **Best Candidate Sourcing Strategies to Deploy** 
 
-Recruiters should actively spend funds and time on [candidate sourcing](https://www.thetalentpool.ai/blogs/5-candidate-sourcing-strategies-find-the-right-talent/). It will help them create a talent pipeline that's ready to work in the future.
+Recruiters should actively spend funds and time on [candidate sourcing](https://www.thetalentpool.ai/blogs/5-candidate-sourcing-strategies-find-the-right-talent). It will help them create a talent pipeline that's ready to work in the future.
 
 Some strategies to find the top talent via candidate sourcing are as follows:
 
@@ -89,6 +89,6 @@ Potential candidates might ignore your outreach if they perceive your organizati
 
 ## **Conclusion** 
 
-Many companies create a talent pool for jobs they haven’t even opened yet. Having access to a large talent pool can help your company recruit candidates quickly. Focus on building a vast [talent pool](https://www.thetalentpool.ai/) in 2022 by using effective sourcing strategies.
+Many companies create a talent pool for jobs they haven’t even opened yet. Having access to a large talent pool can help your company recruit candidates quickly. Focus on building a vast [talent pool](https://www.thetalentpool.ai) in 2022 by using effective sourcing strategies.
 
 ![candidate-sourcing](images/candidate-sourcing-scaled-1-1.jpg)

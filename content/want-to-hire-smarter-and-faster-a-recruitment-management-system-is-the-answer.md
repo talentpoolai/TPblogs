@@ -41,11 +41,11 @@ This is where a [Recruitment Management System](https://www.thetalentpool.ai) (R
 
 ## **What is a Recruitment Management System?** 
 
-A Recruitment Management System (RMS) is an advanced HR technology or software designed to streamline, automate, and simplify every stage of the [hiring process](https://www.thetalentpool.ai/blogs/enhance-your-hiring-process-with-vendor-management-system/). It serves as a centralised platform where recruiters can manage job postings, track applications, manage databases, automate resume screening, communicate with candidates, schedule interviews, and generate reports. 
+A Recruitment Management System (RMS) is an advanced HR technology or software designed to streamline, automate, and simplify every stage of the [hiring process](https://www.thetalentpool.ai/blogs/enhance-your-hiring-process-with-vendor-management-system). It serves as a centralised platform where recruiters can manage job postings, track applications, manage databases, automate resume screening, communicate with candidates, schedule interviews, and generate reports. 
 
 ## **What is the Difference Between an ATS and an RMS?** 
 
-Many organisations assume an [Applicant Tracking System](https://www.thetalentpool.ai/blogs/is-ats-software-the-key-to-efficient-recruitment/) (ATS) and a Recruitment Management System (RMS) are the same, but they serve distinct purposes. An ATS is primarily a resume management tool that collects, sorts, and tracks job applications. It streamlines the application process by storing candidate data, filtering resumes based on keywords, and helping recruiters manage incoming applications.  
+Many organisations assume an [Applicant Tracking System](https://www.thetalentpool.ai/blogs/is-ats-software-the-key-to-efficient-recruitment) (ATS) and a Recruitment Management System (RMS) are the same, but they serve distinct purposes. An ATS is primarily a resume management tool that collects, sorts, and tracks job applications. It streamlines the application process by storing candidate data, filtering resumes based on keywords, and helping recruiters manage incoming applications.  
 
 On the other hand, a recruitment management software is a more holistic solution that includes all ATS functionalities along with advanced analytics, candidate engagement tools, and multi-platform integrations to optimise the entire recruitment lifecycle. Right from sourcing candidates to onboarding new hires, an RMS provides end-to-end hiring support. 
 
@@ -89,7 +89,7 @@ Modern hiring is data-driven. Without real-time insights, recruiters will have t
 
 ### 4\. Effective Candidate & Recruiter Communication 
 
-A poor [candidate experience](https://www.thetalentpool.ai/blogs/enhancing-candidate-experience-with-user-friendly-recruiting-software/) can cost you top talent. In fact, 58% of job seekers say they have declined an offer due to slow or unresponsive communication during the hiring process. An RMS ensures easy, real-time engagement between recruiters and candidates through: 
+A poor [candidate experience](https://www.thetalentpool.ai/blogs/enhancing-candidate-experience-with-user-friendly-recruiting-software) can cost you top talent. In fact, 58% of job seekers say they have declined an offer due to slow or unresponsive communication during the hiring process. An RMS ensures easy, real-time engagement between recruiters and candidates through: 
 
 - Integrated messaging tools, including email, SMS, chatbots, and even WhatsApp. 
 
@@ -157,6 +157,6 @@ Talentpool offers a next-gen recruitment management system, specially designed t
 
 - Scalable and customisable to fit specific hiring and operational requirements of an organisation.  
 
-Book a free demo today and transform your [recruitment process](https://www.thetalentpool.ai/blogs/comprehensive-insight-into-the-end-to-end-recruitment-process/) with Talentpool! 
+Book a free demo today and transform your [recruitment process](https://www.thetalentpool.ai/blogs/comprehensive-insight-into-the-end-to-end-recruitment-process) with Talentpool! 
 
 ![](images/9430580_4151017-1024x683.jpg)

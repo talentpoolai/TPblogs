@@ -32,7 +32,7 @@ There is no denying the fact that more and more SMBs are becoming increasingly a
 
 Such companies intend to cut down on all recruiter distractions ruthlessly, be it data entry, management, hygiene checks such duplicate checks and one single place to track all candidate communication. This is where and when they start looking for a system which will help them do so. 
 
-However in spite of being forward thinking, perhaps the paradox of choice catches on. To help you think a little more clearly, here's a list of a few common mistakes that we see SMBs making when evaluating a [recruitment management software](https://www.thetalentpool.ai/): 
+However in spite of being forward thinking, perhaps the paradox of choice catches on. To help you think a little more clearly, here's a list of a few common mistakes that we see SMBs making when evaluating a [recruitment management software](https://www.thetalentpool.ai): 
 
 ## **Inability to balance between short-term fixes and long term needs** 
 
@@ -40,7 +40,7 @@ It hurts both ways! Organizational needs from recruitment changes post an inflec
 
 ## **Getting carried away by the bells and whistles** 
 
-Are you getting starry-eyed by the shining new promise of integration with 56 new job portals or the extra [features](https://www.thetalentpool.ai/blogs/does-your-applicant-tracking-software-have-these-features/) and [functionalities](https://www.thetalentpool.ai/recruitment-management-software-benefits/) that you would be able to use? Don’t! Look at the ease with which the software would be able to integrate with the job portal you work on. See if the software does the basics the way you want it.
+Are you getting starry-eyed by the shining new promise of integration with 56 new job portals or the extra [features](https://www.thetalentpool.ai/blogs/does-your-applicant-tracking-software-have-these-features) and [functionalities](https://www.thetalentpool.ai/recruitment-management-software-benefits) that you would be able to use? Don’t! Look at the ease with which the software would be able to integrate with the job portal you work on. See if the software does the basics the way you want it.
 
 ## **Overlooking the hiring manager's buy-in** 
 

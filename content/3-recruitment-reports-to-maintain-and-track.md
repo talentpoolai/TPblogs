@@ -30,7 +30,7 @@ seo:
 
 There are many metrics on the basis of which recruitment progress can be measured. But, working and measuring each recruitment metric could be a tricky and full-time job. As we know most recruiters do not have the bandwidth to dedicatedly work on these metrics reports.
 
-While maintaining and working on the [recruitment metrics](https://www.thetalentpool.ai/blogs/recruitment-metrics/) is one aspect, identifying the right metrics to track is another. Let us look at a few which are direct indicators of your hiring team’s health.
+While maintaining and working on the [recruitment metrics](https://www.thetalentpool.ai/blogs/recruitment-metrics) is one aspect, identifying the right metrics to track is another. Let us look at a few which are direct indicators of your hiring team’s health.
 
 ## **1\. Time-to-Fill Report**
 
@@ -104,6 +104,6 @@ Regular monitoring of these metrics can be eye-opening for the whole recruitment
 
 ## **Conclusion:** 
 
-Recruitment is dynamic in nature and attracting the right talent becomes equally important to them. To ensure recruitment is on track it is required to measure each action and analyze with data points. Every time this data provides actionable insights to remove obstacles and streamline the entire [hiring process](https://www.thetalentpool.ai/). Based on the given metrics it becomes easy to take data-driven decisions.
+Recruitment is dynamic in nature and attracting the right talent becomes equally important to them. To ensure recruitment is on track it is required to measure each action and analyze with data points. Every time this data provides actionable insights to remove obstacles and streamline the entire [hiring process](https://www.thetalentpool.ai). Based on the given metrics it becomes easy to take data-driven decisions.
 
 ![reports](images/reports-1024x536-1-1.jpg)

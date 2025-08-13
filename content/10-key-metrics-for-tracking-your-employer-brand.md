@@ -23,7 +23,7 @@ seo:
 
 _Do you know that 50% of candidates would not work for a [company with a bad reputation, even for a pay increase](https://hrdailyadvisor.blr.com/2019/11/01/better-manage-your-online-reputation-to-attract-talent/)?_
 
-This statistic clearly emphasizes the importance of employer branding in attracting [top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors/) to your workforce.
+This statistic clearly emphasizes the importance of employer branding in attracting [top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors) to your workforce.
 
 The company’s employer brand is its identity and reputation to prospective and current employees. The stronger and more positive your brand reputation is, the more talent will want to work for your organization. On the other hand, if you have a poor branding strategy, you will face a tough time closing your job positions.
 
@@ -33,11 +33,11 @@ To receive the most relevant information, you must gather and evaluate the most 
 
 _That is why it is important to track the right employer branding metrics._
 
-Here are 10 employer branding metrics that help you measure the effectiveness and strength of your [employer brand.](https://www.thetalentpool.ai/blogs/how-build-successful-employer-branding-strategy-organization/)
+Here are 10 employer branding metrics that help you measure the effectiveness and strength of your [employer brand.](https://www.thetalentpool.ai/blogs/how-build-successful-employer-branding-strategy-organization)
 
 1. **Employee Net Promoter Score (eNPS)**
 
-An employee net promoter score is a valuable metric for measuring employer branding and [employee satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it/). It assesses how likely employees are to recommend their organization as a place to work.
+An employee net promoter score is a valuable metric for measuring employer branding and [employee satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it). It assesses how likely employees are to recommend their organization as a place to work.
 
 To calculate Employee NPS, employees are typically asked a simple question: **_"On a scale of 0-10, how likely are you to recommend our organization as a place to work?"_**
 
@@ -59,23 +59,23 @@ To make the most of eNPS as an employer branding metric, organizations should en
 
 - **Employee Referral**
 
-[Employee referral](https://www.thetalentpool.ai/employee-referral-software/) is a metric that measures the number of candidates referred to an organization by its existing employees. It serves as an indicator of the strength of the employer brand and the level of employee satisfaction. Studying your employee referral program can help you understand if your employees are happy with your organization and willing to advocate for you.
+[Employee referral](https://www.thetalentpool.ai/employee-referral-software) is a metric that measures the number of candidates referred to an organization by its existing employees. It serves as an indicator of the strength of the employer brand and the level of employee satisfaction. Studying your employee referral program can help you understand if your employees are happy with your organization and willing to advocate for you.
 
 A high employee referral rate suggests that employees are engaged and proud to recommend their organization as a great place to work.
 
 _A_ _[LinkedIn report](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_us/c/pdfs/ultimate-list-of-employer-brand-stats.pdf)_ _also suggests candidates trust a company’s employees 3 times more than the company itself to provide credible information on the working environment._
 
-**Pro tip**: Encourage and incentivize employees to refer qualified candidates through [referral programs](https://www.thetalentpool.ai/blogs/4-tips-fuel-existing-referral-program/), rewards, and recognition. This helps create a strong network of brand advocates who can attract top talent.
+**Pro tip**: Encourage and incentivize employees to refer qualified candidates through [referral programs](https://www.thetalentpool.ai/blogs/4-tips-fuel-existing-referral-program), rewards, and recognition. This helps create a strong network of brand advocates who can attract top talent.
 
 ![](images/referrals-1-1-914x873.jpg)
 
 1. **Cost Per Hire**
 
-Cost per hire is a metric that calculates the total expenses incurred in the [recruitment process,](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/) including advertising, recruitment software, and interviewing costs. It helps organizations assess the efficiency and cost-effectiveness of their recruitment efforts, which indirectly reflects the impact of employer branding.
+Cost per hire is a metric that calculates the total expenses incurred in the [recruitment process,](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle) including advertising, recruitment software, and interviewing costs. It helps organizations assess the efficiency and cost-effectiveness of their recruitment efforts, which indirectly reflects the impact of employer branding.
 
 _A low cost per hire can indicate that the employer brand is strong and appealing. It attracts a large pool of qualified candidates who are more likely to accept job offers. It ultimately reduces the need for expensive recruitment channels or agencies._
 
-On the other hand, a high cost per hire may indicate challenges in attracting suitable candidates and converting them into hires. It could be a sign of a poorly communicated employer brand. It results in increased [recruitment costs](https://www.thetalentpool.ai/blogs/4-cost-reducing-recruitment-strategies-for-startups/) due to extended hiring processes, reliance on expensive channels, or high turnover rates.
+On the other hand, a high cost per hire may indicate challenges in attracting suitable candidates and converting them into hires. It could be a sign of a poorly communicated employer brand. It results in increased [recruitment costs](https://www.thetalentpool.ai/blogs/4-cost-reducing-recruitment-strategies-for-startups) due to extended hiring processes, reliance on expensive channels, or high turnover rates.
 
 **_Pro tip:_**
 
@@ -83,7 +83,7 @@ Strengthening your employer brand can lead to lowering your cost per hire. For e
 
 - **Career Page Analytics**
 
-Career page analytics involves tracking and analyzing data related to an organization's careers page, such as visitor traffic, time spent on the page, conversion rates, and application completion rates. These analytics provide insights into the effectiveness of the [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand/) in attracting and engaging potential candidates. By analyzing career page data, organizations can identify areas for improvement and optimize their career page to enhance candidate experience.
+Career page analytics involves tracking and analyzing data related to an organization's careers page, such as visitor traffic, time spent on the page, conversion rates, and application completion rates. These analytics provide insights into the effectiveness of the [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand) in attracting and engaging potential candidates. By analyzing career page data, organizations can identify areas for improvement and optimize their career page to enhance candidate experience.
 
 **_Pro tip:_**
 
@@ -108,11 +108,11 @@ By measuring these employer branding metrics, organizations can gain insights in
 
 **_Pro tip:_**
 
-Conduct regular [employer brand surveys](https://www.thetalentpool.ai/blogs/measuring-enhancing-talent-acquisition-with-candidate-surveys/) to gauge perceptions, analyze market trends, align internal practices with brand values, and actively manage the employer brand to enhance the employer brand index.
+Conduct regular [employer brand surveys](https://www.thetalentpool.ai/blogs/measuring-enhancing-talent-acquisition-with-candidate-surveys) to gauge perceptions, analyze market trends, align internal practices with brand values, and actively manage the employer brand to enhance the employer brand index.
 
 - **Glassdoor Interview Experience**
 
-Glassdoor interview experience is a metric that reflects the feedback and ratings provided by candidates regarding their interview process with the organization. It offers insights into the candidate’s experience, employer brand perception, and areas for improvement in the [hiring process](https://www.thetalentpool.ai/blogs/enhance-your-hiring-process-with-vendor-management-system/). By monitoring and analyzing Glassdoor interview reviews, organizations can identify strengths and weaknesses in their interview process, make necessary improvements, and enhance their employer brand reputation.
+Glassdoor interview experience is a metric that reflects the feedback and ratings provided by candidates regarding their interview process with the organization. It offers insights into the candidate’s experience, employer brand perception, and areas for improvement in the [hiring process](https://www.thetalentpool.ai/blogs/enhance-your-hiring-process-with-vendor-management-system). By monitoring and analyzing Glassdoor interview reviews, organizations can identify strengths and weaknesses in their interview process, make necessary improvements, and enhance their employer brand reputation.
 
 ![](images/glass-1-1024x1024.jpg)
 
@@ -126,7 +126,7 @@ Prioritize a positive and respectful candidate experience and provide clear comm
 
 The offer acceptance rate measures the percentage of job offers extended by the organization that candidates accept. It indicates the employer brand's attractiveness and the recruitment process's effectiveness.
 
-_A high offer acceptance rate suggests that candidates perceive the organization as an appealing place to work and that the [recruitment process](https://www.thetalentpool.ai/blogs/how-to-improve-your-existing-talent-sourcing-strategy/) is well-managed_.
+_A high offer acceptance rate suggests that candidates perceive the organization as an appealing place to work and that the [recruitment process](https://www.thetalentpool.ai/blogs/how-to-improve-your-existing-talent-sourcing-strategy) is well-managed_.
 
 A low acceptance rate may indicate issues with the employer’s brand, compensation, or other aspects of the offer.
 
@@ -152,7 +152,7 @@ By measuring the quality of hire, organizations can assess the effectiveness of 
 
 **_Pro tip:_**
 
-Develop comprehensive [job descriptions](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions/), utilize targeted sourcing strategies, and implement rigorous screening processes. Track employee performance metrics to attract and retain high-quality candidates who align with the organization's needs.
+Develop comprehensive [job descriptions](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions), utilize targeted sourcing strategies, and implement rigorous screening processes. Track employee performance metrics to attract and retain high-quality candidates who align with the organization's needs.
 
 -  **Number of Open Applications**
 
@@ -162,7 +162,7 @@ Studying the number of applications will also help you gain an understanding of 
 
 **Conclusion**
 
-Tracking the correct [employer branding](https://www.thetalentpool.ai/blogs/5-common-employer-branding-mistakes-you-should-avoid/) KPIs is critical in today's competitive job market to recruit and retain top employees. You may make data-informed decisions and improve your recruitment strategy by monitoring the success of your employer brand.
+Tracking the correct [employer branding](https://www.thetalentpool.ai/blogs/5-common-employer-branding-mistakes-you-should-avoid) KPIs is critical in today's competitive job market to recruit and retain top employees. You may make data-informed decisions and improve your recruitment strategy by monitoring the success of your employer brand.
 
 Hopefully, you now have a clearer idea of what employer branding metrics are to optimize your campaigns and content, attract more talent, and prove your impact on leadership.
 

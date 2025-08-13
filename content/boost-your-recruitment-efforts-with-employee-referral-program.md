@@ -40,9 +40,9 @@ Filling roles with deadlines looming is a recruitment nightmare. And employee re
 
 Here’s how implementing an employee referral program can help your business -
 
-- **Reduced Time to Hire:** Recruitment drives are long processes that are time-consuming. The most challenging part of this is that there is a high demand for skilled employees but the supply is limited. When you have an employee referral program, employees are motivated to ask their friends to apply. This [reduces the time to hire](https://www.thetalentpool.ai/blogs/tips-to-hire-cost-effectively/) significantly as you’re more likely to find the perfect fit when candidates are motivated by their friends and family.
+- **Reduced Time to Hire:** Recruitment drives are long processes that are time-consuming. The most challenging part of this is that there is a high demand for skilled employees but the supply is limited. When you have an employee referral program, employees are motivated to ask their friends to apply. This [reduces the time to hire](https://www.thetalentpool.ai/blogs/tips-to-hire-cost-effectively) significantly as you’re more likely to find the perfect fit when candidates are motivated by their friends and family.
 
-- **Reduced Cost-to-Hire**: Budget constraints are a real factor in recruitment. The top talent is usually expensive, but employers’ budgets might be limited to a certain limit per hire. Implementing recruitment strategies is another expense, but employee referral programs are the most cost-efficient ways that are proven to work wonders for businesses. Studies have shown that businesses that use [employee referral programs](https://www.thetalentpool.ai/employee-referral-software/) can save up to INR 250,000 a year per hire.
+- **Reduced Cost-to-Hire**: Budget constraints are a real factor in recruitment. The top talent is usually expensive, but employers’ budgets might be limited to a certain limit per hire. Implementing recruitment strategies is another expense, but employee referral programs are the most cost-efficient ways that are proven to work wonders for businesses. Studies have shown that businesses that use [employee referral programs](https://www.thetalentpool.ai/employee-referral-software) can save up to INR 250,000 a year per hire.
 
 - **Higher Offer to Join Ratio:** It’s no surprise that people tend to choose things that have been recommended to them by friends or family. Businesses with employee referral programs have seen drastically higher joining as well as retention rates. It has been reported that companies that use employee referral programs had an average retention rate of 46 percent as compared to the 33 percent among companies who did not use employee referral programs.
 
@@ -78,6 +78,6 @@ In conclusion, employee referral programs have been the go-to way to boost recru
 
 Hope this post helps you leverage this powerful recruiting channel to get the right talent onboard, faster.
 
-Get in touch to request a demo and see how [TalentPool](https://www.thetalentpool.ai/) can solve your hiring troubles. 
+Get in touch to request a demo and see how [TalentPool](https://www.thetalentpool.ai) can solve your hiring troubles. 
 
 ![](images/employee-referral-program.webp)

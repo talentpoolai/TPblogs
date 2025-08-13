@@ -65,7 +65,7 @@ The time hiring managers would have spent manually reading through each applicat
 
 ## **Types of Resume Parsing**
 
-Usually, there are three kinds of [resume parsing](https://www.thetalentpool.ai/recruitment-management-software-benefits/) software available in the market:
+Usually, there are three kinds of [resume parsing](https://www.thetalentpool.ai/recruitment-management-software-benefits) software available in the market:
 
 ### **1\. Keyword-Based Resume Parser**
 
@@ -101,7 +101,7 @@ Resume parsing software also saves resumes for easy retrieval, keeping them orga
 
 ### 4\. **Hiring Errors Minimisation**
 
-Using [recruitment management software](https://www.thetalentpool.ai/blogs/3-basic-signs-your-company-needs-recruitment-software/) to sort resumes ensures that you do not miss any important keywords in applications. While manually scanning resumes for these words and qualifications can be effective, resume parsing software can scan multiple resumes qui ckly and with a low chance of error.
+Using [recruitment management software](https://www.thetalentpool.ai/blogs/3-basic-signs-your-company-needs-recruitment-software) to sort resumes ensures that you do not miss any important keywords in applications. While manually scanning resumes for these words and qualifications can be effective, resume parsing software can scan multiple resumes qui ckly and with a low chance of error.
 
 ### 5\. **Data Consistency**
 
@@ -109,6 +109,6 @@ A resume parser ensures that your candidate data is consistent regardless of how
 
 ## **Conclusion**
 
-By employing the resume parsing technique in your end-to-end recruitment process, you can streamline the applicant screening process. [Resume parsing software](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools/) can do in seconds what humans can do in hours. Regardless of the size of the firm, investing in a resume parser tool will boost your hiring team's productivity and lower costs. You will get the best candidates for each position every time and with much less effort.
+By employing the resume parsing technique in your end-to-end recruitment process, you can streamline the applicant screening process. [Resume parsing software](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools) can do in seconds what humans can do in hours. Regardless of the size of the firm, investing in a resume parser tool will boost your hiring team's productivity and lower costs. You will get the best candidates for each position every time and with much less effort.
 
 ![Resume Parsing](images/resume-parsing-1-1-1024x1024.jpg)

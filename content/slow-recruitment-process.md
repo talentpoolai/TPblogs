@@ -44,7 +44,7 @@ In this blog we would discuss some damages that stay beneath the surface yet are
 
 ## **Team Productivity:** 
 
-A longer [recruitment](https://www.thetalentpool.ai/recruitment-management-software-benefits/) process generates a lot of loopholes in the organization. Not onboarding candidates on time make uneven work distribution in the team that needs the team member and create a lot of stress. This directly hampers the efficacy of the work in the team. Ultimately it yields into poor product or service which you offer to the customer.
+A longer [recruitment](https://www.thetalentpool.ai/recruitment-management-software-benefits) process generates a lot of loopholes in the organization. Not onboarding candidates on time make uneven work distribution in the team that needs the team member and create a lot of stress. This directly hampers the efficacy of the work in the team. Ultimately it yields into poor product or service which you offer to the customer.
 
 ## **Utilization of Time:** 
 

@@ -47,7 +47,7 @@ The journey to building a robust talent mobility program is a continuous, strate
 
 ### 1\. Design Career Paths 
 
-Every employee has unique skills, interests, and potential. Recognizing talent and mapping it to a specific career progression is a key pillar of talent mobility. This journey can begin as early as the first day someone joins the company through a well-designed induction [platform](https://www.thetalentpool.ai/blogs/top-5-assessment-platforms-in-india/).
+Every employee has unique skills, interests, and potential. Recognizing talent and mapping it to a specific career progression is a key pillar of talent mobility. This journey can begin as early as the first day someone joins the company through a well-designed induction [platform](https://www.thetalentpool.ai/blogs/top-5-assessment-platforms-in-india).
 
 Employees' first six months lay the foundation for their experience and performance going forward. For instance, a content marketer could someday be head of marketing, or a data scientist could lead the enterprise data management services division. 
 
@@ -85,7 +85,7 @@ While the level of attrition reduces, a talent mobility plan can yield other des
 
 As employees see their seniors getting promoted or delegated to more challenging roles, they will be inspired to work hard, take more initiative, and drive more ambitious outcomes.
 
-The knowledge that their efforts will be recognized will encourage them to stay in the company for longer periods. This also translates to reduced [talent acquisition](https://www.thetalentpool.ai/) costs, a sustainable workflow, and better inter-team collaboration. 
+The knowledge that their efforts will be recognized will encourage them to stay in the company for longer periods. This also translates to reduced [talent acquisition](https://www.thetalentpool.ai) costs, a sustainable workflow, and better inter-team collaboration. 
 
 ### 2\. Enhanced Employee Engagement
 

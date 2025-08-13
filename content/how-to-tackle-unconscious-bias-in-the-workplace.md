@@ -32,7 +32,7 @@ The workplace is a dynamic environment where people from different backgrounds, 
 
 Despite our best efforts, we are all prone to biases that can influence our decision-making without us even realizing it.
 
-These biases can have a significant impact on the workplace, affecting [hiring](https://www.thetalentpool.ai/applicant-tracking-software/), promotions, and even daily interactions between colleagues. Therefore, it is essential to understand the impact of unconscious bias and learn how to address it in the workplace.
+These biases can have a significant impact on the workplace, affecting [hiring](https://www.thetalentpool.ai/applicant-tracking-software), promotions, and even daily interactions between colleagues. Therefore, it is essential to understand the impact of unconscious bias and learn how to address it in the workplace.
 
 This blog will explore the different types of unconscious bias that can affect your workplace. We will also look at strategies to tackle them and create a more equitable and inclusive workplace environment. Top of Form
 
@@ -82,7 +82,7 @@ It is the tendency to rely too heavily on the first piece of information we rece
 
 Conformity bias is the tendency to conform to the opinions or behaviors of a group rather than thinking for ourselves. This can lead to groupthink, in which decisions are made without considering alternative viewpoints.
 
-Also Read: **[How to identify and avoid interview biases?](https://www.thetalentpool.ai/blogs/how-identify-and-avoid-interview-bias/)**
+Also Read: **[How to identify and avoid interview biases?](https://www.thetalentpool.ai/blogs/how-identify-and-avoid-interview-bias)**
 
 ## **Impact of Unconscious Bias in the Workplace**
 
@@ -106,7 +106,7 @@ If unconscious bias results in discrimination or other unlawful practices, organ
 
 ### e. **Negative culture**
 
-Unconscious bias can contribute to negative workplace culture. Employees who are subject to bias may feel excluded, undervalued, or discriminated against. This can lead to low morale, high turnover rates, and a lack of [engagement among employees.](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement/)
+Unconscious bias can contribute to negative workplace culture. Employees who are subject to bias may feel excluded, undervalued, or discriminated against. This can lead to low morale, high turnover rates, and a lack of [engagement among employees.](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement)
 
 ## **How to Reduce Bias in the Workplace?**
 
@@ -122,19 +122,19 @@ It is important to identify the specific biases and measure their impact on hiri
 
 ### iii. **Promote diversity and inclusion**
 
-Organizations can promote [diversity and inclusion](https://www.thetalentpool.ai/blogs/7-effective-diversity-recruiting-strategies-for-recruiters/) by actively seeking out and hiring candidates from a variety of backgrounds and experiences. They can also create policies and procedures that support diversity and inclusion, such as flexible work arrangements.
+Organizations can promote [diversity and inclusion](https://www.thetalentpool.ai/blogs/7-effective-diversity-recruiting-strategies-for-recruiters) by actively seeking out and hiring candidates from a variety of backgrounds and experiences. They can also create policies and procedures that support diversity and inclusion, such as flexible work arrangements.
 
 ### iv. **Implement blind hiring practices**
 
-Blind hiring is a technique where personal information, such as name, gender, age, and ethnicity, is removed from [resumes](https://www.thetalentpool.ai/candidate-database-management/) and job applications. It is done to prevent bias during the initial screening process. Instead, candidates are evaluated solely based on their qualifications and experience. This technique can help eliminate unconscious biases that may influence hiring decisions.
+Blind hiring is a technique where personal information, such as name, gender, age, and ethnicity, is removed from [resumes](https://www.thetalentpool.ai/candidate-database-management) and job applications. It is done to prevent bias during the initial screening process. Instead, candidates are evaluated solely based on their qualifications and experience. This technique can help eliminate unconscious biases that may influence hiring decisions.
 
 ### v. **Rework job description**
 
-Companies can examine the language used in [job postings](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions/) to ensure that it is gender-neutral. They can also ensure that it does not contain any hidden biases that may discourage certain groups from applying.
+Companies can examine the language used in [job postings](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions) to ensure that it is gender-neutral. They can also ensure that it does not contain any hidden biases that may discourage certain groups from applying.
 
 ### vi. **Use of technology**
 
-Companies can use [automation tools](https://www.thetalentpool.ai/blogs/all-you-need-to-know-about-automation-technology-in-recruitment/) to screen resumes and conduct initial interviews. This can help eliminate bias by removing human judgment from the initial stages of the hiring process.
+Companies can use [automation tools](https://www.thetalentpool.ai/blogs/all-you-need-to-know-about-automation-technology-in-recruitment) to screen resumes and conduct initial interviews. This can help eliminate bias by removing human judgment from the initial stages of the hiring process.
 
 ### vii. **Create a culture of accountability**
 

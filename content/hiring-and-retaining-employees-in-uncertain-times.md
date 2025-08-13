@@ -40,21 +40,21 @@ The current recruitment landscape is volatile and punctuated by uncertainty. Tec
 
 <!--more-->
 
-As a recruiter, you might be feeling perplexed about how to hire and [retain employees](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation/) in these uncertain times. Especially, when you do not know how the economy or your business will look in the future.
+As a recruiter, you might be feeling perplexed about how to hire and [retain employees](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation) in these uncertain times. Especially, when you do not know how the economy or your business will look in the future.
 
-Definitely, it is not easy. Identifying [top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors/) during uncertain times can be challenging for companies. Since economic and market conditions can make it difficult to assess which candidates are the best fit for a given role.
+Definitely, it is not easy. Identifying [top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors) during uncertain times can be challenging for companies. Since economic and market conditions can make it difficult to assess which candidates are the best fit for a given role.
 
 But there are ways you and your business can get through these tough times while still scaling your team. In this article, you will find tips on attracting and hiring top talent during the layoff season.
 
 ## 1\. **Take Advantage of Opportunities in Uncertainty**
 
-During a recession, many companies are forced to lay off employees, [freeze hiring](https://www.thetalentpool.ai/blogs/is-hiring-freeze-an-effective-tactic/), or cut back on benefits and perks. As a result, there may be a large pool of talented and experienced professionals who are looking for work. This presents an ideal opportunity for companies that are looking to hire new employees or fill open positions. Companies can tap into this talent pool to fill their vacancies with skilled professionals who are eager to work.
+During a recession, many companies are forced to lay off employees, [freeze hiring](https://www.thetalentpool.ai/blogs/is-hiring-freeze-an-effective-tactic), or cut back on benefits and perks. As a result, there may be a large pool of talented and experienced professionals who are looking for work. This presents an ideal opportunity for companies that are looking to hire new employees or fill open positions. Companies can tap into this talent pool to fill their vacancies with skilled professionals who are eager to work.
 
-Another benefit of [sourcing talent](https://www.thetalentpool.ai/candidate-sourcing-software/) during uncertain times is the lack of competition. Many companies may scale back their hiring efforts or freeze recruitment altogether. This means that there will be fewer companies vying for the same candidates. This can create an ideal opportunity for companies to attract top talent that may have otherwise been out of reach.
+Another benefit of [sourcing talent](https://www.thetalentpool.ai/candidate-sourcing-software) during uncertain times is the lack of competition. Many companies may scale back their hiring efforts or freeze recruitment altogether. This means that there will be fewer companies vying for the same candidates. This can create an ideal opportunity for companies to attract top talent that may have otherwise been out of reach.
 
 ## 2\. **Lead With Honest and Communicate Properly**
 
-Effective communication and transparency are critical during uncertain times to ensure that employees remain informed, engaged, and motivated. Unfavorable economic conditions give room for unwarranted worries and rumors. As a result, employees may lose confidence in the company. [Regular communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication/) with employees during economic uncertainty is essential, as it helps build their confidence.
+Effective communication and transparency are critical during uncertain times to ensure that employees remain informed, engaged, and motivated. Unfavorable economic conditions give room for unwarranted worries and rumors. As a result, employees may lose confidence in the company. [Regular communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication) with employees during economic uncertainty is essential, as it helps build their confidence.
 
 Here are some ways organizations can achieve this:
 
@@ -72,11 +72,11 @@ Here are some ways organizations can achieve this:
 
 ### d. **Use multiple channels**:
 
-- It is essential to use different communication channels to reach employees, including email, [social media](https://www.thetalentpool.ai/blogs/5-tips-on-social-media-recruitment-strategies/), and other messaging tools. Using multiple channels ensures that the message reaches all employees and accommodates their preferences.
+- It is essential to use different communication channels to reach employees, including email, [social media](https://www.thetalentpool.ai/blogs/5-tips-on-social-media-recruitment-strategies), and other messaging tools. Using multiple channels ensures that the message reaches all employees and accommodates their preferences.
 
 ### e. **Demonstrate Your Loyalty to Your Employees**
 
-- To [retain employees](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent/), it is crucial to show your commitment to all of them, not just those in your talent pipeline. For example, make certain that your employees know and believe that you have their back. Eliminate obstacles that stand in their way so they can develop and be successful. Also pay attention to people who leave, whether voluntarily or not. Acknowledge their excellent efforts and provide opportunities for thanks and farewells. Do not let departures go unnoticed. This will not go ignored, and it will carry the impression that 'workers are not valued'.
+- To [retain employees](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent), it is crucial to show your commitment to all of them, not just those in your talent pipeline. For example, make certain that your employees know and believe that you have their back. Eliminate obstacles that stand in their way so they can develop and be successful. Also pay attention to people who leave, whether voluntarily or not. Acknowledge their excellent efforts and provide opportunities for thanks and farewells. Do not let departures go unnoticed. This will not go ignored, and it will carry the impression that 'workers are not valued'.
 
 ## 3\. **Offer a Retention Bonus**
 
@@ -96,7 +96,7 @@ By giving your employees new responsibilities and opportunities to develop their
 
 According to research by Gallup, fully remote workers experience more burnout than on-site workers. These findings suggest remote employees are struggling to draw the necessary boundary between work and home.
 
-_In these uncertain times, how do leaders manage the risk of [employee burnout](https://www.thetalentpool.ai/blogs/can-sabbaticals-help-fight-burnout/)?_
+_In these uncertain times, how do leaders manage the risk of [employee burnout](https://www.thetalentpool.ai/blogs/can-sabbaticals-help-fight-burnout)?_
 
 Start by encouraging breaks and vacation time.
 

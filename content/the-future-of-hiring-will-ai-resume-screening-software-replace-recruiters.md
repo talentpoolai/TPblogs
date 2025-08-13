@@ -30,13 +30,13 @@ seo:
 
 Imagine receiving thousands of applications for a single job opening that you have to close in two weeks. That is probably the biggest challenge recruiters are facing these days. Manually sorting through this huge number of applications would take days, if not weeks. But what if there is a tool that could do it in minutes?   
 
-That is exactly where [AI recruitment management](https://www.thetalentpool.ai/blogs/maximize-your-hiring-potential-with-ai-recruitment-software/) systems simplify the task for recruiters. Around 81% of HR leaders have already either adopted or explored AI solutions to enhance efficiency and streamline their recruitment processes. With automated resume screening software doing the heavy lifting of filtering through thousands of applications in seconds, there is one critical aspect recruiters are concerned about: Can resume shortlisting software completely replace human recruiters, or is it simply another tool to make their jobs easier?  
+That is exactly where [AI recruitment management](https://www.thetalentpool.ai/blogs/maximize-your-hiring-potential-with-ai-recruitment-software) systems simplify the task for recruiters. Around 81% of HR leaders have already either adopted or explored AI solutions to enhance efficiency and streamline their recruitment processes. With automated resume screening software doing the heavy lifting of filtering through thousands of applications in seconds, there is one critical aspect recruiters are concerned about: Can resume shortlisting software completely replace human recruiters, or is it simply another tool to make their jobs easier?  
 
 Let us understand how this technology has been changing recruitment and whether it will ever fully replace human expertise in the recruitment industry.  
 
 ## **What is Resume Screening Software?**  
 
-Resume screening software is an AI-powered tool or feature that automates the process of filtering resumes by considering a few predefined criteria set by the recruiter. It works hand-in-hand with [**ATS software**](https://www.thetalentpool.ai/blogs/is-ats-software-the-key-to-efficient-recruitment/) and recruitment management systems to help recruiters quickly find the top candidates with relevant skills without getting buried in paperwork.  
+Resume screening software is an AI-powered tool or feature that automates the process of filtering resumes by considering a few predefined criteria set by the recruiter. It works hand-in-hand with [**ATS software**](https://www.thetalentpool.ai/blogs/is-ats-software-the-key-to-efficient-recruitment) and recruitment management systems to help recruiters quickly find the top candidates with relevant skills without getting buried in paperwork.  
 
 ## **How Resume Screening Software Works?**
 
@@ -54,7 +54,7 @@ Resume screening software is an AI-powered tool or feature that automates the pr
 
 Candidates today expect quick responses and when hiring processes take too long, they lose interest, which eventually increases drop-off rates. In fact, [70%](https://www.inc.com/adam-robinson/why-you-should-share-feedback-with-candidates-immediately-after-an-interview-according-to-a-new-study.html#:~:text=70%20percent%20of%20job%20seekers%20lose%20interest%20in%20a%20job%20if%20they%20don%E2%80%99t%20hear%20back%20within%20one%20week%20of%20an%20interview) of job seekers will lose interest in an application if they do not hear back within a week.  
 
-AI-powered resume screening software scans, parses, and ranks resumes in minutes, which allows recruiters to instantly identify the best candidates and respond within days instead of weeks. Faster responses automatically ensure [positive candidate experiences](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips/) and higher offer acceptance rates.  
+AI-powered resume screening software scans, parses, and ranks resumes in minutes, which allows recruiters to instantly identify the best candidates and respond within days instead of weeks. Faster responses automatically ensure [positive candidate experiences](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips) and higher offer acceptance rates.  
 
 ### **2\. Bias-Free Hiring**  
 
@@ -78,7 +78,7 @@ Well, the short answer is no! Here is why:  
 
 ### **Absence of Human Judgement**  
 
-Recruiting is not just about finding a qualified candidate but more importantly about [identifying the right candidate](https://www.thetalentpool.ai/blogs/how-to-identify-the-right-hire-understanding-candidate-personas/). While this kind of software definitely does an outstanding job in matching skills to job descriptions, it cannot evaluate a candidate’s leadership potential, how well they can handle pressure, or whether they are a cultural fit. Recruiters assess soft skills, personality traits, and cultural alignment, which are critical factors for long-term employee success.   
+Recruiting is not just about finding a qualified candidate but more importantly about [identifying the right candidate](https://www.thetalentpool.ai/blogs/how-to-identify-the-right-hire-understanding-candidate-personas). While this kind of software definitely does an outstanding job in matching skills to job descriptions, it cannot evaluate a candidate’s leadership potential, how well they can handle pressure, or whether they are a cultural fit. Recruiters assess soft skills, personality traits, and cultural alignment, which are critical factors for long-term employee success.   
 
 ### **Algorithmic Bias**  
 
@@ -86,7 +86,7 @@ These AI-powered resume management systems are only as fair as the data they are
 
 ### **Risk of Candidates Outsmarting AI**  
 
-The [**resume screening**](https://www.thetalentpool.ai/blogs/resume-screening-for-precise-hiring-a-guide-for-recruiters/) software largely relies on keyword matching, which means candidates can create their resumes as per the system. Some job seekers stuff their resumes with industry keywords to trick AI into ranking them higher, even if their actual experience does not match up.  
+The [**resume screening**](https://www.thetalentpool.ai/blogs/resume-screening-for-precise-hiring-a-guide-for-recruiters) software largely relies on keyword matching, which means candidates can create their resumes as per the system. Some job seekers stuff their resumes with industry keywords to trick AI into ranking them higher, even if their actual experience does not match up.  
 
 ## **How Recruiters Can Use Resume Screening Software to Their Advantage?**
 
@@ -104,7 +104,7 @@ While resume screening software is making a big impact on recruitment, it’s no
 
 ## **How Talentpool’s Recruitment Management System Can Help?**
 
-Talentpool’s AI-powered [**Recruitment Management System**](https://www.thetalentpool.ai/) is here to make hiring faster, smarter, and more efficient with features like:  
+Talentpool’s AI-powered [**Recruitment Management System**](https://www.thetalentpool.ai) is here to make hiring faster, smarter, and more efficient with features like:  
 
 - AI-powered resume parsing to extract and organise candidate data easily and more quickly.  
 

@@ -68,11 +68,11 @@ For example, using words like 'Ninja' apparently drives females away, there are 
 
 ### 3\. Standardized Interview questions
 
-Designing a set of questions- including ice breakers makes the process more organized and fairs. There is less room for the interviewers to evaluate candidates leniently or severely. Questions are designed for the specific role and seniority when they are designed with deliberation and not spontaneity. This makes the evaluation more aligned to the role. Time and again it has been proved that having a structured [interview process](https://www.thetalentpool.ai/blogs/top-4-signs-of-an-inefficient-hiring-process/) with a definite set of questions makes the interview process much more accurate.
+Designing a set of questions- including ice breakers makes the process more organized and fairs. There is less room for the interviewers to evaluate candidates leniently or severely. Questions are designed for the specific role and seniority when they are designed with deliberation and not spontaneity. This makes the evaluation more aligned to the role. Time and again it has been proved that having a structured [interview process](https://www.thetalentpool.ai/blogs/top-4-signs-of-an-inefficient-hiring-process) with a definite set of questions makes the interview process much more accurate.
 
 ### 4\. Interview panel with more than one interviewer
 
-This is pretty obvious. The more the number of people interviewing the lesser the bias. There's more perspective involved. Evaluations are not based on the gut feeling of a single individual. Even if one might be clouded by distorted judgment the other interviewer will be clear-headed, making the [interview process](https://www.thetalentpool.ai/blogs/top-4-signs-of-an-inefficient-hiring-process/) less biased.
+This is pretty obvious. The more the number of people interviewing the lesser the bias. There's more perspective involved. Evaluations are not based on the gut feeling of a single individual. Even if one might be clouded by distorted judgment the other interviewer will be clear-headed, making the [interview process](https://www.thetalentpool.ai/blogs/top-4-signs-of-an-inefficient-hiring-process) less biased.
 
 ### 5\. Notes. Take Notes!
 

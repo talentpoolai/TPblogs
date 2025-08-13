@@ -69,11 +69,11 @@ Hence, they are looking to be aligned with workplaces that mirror or connect to
 
 A new employee's first impressions are created during those early interactions in the company.
 
-Whether they are hired as remote workers or need to report on-site, Gen Z wants to feel connected and valued. This is the most digitally connected generation of all time. Hence, leveraging a unified digital platform to build a scalable, robust, welcoming [onboarding process](https://www.thetalentpool.ai/blogs/how-do-you-start-onboarding-more-candidate/) is a smart approach.
+Whether they are hired as remote workers or need to report on-site, Gen Z wants to feel connected and valued. This is the most digitally connected generation of all time. Hence, leveraging a unified digital platform to build a scalable, robust, welcoming [onboarding process](https://www.thetalentpool.ai/blogs/how-do-you-start-onboarding-more-candidate) is a smart approach.
 
 For instance, companies can set up a week-long agenda that offers clear direction without overwhelming new joiners. This can include virtual meetings with key team members and digital resources that introduce them to the company culture, mission, and vision.
 
-In addition, consider introducing them to mentors they can reach out to for advice and support. Based on valuable [data insights](https://www.thetalentpool.ai/recruitment-management-software-benefits/), recruiting teams can keep enhancing the process.
+In addition, consider introducing them to mentors they can reach out to for advice and support. Based on valuable [data insights](https://www.thetalentpool.ai/recruitment-management-software-benefits), recruiting teams can keep enhancing the process.
 
 ## 5\. Craft Growth Trajectories
 

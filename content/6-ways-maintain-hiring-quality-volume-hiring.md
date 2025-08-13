@@ -70,7 +70,7 @@ The recruiter must understand the existing company culture and shortlist candida
 
 ## **4.**    **Group Discussions**
 
-One of the oldest and most trusted [screening processes](https://www.thetalentpool.ai/candidate-sourcing-software/) for mass recruitment drives is a group discussion. This technique involves placing a pool of candidates into a debate around a common subject. Each group receives five minutes to discuss or debate the matter.
+One of the oldest and most trusted [screening processes](https://www.thetalentpool.ai/candidate-sourcing-software) for mass recruitment drives is a group discussion. This technique involves placing a pool of candidates into a debate around a common subject. Each group receives five minutes to discuss or debate the matter.
 
 This open discussion provides significant information about the candidates' communication skills, reasoning abilities, and perspectives. GDs also allow recruiters to judge a candidate on non-academic qualities. 
 
@@ -90,6 +90,6 @@ In today's age of technology, these occur both online and in person. A dedicated
 
 When looking at volume recruitment, ensure you always keep quality in mind. With more candidates in the mix, it's harder to balance quality and quantity. However, the above method will help eliminate redundancies and create a streamlined process. 
 
-Companies must also look into [recruitment metrics](https://www.thetalentpool.ai/blogs/3-key-recruitment-metrics-quantify-your-talent-acquisition-process/) to determine flaws and correct them in time.
+Companies must also look into [recruitment metrics](https://www.thetalentpool.ai/blogs/3-key-recruitment-metrics-quantify-your-talent-acquisition-process) to determine flaws and correct them in time.
 
 ![volume-hiring](images/volume-hiring-1-1024x715.jpg)

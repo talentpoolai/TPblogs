@@ -51,7 +51,7 @@ _Professor Anthony Klotz from Texas A&M University_ came up with the name "_The 
 
 ## **What Caused the Great Resignation?**
 
-After COVID-19, employees started evaluating the level of their job satisfaction and [engagement](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement/). And when they did so, they realized that some aspects of their jobs no longer suited them.
+After COVID-19, employees started evaluating the level of their job satisfaction and [engagement](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement). And when they did so, they realized that some aspects of their jobs no longer suited them.
 
 **One of the biggest reasons employees left their jobs was dissatisfaction with how they were treated during the pandemic. In addition, reduced salaries, overtime shifts, and the absence of work-life balance added to this dissatisfaction.**
 
@@ -79,9 +79,9 @@ Some other prevalent reasons for The Great Resignation are:
 
 ## **What Is the Impact of Great Resignation on the Recruiters?**
 
-All thanks to The Great Resignation, potential [new hires](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires/) now have expectations and requirements that need to be fulfilled before they accept a new position.
+All thanks to The Great Resignation, potential [new hires](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires) now have expectations and requirements that need to be fulfilled before they accept a new position.
 
-As a recruiter, this involves improving employee treatment and workplace culture. It also implies that you must consider the newfound leverage that employees have during the [hiring process.](https://www.thetalentpool.ai/blogs/increase-hiring-efficiency-by-tracking-these-key-parameters/)
+As a recruiter, this involves improving employee treatment and workplace culture. It also implies that you must consider the newfound leverage that employees have during the [hiring process.](https://www.thetalentpool.ai/blogs/increase-hiring-efficiency-by-tracking-these-key-parameters)
 
 You need to tell potential employees that your company has a good work environment with lots of opportunities to learn and grow. Also, showing individuals that you can be flexible to meet their needs and offer a competitive salary and benefits package can help a lot.
 
@@ -89,6 +89,6 @@ Some argue that compensation is the most important part of this debate. Salary a
 
 ## **Conclusion**
 
-The Great Resignation has created an environment in which companies must raise their game, streamline their [end-to-end recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/), and improve their offerings in order to attract and keep great people. At its root, the only way to halt the Great Resignation is to provide employees with a great place to work. It requires companies to relook at their messaging, positioning, and whether they are taking steps enough to back it up.
+The Great Resignation has created an environment in which companies must raise their game, streamline their [end-to-end recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle), and improve their offerings in order to attract and keep great people. At its root, the only way to halt the Great Resignation is to provide employees with a great place to work. It requires companies to relook at their messaging, positioning, and whether they are taking steps enough to back it up.
 
 ![A woman leaving an office building carrying a box of her belongings.](images/great_resignation_scaled.webp)

@@ -32,7 +32,7 @@ seo:
 
 Recruiters, Talent Acquisition, and HR teams are constantly looking for ways to make their workflows more efficient and hiring the right talent within the right time. But from what we have understood from client feedback, the overload of notifications, irrelevant reports, and document approvals stuck in long email chains affecting the efficiency they are aiming for. 
 
-At Talentpool [**Recruitment Software**](https://www.thetalentpool.ai/), we understand the real-world challenges hiring teams face every day. That is why our April 2025 feature enhancements are all about three things: Control, Clarity, Clear Communication 
+At Talentpool [**Recruitment Software**](https://www.thetalentpool.ai), we understand the real-world challenges hiring teams face every day. That is why our April 2025 feature enhancements are all about three things: Control, Clarity, Clear Communication 
 
 Here is everything you need to know about this month’s enhancements. 
 
@@ -62,7 +62,7 @@ Now, that has changed. 
 
 ## **Smarter Reports and Clean Inboxes** 
 
-[AI recruiting](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025/) and automation is only helpful if it stays relevant. We noticed that many users were receiving scheduled reports that often contained no meaningful data, or worse, reports they were not even opening. That leads to inbox overload and a drop in engagement with key recruitment insights. 
+[AI recruiting](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025) and automation is only helpful if it stays relevant. We noticed that many users were receiving scheduled reports that often contained no meaningful data, or worse, reports they were not even opening. That leads to inbox overload and a drop in engagement with key recruitment insights. 
 
 So, as a solution, we reimagined how scheduled reports work within Talentpool. 
 

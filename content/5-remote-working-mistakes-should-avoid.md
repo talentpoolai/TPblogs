@@ -44,7 +44,7 @@ However, the onboarding team in your organization should focus on having convers
 
 ## 2\. **Lack of communication with team members and seniors**
 
-Lack of communication can stop the flow of information in an organization. It is the responsibility of team leaders to make sure their peers or colleagues are communicating well enough. [Standard communications channels](https://www.thetalentpool.ai/blogs/measuring-enhancing-talent-acquisition-with-candidate-surveys/) should be established for tracking their work progress.
+Lack of communication can stop the flow of information in an organization. It is the responsibility of team leaders to make sure their peers or colleagues are communicating well enough. [Standard communications channels](https://www.thetalentpool.ai/blogs/measuring-enhancing-talent-acquisition-with-candidate-surveys) should be established for tracking their work progress.
 
 Team members should also be well-rehearsed with all communication tools like Microsoft Teams, Slack, and others. Similarly, interacting in real-time with audio/video conferencing tools creates team bonding and better engagements. Team leaders can also create a group on any platform to discuss project-related issues or important updates which can be shared instantly. With these groups, communication gaps will be avoided and the team could complete their given tasks within a timeline.
 

@@ -44,7 +44,7 @@ Facebook is another reliable social media platform to post free job openings. An
 
 ## **Career Websites**
 
-A career website is one of the most effective ways to get [passive candidates](https://www.thetalentpool.ai/blogs/sourcing-passive-candidates-techniques-that-work/). Creating a specific career page can help candidates to get complete information on available job positions. Today every organization is having its own website and that traffic can be used to divert the audience to the career website. And this can act as a quality resource to get the right talent. A career website also helps the employer to create their brand image in the market.
+A career website is one of the most effective ways to get [passive candidates](https://www.thetalentpool.ai/blogs/sourcing-passive-candidates-techniques-that-work). Creating a specific career page can help candidates to get complete information on available job positions. Today every organization is having its own website and that traffic can be used to divert the audience to the career website. And this can act as a quality resource to get the right talent. A career website also helps the employer to create their brand image in the market.
 
 These website pages are solely dedicated to job seekers. Rather than visiting multiple digital channels, candidates can browse job postings on one specific website. In addition, you can directly receive information about the candidates who applied for your job opening through such a website.
 
@@ -64,6 +64,6 @@ Many passive candidates are lurking on freelancing websites. Passive candidates 
 
 ## **In a Nutshell**
 
-Free job posting platforms can reduce the costs incurred in the [recruitment process](https://www.thetalentpool.ai/). Many candidates are actively searching for jobs online. The recruiter can leverage the power of online channels to find the right talent for your company. Start using free digital channels for your job postings this 2022.
+Free job posting platforms can reduce the costs incurred in the [recruitment process](https://www.thetalentpool.ai). Many candidates are actively searching for jobs online. The recruiter can leverage the power of online channels to find the right talent for your company. Start using free digital channels for your job postings this 2022.
 
 ![job-boards](images/job-boards-1-1-1024x683.jpg)

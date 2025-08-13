@@ -63,7 +63,7 @@ This is an elimination method where the recruitment team can define a few questi
 
 ## 2\. **Efforts towards finding more qualified candidates**
 
-[Effectiveness of the recruitment](https://www.thetalentpool.ai/blogs/tips-to-hire-cost-effectively/) can be improved by accessing more qualified candidates on various platforms as mentioned below.
+[Effectiveness of the recruitment](https://www.thetalentpool.ai/blogs/tips-to-hire-cost-effectively) can be improved by accessing more qualified candidates on various platforms as mentioned below.
 
 ### **Contest:**
 
@@ -83,6 +83,6 @@ Set up an employee referral program to get more qualified candidates. With high 
 
 There are many platforms out there in the market, where recruiters can find the pre evaluated candidate with different tests and screening criteria. This reduces lot of time and assures the quality candidate.
 
-In conclusion, with these [effective hiring methods](https://www.thetalentpool.ai/blogs/effective-hiring-methods-to-hire-quality-candidates/) and practices one can definitely get the right talent from existing data pool. This not only improves quality of hire but also helps organization to achieve their goals in much faster rate.
+In conclusion, with these [effective hiring methods](https://www.thetalentpool.ai/blogs/effective-hiring-methods-to-hire-quality-candidates) and practices one can definitely get the right talent from existing data pool. This not only improves quality of hire but also helps organization to achieve their goals in much faster rate.
 
 ![effective-hiring-methods](images/effective-hiring-methods-1-1.jpg)

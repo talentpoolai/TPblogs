@@ -34,7 +34,7 @@ AI in recruitment has gained popularity because of its ability to perform tasks 
 
 <!--more-->
 
-[AI in recruitment](https://www.thetalentpool.ai/blogs/ai-applicant-tracking-system/) is used for screening through hundreds of resumes, recommending the best fit, conducting preliminary screening, and hiring the right candidates faster.
+[AI in recruitment](https://www.thetalentpool.ai/blogs/ai-applicant-tracking-system) is used for screening through hundreds of resumes, recommending the best fit, conducting preliminary screening, and hiring the right candidates faster.
 
 Artificial Intelligence uses predictive analytics to underline the positions which are hard to fill and the process gaps that may hamper the TAT or the candidate experience. IT giants using AI for recruitment, such as Amazon, Google, Facebook, IBM, and Microsoft invest in AI. 
 
@@ -42,7 +42,7 @@ In this article, we will study how AI technology has been successful in bringing
 
 ## **AI and the Hiring Process**
 
-Businesses today have increased the adoption of artificial intelligence technology by 270%. By 2027, it is estimated to reach $266.92 billion. With resumes entering in large numbers due to digital trends, the most tedious phase of the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process/) is identifying the right candidate. Here AI helps Talent Acquisition Managers (TAs) automate recruitment tasks by improving the job-matching process and propelling the time taken for screening, hiring, and onboarding new candidates.
+Businesses today have increased the adoption of artificial intelligence technology by 270%. By 2027, it is estimated to reach $266.92 billion. With resumes entering in large numbers due to digital trends, the most tedious phase of the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process) is identifying the right candidate. Here AI helps Talent Acquisition Managers (TAs) automate recruitment tasks by improving the job-matching process and propelling the time taken for screening, hiring, and onboarding new candidates.
 
 ### 1\. **Resume Screening**
 
@@ -54,7 +54,7 @@ In the absence of AI, recruiters hardly go through 30% of a job application that
 
 ### 2\. **Interview**
 
-Interviewing with AI is the next step in hiring, where it is evaluated whether the applicant meets the requirements. Here is the process with an [AI recruiting software](https://www.thetalentpool.ai/) can help:
+Interviewing with AI is the next step in hiring, where it is evaluated whether the applicant meets the requirements. Here is the process with an [AI recruiting software](https://www.thetalentpool.ai) can help:
 
 - Conduct a basic hygiene check in terms of experience and education
 - Determine the candidate’s performance through tests

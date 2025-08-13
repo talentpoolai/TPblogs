@@ -35,7 +35,7 @@ As more and more employees are quitting and competitors are making aggressive of
 
 <!--more-->
 
-One way organizations are trying to manage this situation is by automating hiring through tools like **applicant tracking systems** and **[cloud recruitment software](https://www.thetalentpool.ai/).**
+One way organizations are trying to manage this situation is by automating hiring through tools like **applicant tracking systems** and **[cloud recruitment software](https://www.thetalentpool.ai).**
 
 However, it is equally crucial for organizations to strengthen their hiring systems; it is important to determine what is working and what is not. What better than recruitment metrics to plug the loopholes and fill the hiring numbers in time?
 
@@ -61,7 +61,7 @@ Most organizations have several channels for sourcing resumes, such as vendors a
 
 Source-of-hire tells an organization which channel is the most effective. This information improves processes and budget allocation. For instance, you can chart out a referral program if you have been consistently getting qualified candidates through this channel. A formal process will provide your employees with a platform to refer their friends for open jobs.
 
-To collect this information, you can ask the candidates how they got to know about the job. A **[resume management software](https://www.thetalentpool.ai/candidate-database-management/)** or an **applicant tracking system** can also help capture this detail.
+To collect this information, you can ask the candidates how they got to know about the job. A **[resume management software](https://www.thetalentpool.ai/candidate-database-management)** or an **applicant tracking system** can also help capture this detail.
 
 ### 3\. Quality of Hire
 

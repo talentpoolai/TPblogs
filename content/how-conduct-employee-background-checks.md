@@ -39,7 +39,7 @@ _So obviously, you would hire them? Right?_
 
 <!--more-->
 
-Some applicants exaggerate information, fabricate details, or conceal their real backgrounds to land the job. Background checks are therefore crucial for businesses looking to [hire new employees.](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires/)
+Some applicants exaggerate information, fabricate details, or conceal their real backgrounds to land the job. Background checks are therefore crucial for businesses looking to [hire new employees.](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires)
 
 **_In fact, a study conducted by the_** **_Society of Human Resources Management cites that 53% of all job applications contain inaccurate information._**
 
@@ -55,7 +55,7 @@ Employers can either do their own background checks or contact employee backgrou
 
 ## **Why Conduct Employee Background Check?**         
 
-Background checks are a crucial element of the [end-to-end recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/) since they inform the employer that the candidate has the necessary education and experience required for the position. It ensures that they have selected the best candidates to contribute to their company.
+Background checks are a crucial element of the [end-to-end recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle) since they inform the employer that the candidate has the necessary education and experience required for the position. It ensures that they have selected the best candidates to contribute to their company.
 
 Employers also need to make sure they are protecting their business from individuals who may engage in fraudulent or reckless behavior in the workplace.
 
@@ -65,7 +65,7 @@ Apart from mitigating the impact of a bad hire, state and national regulatory co
 
 The kinds of employee background check an employer can conduct are wide-ranging and include everything from employer history, credit checks, education, and driving records to social media and criminal history.
 
-Putting each candidate through all possible background checks is both expensive and unnecessary. You need to evaluate each position and [job description](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions/) individually to determine what background checks are necessary and why, and then follow through with the checks that make the most sense.
+Putting each candidate through all possible background checks is both expensive and unnecessary. You need to evaluate each position and [job description](https://www.thetalentpool.ai/blogs/how-to-write-inclusive-job-descriptions) individually to determine what background checks are necessary and why, and then follow through with the checks that make the most sense.
 
 Usually, companies undertake the following types of background checks:
 
@@ -113,6 +113,6 @@ Once you have access to the background check materials, review them to see if yo
 
 ## **Conclusion**
 
-An employee background check is a good investment in developing a high-quality team that will assist you in meeting your business objectives. Customize your screening policy to your industry and job positions and select a source who can supply the data you require while also assisting you in remaining compliant. You will increase hiring quality and reduce risk by making informed [hiring decisions.](https://www.thetalentpool.ai/blogs/increase-hiring-efficiency-by-tracking-these-key-parameters/)
+An employee background check is a good investment in developing a high-quality team that will assist you in meeting your business objectives. Customize your screening policy to your industry and job positions and select a source who can supply the data you require while also assisting you in remaining compliant. You will increase hiring quality and reduce risk by making informed [hiring decisions.](https://www.thetalentpool.ai/blogs/increase-hiring-efficiency-by-tracking-these-key-parameters)
 
 ![employee-background-checks](images/background-check-1-scaled-1-1-1024x538.jpg)

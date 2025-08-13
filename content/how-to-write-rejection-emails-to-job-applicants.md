@@ -45,7 +45,7 @@ _Each corporate job posting attracts approximately_ 250 resumes_. Out of these, 
 
 When you are rejecting so many candidates, it becomes difficult to send a job rejection email to every candidate. However, it is crucial and healthy to inform a job applicant if they are not selected for the position. This way, they can carry on with their job search.
 
-Otherwise, applicants might spend more time on your job listing by sending follow-up emails or calling; only to find out that they are no longer in the running. When candidates have bad experiences like these, it can hurt your [employer's brand.](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand/)
+Otherwise, applicants might spend more time on your job listing by sending follow-up emails or calling; only to find out that they are no longer in the running. When candidates have bad experiences like these, it can hurt your [employer's brand.](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand)
 
 Sending a job rejection email is easier than you think. Let’s discuss how you can draft a rejection email that works best for your company and helps your candidates still feel valued, even in rejection.
 
@@ -53,7 +53,7 @@ Sending a job rejection email is easier than you think. Let’s discuss how you 
 
 A job rejection email is a message sent by an employer to a job applicant to inform them that they have not been selected for the position they applied for. The email typically explains the reasons for the rejection. It also offer suggestions for improving the applicant's chances of success in future job applications.
 
-It builds more transparency into the system when organisations communicate the reason for rejection to the candidate. [Ghosting candidates](https://www.thetalentpool.ai/blogs/how-avoid-being-ghosted-by-candidates/) without a reason certainly leaves them to figure out what the reason could have been.
+It builds more transparency into the system when organisations communicate the reason for rejection to the candidate. [Ghosting candidates](https://www.thetalentpool.ai/blogs/how-avoid-being-ghosted-by-candidates) without a reason certainly leaves them to figure out what the reason could have been.
 
 It is professional courtesy to send a rejection email to candidates as soon as you know you won't be moving forward with their application.
 
@@ -81,7 +81,7 @@ Here are some tips for writing a candidate rejection email:
 - **Explain the decision**: Without going into detail, it can be helpful to provide some context for the decision. For example, you may say the candidate didn't fit the opening or that another candidate had more relevant experience.
 - **Offer feedback**: If possible, try to provide some constructive feedback to the candidate. This can help them to understand what they could do differently in future to improve their chances of success.
 - **Keep it brief**: Job rejection emails don't need to be lengthy, but they should be concise and to the point. A simple, straightforward message is often the most effective way to communicate the decision.
-- **Be sincere**: Above all, it is important to be sincere in your [communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication/). Show appreciation for the candidate's time and effort. Expressing hope that they will find a role that is a better fit for their skills is also crucial.
+- **Be sincere**: Above all, it is important to be sincere in your [communication](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication). Show appreciation for the candidate's time and effort. Expressing hope that they will find a role that is a better fit for their skills is also crucial.
 
 ## **What** to Include **in a Job Rejection Email?**
 

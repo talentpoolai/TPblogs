@@ -38,7 +38,7 @@ seo:
 
 Modern-day recruitment is hectic and has become more complicated than ever before. Be it a recruiter who has to manage several tasks simultaneously or a hiring manager who needs to ensure that the feedback loop is tight, even minor inefficiencies may interfere with the whole process.    
 
-That is exactly the problem these Talentpool feature updates in May 2025 are designed to address. These modifications are made in order to make the Talentpool [recruitment management system](https://www.thetalentpool.ai/) even more responsive, user-friendly, and collaborative for recruiters, hiring managers, and HR professionals.  
+That is exactly the problem these Talentpool feature updates in May 2025 are designed to address. These modifications are made in order to make the Talentpool [recruitment management system](https://www.thetalentpool.ai) even more responsive, user-friendly, and collaborative for recruiters, hiring managers, and HR professionals.  
 
 Here is a closer look at what’s new and how these features can improve your hiring process.  
 
@@ -64,9 +64,9 @@ The recruiter and hiring managers must be quick in executing every task. Every s
 
 - **Mobile-Ready Efficiency:** Fully optimised mobile views let recruiters and managers track and respond on the go, without needing to log in from a desktop.  
 
-- **Faster Decision-Making:** With easier access to relevant candidate details, users can evaluate and move candidates through stages more confidently and quickly, ensuring faster decision-making and improving [candidate experience](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips/).  
+- **Faster Decision-Making:** With easier access to relevant candidate details, users can evaluate and move candidates through stages more confidently and quickly, ensuring faster decision-making and improving [candidate experience](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips).  
 
-By making Talentpool [recruitment software](https://www.thetalentpool.ai/blogs/the-ultimate-guide-to-selecting-the-right-recruitment-software/) more accessible and user-friendly, we help hiring teams stay responsive at all times.  
+By making Talentpool [recruitment software](https://www.thetalentpool.ai/blogs/the-ultimate-guide-to-selecting-the-right-recruitment-software) more accessible and user-friendly, we help hiring teams stay responsive at all times.  
 
 ## **2\. Option to Add Note on Timeline: Improving Communication at Every Stage**  
 
@@ -94,7 +94,7 @@ One of the main obstacles in a successful hiring process is a communication gap,
 
 This feature ensures that insights from interviewers are acted upon, therefore, enhancing coordination and improving time-to-hire.  
 
-**Read More:** [Boost Recruitment Efficiency with Talentpool’s April Feature Updates](https://www.thetalentpool.ai/blogs/boost-recruitment-efficiency-with-talentpools-april-feature-updates/) 
+**Read More:** [Boost Recruitment Efficiency with Talentpool’s April Feature Updates](https://www.thetalentpool.ai/blogs/boost-recruitment-efficiency-with-talentpools-april-feature-updates) 
 
 ## **3\. Position Status Funnel: Full Visibility into Recruitment Progress**  
 
@@ -122,7 +122,7 @@ There should be no need to frequently pull out a report or request an update to 
 
 This enhancement makes Talentpool a more transparent recruitment management system, supporting the continuous optimisation of your hiring pipeline.  
 
-**Read More:** [Want to Hire Smarter and Faster? A Recruitment Management System is the Answer](https://www.thetalentpool.ai/blogs/want-to-hire-smarter-and-faster-a-recruitment-management-system-is-the-answer/) 
+**Read More:** [Want to Hire Smarter and Faster? A Recruitment Management System is the Answer](https://www.thetalentpool.ai/blogs/want-to-hire-smarter-and-faster-a-recruitment-management-system-is-the-answer) 
 
 ## **4\. Replacing Disabled Users Made Easy: Maintain Operational Continuity**  
 

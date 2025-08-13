@@ -42,7 +42,7 @@ When so much is going on during a recruitment drive, recruiters need to find way
 
 ## **1\. Automate Interview Scheduling** 
 
-Instead of allotting time slots for candidate interviews manually, use [automation software](https://www.thetalentpool.ai/).
+Instead of allotting time slots for candidate interviews manually, use [automation software](https://www.thetalentpool.ai).
 
 An interview scheduler relies on AI (Artificial Intelligence) and schedules candidate interviews without manual effort. This enables it to automatically schedule interviews based on the availability of the recruiter and the serial number or availability of candidates.
 
@@ -70,7 +70,7 @@ For example, Chrome extensions like Grammarly, Right Inbox, and Calendly are pre
 
 Recruiters have to take a final call based on the candidates' scores, education, and other info. They have to either reject an applicant or select them based on their scores and resume.
 
-The [screening process](https://www.thetalentpool.ai/blogs/top-10-pre-screening-interview-questions/) for shortlisting candidates is time-intensive. With screening tools, recruiters can automate the entire process as these tools rely on keywords, threshold scores, and other parameters to shortlist candidates.
+The [screening process](https://www.thetalentpool.ai/blogs/top-10-pre-screening-interview-questions) for shortlisting candidates is time-intensive. With screening tools, recruiters can automate the entire process as these tools rely on keywords, threshold scores, and other parameters to shortlist candidates.
 
 ## **5\. Block Calendar in Advance** 
 

@@ -30,11 +30,11 @@ Smita is a talent acquisition manager at a mid-sized IT firm. With multiple open
 
 Now, imagine if Smita’s team had centralised recruiting software that automates resume screening, tracks every applicant’s progress, and allows seamless collaboration across departments—anytime, anywhere.  That's something only a cloud-based candidate tracking system can offer. 
 
-But is cloud-based [candidate management software](https://www.thetalentpool.ai/candidate-database-management/) the right solution for every business? In this blog post, we will share the pros and cons of cloud-based candidate tracking software to help you determine whether it aligns with your hiring strategy. 
+But is cloud-based [candidate management software](https://www.thetalentpool.ai/candidate-database-management) the right solution for every business? In this blog post, we will share the pros and cons of cloud-based candidate tracking software to help you determine whether it aligns with your hiring strategy. 
 
 ## **What is a Cloud-Based ATS?** 
 
-A candidate tracking system is [recruitment software](https://www.thetalentpool.ai/blogs/pros-and-cons-of-recruitment-software-for-high-growth-companies/) that helps talent acquisition teams manage job applications, track candidates, and streamline the hiring process from a single dashboard. It eliminates manual tracking through spreadsheets, ensuring a structured, organised approach to recruitment. 
+A candidate tracking system is [recruitment software](https://www.thetalentpool.ai/blogs/pros-and-cons-of-recruitment-software-for-high-growth-companies) that helps talent acquisition teams manage job applications, track candidates, and streamline the hiring process from a single dashboard. It eliminates manual tracking through spreadsheets, ensuring a structured, organised approach to recruitment. 
 
 A cloud-based candidate tracking software or ATS takes this a step further by hosting all hiring data on remote servers, accessible from anywhere with an internet connection. Unlike on-premises solutions that require heavy IT infrastructure, cloud-based systems provide scalability, real-time collaboration, and automation, making it easier for recruiters to source, screen, and engage with candidates efficiently. 
 
@@ -98,7 +98,7 @@ If you want to maximise ROI, compare different pricing plans, evaluate feature s
 
 ### **Integration Challenges with Legacy Systems** 
 
-For companies using older HR software or custom-built recruitment management systems, integrating cloud-based candidate tracking systems can sometimes be challenging. Not all cloud-based [recruitment software](https://www.thetalentpool.ai/blogs/enhancing-recruitment-success-the-impact-of-a-candidate-management-system/) supports data migration or integration with legacy systems. 
+For companies using older HR software or custom-built recruitment management systems, integrating cloud-based candidate tracking systems can sometimes be challenging. Not all cloud-based [recruitment software](https://www.thetalentpool.ai/blogs/enhancing-recruitment-success-the-impact-of-a-candidate-management-system) supports data migration or integration with legacy systems. 
 
 Without proper API support, businesses may face workflow disruptions, duplicate data entries, or compatibility issues. This can slow down hiring processes and require additional custom development to ensure smooth functionality. 
 
@@ -106,7 +106,7 @@ To avoid such roadblocks, organisations should check API capabilities, integrati
 
 ## **Who Should Choose a Cloud-Based Candidate Tracking System?** 
 
-A cloud-based [candidate management system](https://www.thetalentpool.ai/blogs/enhancing-recruitment-success-the-impact-of-a-candidate-management-system/) is ideal for organisations: 
+A cloud-based [candidate management system](https://www.thetalentpool.ai/blogs/enhancing-recruitment-success-the-impact-of-a-candidate-management-system) is ideal for organisations: 
 
 - With remote hiring needs or multiple office locations 
 
@@ -136,7 +136,7 @@ Talentpool’s cloud-based candidate tracking system is one of the most user-fri
 
 - **Automated Reports & Analytics:** Gain insights into hiring efficiency, track bottlenecks, monitor recruitment trends, and collect candidate feedback. 
 
-Upgrade to [Talentpool’s](https://www.thetalentpool.ai/) cloud-based candidate tracking software now and transform your hiring process. Book a free demo today! 
+Upgrade to [Talentpool’s](https://www.thetalentpool.ai) cloud-based candidate tracking software now and transform your hiring process. Book a free demo today! 
 
 <figure>
 

@@ -48,7 +48,7 @@ In this era of uncertainty, recruiters need to hire the right people that can bo
 
 Some companies shortlist candidates based on their resumes and interview results. However, resumes and interviews aren't enough to test applicants' skills.
 
-Recruiters use advanced screening tools to get quantifiable data about applicants' skills. Recruiters need to speed up the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process/) and eliminate underqualified individuals from the candidate pool.
+Recruiters use advanced screening tools to get quantifiable data about applicants' skills. Recruiters need to speed up the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process) and eliminate underqualified individuals from the candidate pool.
 
 Many companies are now including behavioral assessments as part of their screening process. Tools such as skill tests enable recruiters to identify applicants that do not possess the required skills.
 
@@ -60,7 +60,7 @@ Leveraging the power of artificial intelligence, recruiters are moving toward hy
 
 With the help of an AI-powered recruitment system, processes such as background and reference checking can be automated. With minimum manual effort, recruiters can get the most out of the hiring process with AI.
 
-Recruiters can use AI-powered systems to reroute candidates and onboard new employees. Moreover, an [AI-based recruitment system](https://www.thetalentpool.ai/) can help recruiters boost the candidate experience - it can help them communicate efficiently with candidates at each stage of recruitment. 
+Recruiters can use AI-powered systems to reroute candidates and onboard new employees. Moreover, an [AI-based recruitment system](https://www.thetalentpool.ai) can help recruiters boost the candidate experience - it can help them communicate efficiently with candidates at each stage of recruitment. 
 
 ## **Diversity in Hiring** 
 

@@ -4,7 +4,7 @@ title: 'Sourcing Passive Candidates: Techniques that Work'
 slug: sourcing-passive-candidates-techniques-that-work
 excerpt: >-
   The major
-  [challenge](https://www.thetalentpool.ai/blogs/top-6-recruitment-challenges-and-how-to-overcome-them/)
+  [challenge](https://www.thetalentpool.ai/blogs/top-6-recruitment-challenges-and-how-to-overcome-them)
   that any recruiter faces is finding suitable talent for the job opening. Even
   if you g...
 author:
@@ -26,13 +26,13 @@ seo:
   metaTitle: 'Sourcing Passive Candidates: Techniques that Work'
   metaDescription: >-
     The major
-    [challenge](https://www.thetalentpool.ai/blogs/top-6-recruitment-challenges-and-how-to-overcome-them/)
+    [challenge](https://www.thetalentpool.ai/blogs/top-6-recruitment-challenges-and-how-to-overcome-them)
     that any recruiter faces is finding suitable talent for the job opening.
     Even if you g...
   keywords: *ref_0
 ---
 
-The major [challenge](https://www.thetalentpool.ai/blogs/top-6-recruitment-challenges-and-how-to-overcome-them/) that any recruiter faces is finding suitable talent for the job opening. Even if you get a lot of applications, none of them might have the right skills and qualifications for the job.
+The major [challenge](https://www.thetalentpool.ai/blogs/top-6-recruitment-challenges-and-how-to-overcome-them) that any recruiter faces is finding suitable talent for the job opening. Even if you get a lot of applications, none of them might have the right skills and qualifications for the job.
 
 This is because most ideal job candidates are likely already employed. These candidates are generally referred to as passive candidates.
 
@@ -62,7 +62,7 @@ There are several reasons why a company might want to include passive candidates
 
 - **Build a Stronger Pipeline**
 
-Only when your interviewers speak to more people, can they get the right talent onboard. Even if somebody is not looking for a job actively, they might accept the invitation to discuss once they are told about an interesting opportunity.  This helps add to the [recruitment funnel.](https://www.thetalentpool.ai/blogs/understanding-the-recruitment-funnel/)
+Only when your interviewers speak to more people, can they get the right talent onboard. Even if somebody is not looking for a job actively, they might accept the invitation to discuss once they are told about an interesting opportunity.  This helps add to the [recruitment funnel.](https://www.thetalentpool.ai/blogs/understanding-the-recruitment-funnel)
 
 - **Get high-value candidates**
 
@@ -80,17 +80,17 @@ Let’s have a look at some of the effective sourcing strategies recruiters can 
 
 ### **Leverage Existing Database**
 
-This tactic may be obvious, but it is often overlooked by recruiters when they are figuring out how to source passive candidates. There is a good chance that the perfect candidate for a job opening is already in your database, whether you are using an [applicant tracking system](https://www.thetalentpool.ai/applicant-tracking-software/) or still doing recruitment manually. If you have been using an applicant tracking system (ATS) for a long time, you probably already have a lot of great candidates to choose from.
+This tactic may be obvious, but it is often overlooked by recruiters when they are figuring out how to source passive candidates. There is a good chance that the perfect candidate for a job opening is already in your database, whether you are using an [applicant tracking system](https://www.thetalentpool.ai/applicant-tracking-software) or still doing recruitment manually. If you have been using an applicant tracking system (ATS) for a long time, you probably already have a lot of great candidates to choose from.
 
 This allows you to capitalise on previous efforts while saving you time from pursuing fresh candidates. Moving ahead, make sure you do not delete any notes or history associated with current applicants, even if they do not seem to fit the bill. You never know when you might need them.
 
 ### **Use Automation Tools**
 
-Every facet of modern recruiting and applicant sourcing has been transformed by advanced technologies. Recruiters can now employ [artificial intelligence](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process/) (AI) to their advantage when sourcing passive candidates. The AI technology crawls job search engines in order to collect and assess a large number of candidate databases. It includes their resume information to match the specified vacancies. With this information, AI-based tools predict which passive candidates will be interested in switching jobs. Consequently, letting the recruiters prioritize and attract passive candidates easily.
+Every facet of modern recruiting and applicant sourcing has been transformed by advanced technologies. Recruiters can now employ [artificial intelligence](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process) (AI) to their advantage when sourcing passive candidates. The AI technology crawls job search engines in order to collect and assess a large number of candidate databases. It includes their resume information to match the specified vacancies. With this information, AI-based tools predict which passive candidates will be interested in switching jobs. Consequently, letting the recruiters prioritize and attract passive candidates easily.
 
 ### **Build a Referral Program**
 
-Current employees are usually one of the best sources of new talent for recruiters. [Referrals](https://www.thetalentpool.ai/blogs/boost-your-recruitment-efforts-with-employee-referral-program/) have been an important part of modern recruiting strategies for a long time.
+Current employees are usually one of the best sources of new talent for recruiters. [Referrals](https://www.thetalentpool.ai/blogs/boost-your-recruitment-efforts-with-employee-referral-program) have been an important part of modern recruiting strategies for a long time.
 
 **_In fact, 78% of recruiters say that referral is how they find their best candidates._**
 
@@ -98,7 +98,7 @@ Obviously, each employee has his or her own connections and networks. Most of th
 
 ### **Market Your Employer Brand**
 
-In today's job market, having a strong [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand/) is essential. Today's best talent is picky about the brands for which they work, with a clear preference for organisations that share values such as diversity, equity, sustainability, and social responsibility.
+In today's job market, having a strong [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand) is essential. Today's best talent is picky about the brands for which they work, with a clear preference for organisations that share values such as diversity, equity, sustainability, and social responsibility.
 
 Exceptional learning and career development opportunities are also crucial to millennials; thus, they must be highlighted as part of a rewarding work culture. Demonstrate these values by having current employees serve as brand ambassadors, using their social media handles and word of mouth to spread the word about the impactful initiatives that are being run and the advantages that are being gained. Use the company's social media handles to share CEO messages, positive employee experiences, and customer testimonials about the value of the company's products and services.
 

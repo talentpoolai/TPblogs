@@ -47,7 +47,7 @@ A pre-screening interview is usually conducted before an in-person interview by 
 
 It may not include technical questions, but it does include questions related to the applicant’s personal life and past experiences.
 
-Most recruiters prefer to conduct a [pre-screening interview](https://www.thetalentpool.ai/) over the phone. Telephonic pre-screening interviews can last for around 15-20 minutes. Similarly, many recruiters prefer conducting a pre-screening interview over a video call.
+Most recruiters prefer to conduct a [pre-screening interview](https://www.thetalentpool.ai) over the phone. Telephonic pre-screening interviews can last for around 15-20 minutes. Similarly, many recruiters prefer conducting a pre-screening interview over a video call.
 
 At the end of the pre-screening interview, the recruiter will transfer the capable applicants to the technical or in-person interview round. A pre-screening interview is thus essential for recruiters to judge applicants' soft skills and personality.
 
@@ -59,7 +59,7 @@ Pre-screening questions can be of several types. The major types of pre-screenin
 
 Experience is highly regarded by recruiters. Many job openings have a criterion for minimum working experience. Recruiters prefer candidates having a working experience in the same field or sector.
 
-When you have prior experience, you can quickly adapt to a new work environment. The most common question asked in a [pre-screening interview](https://www.thetalentpool.ai/blogs/3-things-to-know-when-interviewing-virtually/) regarding past working experience is:
+When you have prior experience, you can quickly adapt to a new work environment. The most common question asked in a [pre-screening interview](https://www.thetalentpool.ai/blogs/3-things-to-know-when-interviewing-virtually) regarding past working experience is:
 
 - State some of your past working experiences and what you learned over time? 
 

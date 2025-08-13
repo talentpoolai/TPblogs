@@ -50,7 +50,7 @@ For e.g. – Good soft skills, Not Interested, Call Later, etc.
 **Status** – Pre-defined hiring pipeline stages.  
 For e.g. – Channel-wise Screening, Interested, Shortlisted, Interview Scheduled, etc.
 
-- Resdex is now available with a smart comment system that will [improve your productivity](https://www.thetalentpool.ai/blogs/importance-employee-development-modern-workplace/) and help you close positions faster. Manage open positions and activities on profiles from a single interface. Also, a recruiter can add structured comments (tags) to group similar profiles.
+- Resdex is now available with a smart comment system that will [improve your productivity](https://www.thetalentpool.ai/blogs/importance-employee-development-modern-workplace) and help you close positions faster. Manage open positions and activities on profiles from a single interface. Also, a recruiter can add structured comments (tags) to group similar profiles.
 
 - Use candidate status to manage the hiring pipeline easily
 
@@ -60,7 +60,7 @@ For e.g. – Channel-wise Screening, Interested, Shortlisted, Interview Schedule
 
 ### 2\. **AI-powered Relevance Score**
 
-Screening candidates from a large pool of candidates is the hardest part of recruitment. It consumes significant bandwidth of recruiters. To resolve this, Naukri has launched an [AI-based relevance score](https://www.thetalentpool.ai/recruitment-management-software-benefits/).
+Screening candidates from a large pool of candidates is the hardest part of recruitment. It consumes significant bandwidth of recruiters. To resolve this, Naukri has launched an [AI-based relevance score](https://www.thetalentpool.ai/recruitment-management-software-benefits).
 
 Recruiter can not only identify the most relevant applications but also understand why it is relevant, based on their evaluation of the job. It also takes into account parameters such as skills, designation, experience, salary, location & education, etc.
 
@@ -68,7 +68,7 @@ Recruiter can not only identify the most relevant applications but also understa
 
 Naukri’s AI-powered matching algorithm evaluates the published job and application. By evaluating this application on multiple parameters algorithm comes with a relevance score. This score predicts how relevant the application is to the given job. Based on relevance, candidates get categorized as “High Match”, “Medium Match” or “Low Match”. It also gives an objective understanding of the overall application and it is possible to check detailed scores as well by just hovering on the relevance score.
 
-Now it is not required to spend time going through tons of job applications. Use [AI-powered](https://www.thetalentpool.ai/best-ai-recruitment-software/) relevance score to get the right fit right away.
+Now it is not required to spend time going through tons of job applications. Use [AI-powered](https://www.thetalentpool.ai/best-ai-recruitment-software) relevance score to get the right fit right away.
 
 ### 4\. **Matching scores on different parameters**
 
@@ -84,7 +84,7 @@ Now it is not required to spend time going through tons of job applications. Use
 
 It is one of the underrated features on the Naukri platform that allows employers to add potential candidates to their candidate pool or talent database. This feature is useful for recruiters who are constantly on the lookout for candidates with specific skills.
 
-When a recruiter uses the [Candidate Pool Addition feature](https://www.thetalentpool.ai/), they can upload the resumes of potential candidates directly to their account on Naukri. This creates a record of the candidate's profile and makes it easier for the recruiter to search for and contact the candidate in the future.
+When a recruiter uses the [Candidate Pool Addition feature](https://www.thetalentpool.ai), they can upload the resumes of potential candidates directly to their account on Naukri. This creates a record of the candidate's profile and makes it easier for the recruiter to search for and contact the candidate in the future.
 
 The feature also allows employers to add notes and tags to each candidate's profile, making it easier to organize and track potential candidates over time. This can be especially useful for companies that regularly recruit for similar roles or have ongoing hiring needs.
 

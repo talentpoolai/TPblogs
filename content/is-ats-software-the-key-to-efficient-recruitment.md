@@ -45,7 +45,7 @@ This kind of automation saves recruiters hours, if not days, allowing them to fo
 
 Another advantage of ATS software is that it serves as a centralized repository for all candidate information. Without an ATS, recruiters may rely on email threads, spreadsheets, or paper resumes, making it impossible to track where each prospect stands in the process. An application tracking software maintains all resumes, cover letters, interview notes, and communication records in one location. This makes it easy to trace candidates through the recruiting process and ensures that no one is forgotten.
 
-Centralized [candidate information](https://www.thetalentpool.ai/blogs/is-ats-software-the-key-to-efficient-recruitment/) also helps team members collaborate more effectively. HR professionals, hiring managers, and other stakeholders may all access the same data, give input, and remain up to speed on each candidate’s development.
+Centralized [candidate information](https://www.thetalentpool.ai/blogs/is-ats-software-the-key-to-efficient-recruitment) also helps team members collaborate more effectively. HR professionals, hiring managers, and other stakeholders may all access the same data, give input, and remain up to speed on each candidate’s development.
 
 ### Data-Driven Decision Making
 

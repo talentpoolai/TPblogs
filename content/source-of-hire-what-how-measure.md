@@ -28,30 +28,30 @@ seo:
   keywords: *ref_0
 ---
 
-As a recruiter, you know that sourcing new talent is essential to your success. You also know that it can be challenging to find the best candidates for your organisation.To achieve this, it is crucial to understand where successful candidates come from. It is also equally important to identify which [recruitment sources](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate/) are yielding the best results.
+As a recruiter, you know that sourcing new talent is essential to your success. You also know that it can be challenging to find the best candidates for your organisation.To achieve this, it is crucial to understand where successful candidates come from. It is also equally important to identify which [recruitment sources](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate) are yielding the best results.
 
 This is where the concept of "source of hire" comes into play.
 
-The source of hire is a [recruiting metric](https://www.thetalentpool.ai/blogs/recruitment-metrics/) that helps you understand from which sources the hired candidates come. It helps to improve your recruiting strategy by identifying the most effective ones.
+The source of hire is a [recruiting metric](https://www.thetalentpool.ai/blogs/recruitment-metrics) that helps you understand from which sources the hired candidates come. It helps to improve your recruiting strategy by identifying the most effective ones.
 
 This blog will discuss what the source of hire is and how to measure it. It will also highlight the advantages and limitations of this metric.
 
 ## **What is the Source of Hire?**
 
-Source of hire refers to the specific channel or method through which a candidate discovers a [job opening](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post/) and applies for it. It is used to track and analyze the effectiveness of various recruitment sources in attracting qualified candidates.
+Source of hire refers to the specific channel or method through which a candidate discovers a [job opening](https://www.thetalentpool.ai/blogs/our-2023-job-board-quick-guide-where-should-you-post) and applies for it. It is used to track and analyze the effectiveness of various recruitment sources in attracting qualified candidates.
 
 ## **What are the Common Recruiting Sources?**
 
 The source of hire includes both internal and external channels. Some common sources of hire include:
 
-- **Job boards**: Online platforms where employers post job openings, such as Indeed, [LinkedIn](https://www.thetalentpool.ai/blogs/6-secret-tips-for-hiring-the-best-candidates-from-linkedin/), or specialised industry-specific job boards.
+- **Job boards**: Online platforms where employers post job openings, such as Indeed, [LinkedIn](https://www.thetalentpool.ai/blogs/6-secret-tips-for-hiring-the-best-candidates-from-linkedin), or specialised industry-specific job boards.
 - **Company career websites**: The organisation's own website, where they list available positions and accept applications directly.
 - **Employee referrals**: Candidates who are referred to a job by current employees of the company.
 - **Social media**: Platforms like Facebook, Twitter, and Instagram where employers promote job openings and engage with potential candidates.
 - **Recruitment agencies**: External agencies or firms that specialize in finding and screening candidates on behalf of employers.
 - **Networking events**: Industry conferences, job fairs, or other professional events where recruiters and job seekers can connect.
 - **Direct sourcing**: Proactive sourcing methods, such as reaching out to potential candidates on professional networking platforms like LinkedIn.
-- **Internal transfers or promotions**: Existing employees who move or are [promoted](https://www.thetalentpool.ai/blogs/employee-promotion-the-types-benefits-and-criteria/) to different positions within the same organization.
+- **Internal transfers or promotions**: Existing employees who move or are [promoted](https://www.thetalentpool.ai/blogs/employee-promotion-the-types-benefits-and-criteria) to different positions within the same organization.
 
 ## **Why Is It Important for Organizations to Track Source of Hire?**
 
@@ -59,11 +59,11 @@ The source of hire is significant in the field of recruitment and talent acquisi
 
 ### 1\. **Recruitment Strategy Evaluation**
 
-Understanding the source of hire helps organisations optimise their recruitment strategies. By analysing which sources yield the most successful hires, companies can focus their resources and efforts on the most effective channels. This allows for efficient allocation of time, budget, and energy to attract [top talent.](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors/)
+Understanding the source of hire helps organisations optimise their recruitment strategies. By analysing which sources yield the most successful hires, companies can focus their resources and efforts on the most effective channels. This allows for efficient allocation of time, budget, and energy to attract [top talent.](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors)
 
 ### 2\. **Cost-Effectiveness**
 
-Tracking the source of hire provides insights into the cost-effectiveness of different [recruitment](https://www.thetalentpool.ai/blogs/understanding-the-recruitment-funnel/) channels. It helps organisations identify the sources that provide the best return on investment (ROI) in terms of quality hires. This knowledge allows for informed decision-making on where to invest resources and where to reduce spending. It ultimately maximises the efficiency of recruitment budgets.
+Tracking the source of hire provides insights into the cost-effectiveness of different [recruitment](https://www.thetalentpool.ai/blogs/understanding-the-recruitment-funnel) channels. It helps organisations identify the sources that provide the best return on investment (ROI) in terms of quality hires. This knowledge allows for informed decision-making on where to invest resources and where to reduce spending. It ultimately maximises the efficiency of recruitment budgets.
 
 ### 3\. **Targeted Candidate Sourcing**
 
@@ -71,7 +71,7 @@ Understanding the sources of hire provides valuable information on where to find
 
 ### 4\. **Data-Driven Decision Making**
 
-By tracking and analysing the source of hires, organisations can make data-driven decisions in their recruitment efforts. They can evaluate the effectiveness of different recruitment channels, compare performance over time, and identify trends in [candidate sourcing](https://www.thetalentpool.ai/blogs/5-ways-streamline-sourcing-with-recruitment-automation/). This data allows for informed decision-making, enabling continuous improvement of recruitment strategies and practises.
+By tracking and analysing the source of hires, organisations can make data-driven decisions in their recruitment efforts. They can evaluate the effectiveness of different recruitment channels, compare performance over time, and identify trends in [candidate sourcing](https://www.thetalentpool.ai/blogs/5-ways-streamline-sourcing-with-recruitment-automation). This data allows for informed decision-making, enabling continuous improvement of recruitment strategies and practises.
 
 ## **How to Calculate Source of Hire?**
 
@@ -96,7 +96,7 @@ _Here is how you can apply this formula:_
 | **Social Media** | 10 | (10 / 50) x 100 = 20% |
 | **Total** | 50 |  |
 
-By using this formula, you can quantitatively analyse the distribution of hires across different sources. It also helps gain insights into the effectiveness of each source in the [hiring process.](https://www.thetalentpool.ai/blogs/enhance-your-hiring-process-with-vendor-management-system/)
+By using this formula, you can quantitatively analyse the distribution of hires across different sources. It also helps gain insights into the effectiveness of each source in the [hiring process.](https://www.thetalentpool.ai/blogs/enhance-your-hiring-process-with-vendor-management-system)
 
 ## **How to Track Source of Hire?**
 
@@ -108,7 +108,7 @@ Include a field in your application form where candidates can select or specify 
 
 ### **2**. **Referral Programs**:
 
-Implement an [employee referral program](https://www.thetalentpool.ai/employee-referral-software/) where employees can refer candidates for open positions. Have a mechanism in place to track the source of these referrals, typically through an internal referral portal or system.
+Implement an [employee referral program](https://www.thetalentpool.ai/employee-referral-software) where employees can refer candidates for open positions. Have a mechanism in place to track the source of these referrals, typically through an internal referral portal or system.
 
 ### **3**. **Analytics Tools**:
 
@@ -116,7 +116,7 @@ Utilise website analytics tools such as Google Analytics or similar platforms to
 
 ### **4\. Source Code Tagging**:
 
-Implement source code tagging on your [career website](https://www.thetalentpool.ai/blogs/how-to-create-a-career-page-that-converts/) or job postings. Assign a unique source code to each recruitment source and embed it in the URLs or links. This allows you to track the specific source when candidates access your website or apply for a job.
+Implement source code tagging on your [career website](https://www.thetalentpool.ai/blogs/how-to-create-a-career-page-that-converts) or job postings. Assign a unique source code to each recruitment source and embed it in the URLs or links. This allows you to track the specific source when candidates access your website or apply for a job.
 
 ### **5.** **Candidate Surveys**:
 
@@ -124,7 +124,7 @@ Conduct surveys with candidates to gather information about the source from whic
 
 ### **6.** **Applicant Tracking System (ATS**):
 
-Utilise an [ATS](https://www.thetalentpool.ai/blogs/recruiters-guide-applicant-tracking-system-ats/) that allows you to capture and track the source of hire information for each candidate. Many modern ATS platforms provide built-in features to facilitate source tracking and reporting.
+Utilise an [ATS](https://www.thetalentpool.ai/blogs/recruiters-guide-applicant-tracking-system-ats) that allows you to capture and track the source of hire information for each candidate. Many modern ATS platforms provide built-in features to facilitate source tracking and reporting.
 
 ## **Limitations of Source of Hire**
 

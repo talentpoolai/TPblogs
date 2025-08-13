@@ -57,7 +57,7 @@ When asked by a wide range of hiring executives, 80% of them believed that autom
 
 To best integrate the automation system into your hiring process, start by finding areas in the hiring pipeline, and understanding how automation can help.
 
-Using the right [recruiting software](https://www.thetalentpool.ai/blogs/3-basic-signs-your-company-needs-recruitment-software/) can make all the difference, so determine which areas can improve with automation. It also helps to designate a single person or department to manage these processes.
+Using the right [recruiting software](https://www.thetalentpool.ai/blogs/3-basic-signs-your-company-needs-recruitment-software) can make all the difference, so determine which areas can improve with automation. It also helps to designate a single person or department to manage these processes.
 
 ### **2\. Remain Highly Dependent on Job Boards** 
 

@@ -45,13 +45,13 @@ When we are in the process of onboarding a customer, we tend to do everything in
 
 ## 5 Ways to Improve Candidate Experience
 
-The first impression is often the last one. So, before thinking about improving the entire [candidate experience](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience/), think of enhancing the first impression for every candidate. For instance, you could start by improving your job postings, making them more informative and easily scannable. Another way can be to modify the website’s career page in a way that it is user-friendly.
+The first impression is often the last one. So, before thinking about improving the entire [candidate experience](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience), think of enhancing the first impression for every candidate. For instance, you could start by improving your job postings, making them more informative and easily scannable. Another way can be to modify the website’s career page in a way that it is user-friendly.
 
 Once you have achieved that, check the following ways to improve candidate experience.
 
 ### 1\. Conduct an Audit
 
-To change your [recruitment process](https://www.thetalentpool.ai/recruitment-management-software-benefits/), conduct an audit first. You need to understand what experience you are providing to your candidates.
+To change your [recruitment process](https://www.thetalentpool.ai/recruitment-management-software-benefits), conduct an audit first. You need to understand what experience you are providing to your candidates.
 
 Use the following questions -
 

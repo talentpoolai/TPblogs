@@ -60,7 +60,7 @@ Maintain open and transparent communication channels and appoint a single point 
 
 ### 1\. **Tap into Your Employees' Network** 
 
-The basis of a [referral program](https://www.thetalentpool.ai/employee-referral-software/) is to make the most of your existing network. Ensure you reach the right people for this task. People from specific teams or departments might provide better references than others.
+The basis of a [referral program](https://www.thetalentpool.ai/employee-referral-software) is to make the most of your existing network. Ensure you reach the right people for this task. People from specific teams or departments might provide better references than others.
 
 Advertise to the right audience. Ensure you post a detailed and easily shared job description. Make these JDs available as a downloadable PDF if that helps speed things up. Don't hesitate to reach out to individual employees or groups who remain well-connected.  
 

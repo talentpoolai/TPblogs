@@ -53,9 +53,9 @@ These type of employer stories helps organizations to build a strong employer br
 
 Not promoting your employer brand on social networks is a significant employer branding mistake that can hinder your ability to attract the right talent. In today's digital age, social media platforms offer a valuable opportunity to showcase your company culture, values, and employer brand to a wide audience. Failing to leverage these platforms means missing out on engaging with potential candidates and effectively communicating your employer’s value proposition.
 
-When a company neglects to promote their employer branding on social networks, they are essentially limiting their visibility. They are also missing out on the chance to engage with a vast pool of potential candidates. They miss the opportunity to connect with [passive](https://www.thetalentpool.ai/blogs/sourcing-passive-candidates-techniques-that-work/) job seekers who may not actively be looking for new opportunities but can be influenced by compelling employer branding content. Moreover, competitors who actively promote their employer brand on social media gain a competitive advantage in attracting top talent.
+When a company neglects to promote their employer branding on social networks, they are essentially limiting their visibility. They are also missing out on the chance to engage with a vast pool of potential candidates. They miss the opportunity to connect with [passive](https://www.thetalentpool.ai/blogs/sourcing-passive-candidates-techniques-that-work) job seekers who may not actively be looking for new opportunities but can be influenced by compelling employer branding content. Moreover, competitors who actively promote their employer brand on social media gain a competitive advantage in attracting top talent.
 
-To overcome this mistake, organizations should develop a strategic approach to promoting their employer branding on social networks. This involves creating a robust [social media strategy](https://www.thetalentpool.ai/blogs/5-tips-on-social-media-recruitment-strategies/) that aligns with the company's employer value proposition and target audience. The strategy should include regular and engaging content creation, active engagement with followers, and leveraging employee advocacy.
+To overcome this mistake, organizations should develop a strategic approach to promoting their employer branding on social networks. This involves creating a robust [social media strategy](https://www.thetalentpool.ai/blogs/5-tips-on-social-media-recruitment-strategies) that aligns with the company's employer value proposition and target audience. The strategy should include regular and engaging content creation, active engagement with followers, and leveraging employee advocacy.
 
 #### **_Let us look at how Marriott International, a leading global hospitality company effectively utilizes Facebook as part of their recruitment strategy._**
 
@@ -71,7 +71,7 @@ People come to the site to peruse current openings and apply for positions, but 
 
 Ignoring negative online reviews is a significant employer branding mistake that can have detrimental effects on a company's reputation. Online reviews and ratings play a crucial role in shaping perceptions of organizations.
 
-When a company ignores negative online reviews, it sends the message that it does not value employee feedback or take their concerns seriously. This can lead to a decline in employee morale, engagement, and ultimately, retention. Additionally, potential candidates who research the company online may be deterred by negative reviews. It impacts the company's ability to [attract](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent/) top talent.
+When a company ignores negative online reviews, it sends the message that it does not value employee feedback or take their concerns seriously. This can lead to a decline in employee morale, engagement, and ultimately, retention. Additionally, potential candidates who research the company online may be deterred by negative reviews. It impacts the company's ability to [attract](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent) top talent.
 
 Ignoring negative reviews can also hinder the company's ability to address and resolve underlying issues within the organization. Constructive feedback from employees can provide valuable insights into areas that need improvement. By dismissing or disregarding this feedback, the company misses out on the opportunity to make positive changes and enhance its employer brand.
 
@@ -79,19 +79,19 @@ Ignoring negative reviews can also hinder the company's ability to address and r
 
 Source: [https://salestalentinc.com/blog/negative-glassdoor-reviews/](https://salestalentinc.com/blog/negative-glassdoor-reviews/)
 
-To address this issue, try to actively monitor online review platforms and employee feedback platforms to identify negative reviews in a timely manner. Respond promptly and professionally to acknowledge the concerns raised and offer assistance or clarification. Demonstrating a proactive approach to addressing feedback shows that the company is committed to [employee satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it/) and continuous improvement.
+To address this issue, try to actively monitor online review platforms and employee feedback platforms to identify negative reviews in a timely manner. Respond promptly and professionally to acknowledge the concerns raised and offer assistance or clarification. Demonstrating a proactive approach to addressing feedback shows that the company is committed to [employee satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it) and continuous improvement.
 
 ## 4\. **Neglecting the Candidates Experience**
 
-The candidate experience refers to the overall journey and interactions that a candidate goes through during the [recruitment process](https://www.thetalentpool.ai/blogs/how-integrated-technology-can-improve-your-recruitment-process/). It ranges from the initial application to the final decision-making stage. When companies fail to prioritize and enhance the candidate experience, it can result in a negative perception of the organization. It leads to a loss of potential candidates and a damaged employer brand.
+The candidate experience refers to the overall journey and interactions that a candidate goes through during the [recruitment process](https://www.thetalentpool.ai/blogs/how-integrated-technology-can-improve-your-recruitment-process). It ranges from the initial application to the final decision-making stage. When companies fail to prioritize and enhance the candidate experience, it can result in a negative perception of the organization. It leads to a loss of potential candidates and a damaged employer brand.
 
 Studies report that candidates usually experience a lack of communication, long waiting times, and disorganized interview processes. Many candidates also expressed frustration and disappointment due to the lack of transparency and feedback throughout the recruitment process. This negative experience not only discourage candidates from pursuing opportunities within the organization but also led to negative word-of-mouth and a tarnished employer brand reputation.
 
-**_To overcome this, you can streamline your recruitment process using an [ATS](https://www.thetalentpool.ai/applicant-tracking-software/) to make it more efficient and less time-consuming._**  
+**_To overcome this, you can streamline your recruitment process using an [ATS](https://www.thetalentpool.ai/applicant-tracking-software) to make it more efficient and less time-consuming._**  
 
 ![employer-branding-3](images/employer-branding-3.1-1024x461-1-1.jpg)
 
-You can use recruiting software like [Talentpool](https://www.thetalentpool.ai/) that facilitates effective candidate engagement and communication. Recruiters can send personalized email notifications, updates, and interview invitations directly from the platform. Additionally, the system can automate candidate status updates and notifications, ensuring candidates stay informed about their application progress.
+You can use recruiting software like [Talentpool](https://www.thetalentpool.ai) that facilitates effective candidate engagement and communication. Recruiters can send personalized email notifications, updates, and interview invitations directly from the platform. Additionally, the system can automate candidate status updates and notifications, ensuring candidates stay informed about their application progress.
 
 You can also establish clear channels of communication and provide regular updates to candidates throughout the recruitment process. Promptly acknowledge receipt of applications, provide timely feedback, and notify candidates about the outcome of their application, even if it is negative. Transparent and open communication helps candidates feel valued and respected. These features enhance communication and create a positive candidate experience.
 
@@ -126,6 +126,6 @@ This recruitment video is engaging, interactive, and reflective of the company's
 
 ## **Conclusion**
 
-In such a competitive job market, the last thing you want to do is ignore your company’s branding. That’s why you need to avoid these 5 [employer branding](https://www.thetalentpool.ai/blogs/5-common-employer-branding-mistakes-you-should-avoid/) mistakes. Doing so will help you avoid taking steps in the wrong direction, which will allow your employment brand to remain strong and effective. In return, your employment brand will more successfully attract the right talent to your organization.
+In such a competitive job market, the last thing you want to do is ignore your company’s branding. That’s why you need to avoid these 5 [employer branding](https://www.thetalentpool.ai/blogs/5-common-employer-branding-mistakes-you-should-avoid) mistakes. Doing so will help you avoid taking steps in the wrong direction, which will allow your employment brand to remain strong and effective. In return, your employment brand will more successfully attract the right talent to your organization.
 
 ![employer-brand](images/employer-brand-1-1024x536.jpg)

@@ -63,7 +63,7 @@ Now, people are accustomed to working from the comfort of their homes. Highlight
 
 ### 2.    Research Your Competitors  
 
-To stay ahead in the game, you must know what your peers and competitors are doing. Researching competitors’ hiring and [employer branding strategies](https://www.thetalentpool.ai/blogs/how-build-talent-mobility-plan-and-benefits-it/) is a great way to build your own.
+To stay ahead in the game, you must know what your peers and competitors are doing. Researching competitors’ hiring and [employer branding strategies](https://www.thetalentpool.ai/blogs/how-build-talent-mobility-plan-and-benefits-it) is a great way to build your own.
 
 There’s nothing wrong with replicating what’s working for competitors. However, you can customize the strategy based on your organization’s culture, values, and vision.
 
@@ -87,7 +87,7 @@ The good thing is you don’t need an enormous budget to highlight a positive cu
 
 Fixed monthly compensations are not always the best motivators in the long run. However, having incentives and perks tied to performance and goals can be a game changer for the company and employees. It can bring out the desired level of productivity without any pressure.
 
-In addition, the right perks and [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits/) can lure in the best talent. Paid vacations, performance bonuses, tuition reimbursements, etc., are some examples of perks and benefits that you can incorporate.
+In addition, the right perks and [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits) can lure in the best talent. Paid vacations, performance bonuses, tuition reimbursements, etc., are some examples of perks and benefits that you can incorporate.
 
 ### 6.    Create Employee-Friendly Policies
 

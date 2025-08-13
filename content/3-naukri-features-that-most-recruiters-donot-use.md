@@ -46,7 +46,7 @@ Have you ever wondered if you could get a notification whenever a new candidate 
 
 **How to use the feature?**
 
-Add fields and run a search. Check the box next to **saved search alert mailers.** This will enable you to get instant alert emails every time a candidate with the same criteria updates their CV. One improvement that [Naukri](https://www.thetalentpool.ai/blogs/naukri-job-board-integration-with-talentpool/) has introduced is of ensuring that alert mailers do not show repetitive candidates, if the profiles have been checked by the recruiter once.
+Add fields and run a search. Check the box next to **saved search alert mailers.** This will enable you to get instant alert emails every time a candidate with the same criteria updates their CV. One improvement that [Naukri](https://www.thetalentpool.ai/blogs/naukri-job-board-integration-with-talentpool) has introduced is of ensuring that alert mailers do not show repetitive candidates, if the profiles have been checked by the recruiter once.
 
 ## **Reduce Hassle of Going through Irrelevant Applicants** 
 
@@ -66,7 +66,7 @@ A recruiter can create and apply a filter based on the candidate’s response. T
 
 ## **Prevent your Published Jobs from Getting Deactivated**
 
-Did you know that your published jobs only stay active on the [Naukri portal](https://www.thetalentpool.ai/blogs/naukri-job-board-integration-with-talentpool/) for 31 days, from the date of posting?
+Did you know that your published jobs only stay active on the [Naukri portal](https://www.thetalentpool.ai/blogs/naukri-job-board-integration-with-talentpool) for 31 days, from the date of posting?
 
 Now stop visiting the portal just to refresh the job which you have already posted. A recruiter can schedule an automatic refresh at a predefined time interval. In case, the system is unable to refresh the position automatically, a recruiter would get an automated email notification. 
 
@@ -76,6 +76,6 @@ Job posting has an option of **schedule refresh**, which can be added while pub
 
 But, there are cons associated with this feature. Naukri utilizes a job posting credit every time a scheduled refresh occurs.
 
-We hope that you will be able to use some of these features to [improve your efficiency](https://www.thetalentpool.ai/recruitment-management-software-benefits/) on Naukri.
+We hope that you will be able to use some of these features to [improve your efficiency](https://www.thetalentpool.ai/recruitment-management-software-benefits) on Naukri.
 
 ![naukri-features](images/naukri-features-1-1024x936.jpg)

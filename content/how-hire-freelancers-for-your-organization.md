@@ -80,7 +80,7 @@ You can provide a timesheet for tracking hours spent working on your project and
 
 Assign a small pilot project to all potential freelancers to assess their performance, delivery time, and affordability. Assign them a time window to complete the task and observe the relation between time constraints and the quality of their work.
 
-It is also advisable to check out their LinkedIn recommendations to evaluate the feedback of a [candidate](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience/). If you come across a less populated portfolio, it is required to have standard quality checks on a given task.
+It is also advisable to check out their LinkedIn recommendations to evaluate the feedback of a [candidate](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience). If you come across a less populated portfolio, it is required to have standard quality checks on a given task.
 
 Pilot projects give an idea that whether the given work matches your desired expectations or not.
 
@@ -88,7 +88,7 @@ Pilot projects give an idea that whether the given work matches your desired exp
 
 Besides allotting a pilot project, you can also ask for previous work samples to assess the quality of work delivered. Based on the job profile, you can rate the work samples and see if they comply with your benchmark parameters.
 
-Professional freelancers have high ratings on their profiles, which is also a reliable factor during evaluation. If you wish to dig deeper, go for [customer testimonials](https://www.thetalentpool.ai/recruitment-software-case-studies/), if any, on their profile. 
+Professional freelancers have high ratings on their profiles, which is also a reliable factor during evaluation. If you wish to dig deeper, go for [customer testimonials](https://www.thetalentpool.ai/recruitment-software-case-studies), if any, on their profile. 
 
 Testimonials from customers show authenticity and work excellency, so getting testimonials to help you to evaluate their work better. 
 

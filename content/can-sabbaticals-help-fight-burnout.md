@@ -38,7 +38,7 @@ So, what can you as an HR manager do to support your employees, reduce their bur
 
 _**Have you explored sabbaticals for your employees?**_
 
-In recent years, there has been an increase in sabbaticals, largely due to the [Great Resignation](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation/). Sabbaticals are an excellent way for employees to take time off from work to focus on personal goals and interests. For leaders, they can be an ideal remedy to workplace stress and contribute to a stronger and more successful workforce.
+In recent years, there has been an increase in sabbaticals, largely due to the [Great Resignation](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation). Sabbaticals are an excellent way for employees to take time off from work to focus on personal goals and interests. For leaders, they can be an ideal remedy to workplace stress and contribute to a stronger and more successful workforce.
 
 In this blog, we will highlight what a sabbatical means and what its benefits are. We will also explain how you can create an effective sabbatical program.
 
@@ -56,7 +56,7 @@ Sometimes the best way to combat that stress is to get a change of scenery and t
 
 ### 2\. **Retain Employees**
 
-[COVID-19](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process/) brought all our plans to a sudden halt. After getting over the initial surprise, the feeling of stagnation was and is prevalent in individuals. The majority of the workforce decided to ride the wave and took up opportunities abroad. Peer pressure is increasing among the young workforce. Employee sabbaticals can be an innovative way to provide a temporary break to an employee rather than losing them to boredom-induced attrition. By offering sabbaticals, employers can show their commitment to their employee's personal and professional growth. It helps to increase employee morale and job satisfaction when they return to work.
+[COVID-19](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process) brought all our plans to a sudden halt. After getting over the initial surprise, the feeling of stagnation was and is prevalent in individuals. The majority of the workforce decided to ride the wave and took up opportunities abroad. Peer pressure is increasing among the young workforce. Employee sabbaticals can be an innovative way to provide a temporary break to an employee rather than losing them to boredom-induced attrition. By offering sabbaticals, employers can show their commitment to their employee's personal and professional growth. It helps to increase employee morale and job satisfaction when they return to work.
 
 ### 3\. **Develop Skills**
 
@@ -66,7 +66,7 @@ Sabbaticals provide an opportunity for employees to learn new skills outside of 
 
 When employers offer a sabbatical to employees, it demonstrates that they trust their employees. It also demonstrates that employers believe in their employees' ability to take a long break from work and return refreshed. This can help employees feel valued and appreciated, which can increase their loyalty to the company.
 
-Overall, sabbaticals can be beneficial for both the employee and the employer. Employers can improve morale, [retain top talent](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation/), and increase productivity by offering sabbaticals to their employees.
+Overall, sabbaticals can be beneficial for both the employee and the employer. Employers can improve morale, [retain top talent](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation), and increase productivity by offering sabbaticals to their employees.
 
 ## **How Long Are Sabbaticals?**
 
@@ -116,6 +116,6 @@ Overall, sabbaticals can have some potential drawbacks, but these can often be m
 
 ## **Conclusion**
 
-Sabbaticals are not provided by every organization, and they may not be the ideal option for every employee. However, rolling out a sabbatical leave policy can be extremely beneficial to both employees and employers if executed correctly. It does not just benefit those that take it, but it always benefits your entire team. Especially in this age of distributed work, increased stress, and anxiety, it can be a valuable perk for [retaining key talent](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent/).
+Sabbaticals are not provided by every organization, and they may not be the ideal option for every employee. However, rolling out a sabbatical leave policy can be extremely beneficial to both employees and employers if executed correctly. It does not just benefit those that take it, but it always benefits your entire team. Especially in this age of distributed work, increased stress, and anxiety, it can be a valuable perk for [retaining key talent](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent).
 
 ![Sabbaticals](images/Sabbaticals-1-1024x535.jpg)

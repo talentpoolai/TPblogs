@@ -69,7 +69,7 @@ Moreover, the tools can rank the candidates and help you engage with only the mo
 
 More often than not, recruiters have to spend considerable time managing the calendars of the candidates and hiring managers. As a result, they do not get the time to focus on more meaningful aspects of their jobs.
 
-Some technological tools can automate this tedious and time-consuming task of the [hiring process](https://www.thetalentpool.ai/blogs/7-reasons-why-candidates-drop-out-from-hiring-process/). These tools interact directly with the candidates and the hiring managers to schedule the interviews.
+Some technological tools can automate this tedious and time-consuming task of the [hiring process](https://www.thetalentpool.ai/blogs/7-reasons-why-candidates-drop-out-from-hiring-process). These tools interact directly with the candidates and the hiring managers to schedule the interviews.
 
 ### 6\. Applicant Tracking
 
@@ -89,7 +89,7 @@ For instance, you can reach passive candidates through your company's social med
 
 Gone are the days when recruiters had to call in and check the references shared by the candidates. These days, third-party teams run background verification checks for organizations.
 
-Technology allows for integrating their [platforms](https://www.thetalentpool.ai/) with in-house onboarding systems for seamless movement of information. They enable lesser TAT and reduced cost, along with faster onboarding of the candidates.
+Technology allows for integrating their [platforms](https://www.thetalentpool.ai) with in-house onboarding systems for seamless movement of information. They enable lesser TAT and reduced cost, along with faster onboarding of the candidates.
 
 ### 9\. Candidate Rediscovery
 

@@ -38,7 +38,7 @@ Very few soothsayers are denying this, but recruitment leaders, especially of sm
 
 Apart from wait and watch, is there more that you could do?
 
-Businesses are turning to creative digital solutions - providing simulated screening system and interviewing experience, rather than holding in-person [interviews](https://www.thetalentpool.ai/blogs/todays-recruitment-methods-may-not-work-tomorrow-are-you-future-ready/). The use of electronic testing as part of the recruiting procedure has been expanded to effectively check the applications and transfer applicants to the [next stage of recruitment](https://www.thetalentpool.ai/blogs/todays-recruitment-methods-may-not-work-tomorrow-are-you-future-ready/).
+Businesses are turning to creative digital solutions - providing simulated screening system and interviewing experience, rather than holding in-person [interviews](https://www.thetalentpool.ai/blogs/todays-recruitment-methods-may-not-work-tomorrow-are-you-future-ready). The use of electronic testing as part of the recruiting procedure has been expanded to effectively check the applications and transfer applicants to the [next stage of recruitment](https://www.thetalentpool.ai/blogs/todays-recruitment-methods-may-not-work-tomorrow-are-you-future-ready).
 
 Through utilizing technological innovations, including online and video conferencing, networking apps such as Skype and WhatsApp, they have managed to retain a progressive recruiting strategy that is now essential in these unforeseen circumstances.
 
@@ -52,7 +52,7 @@ This is the time to evaluate and adopt a cost-effective recruitment software tha
 
 - Create a virtual bench of candidates who would be interested in opportunities that your organization may provide
 - Increase the speed of hiring
-- Improve over-all efficiency and visibility in the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process/)
+- Improve over-all efficiency and visibility in the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process)
 
 ### **Use live video interviews or filmed video interviews** 
 
@@ -64,6 +64,6 @@ Live interviews via Skype, Zoom, or other video conference services can be condu
 
 More than being able to speak with candidates, recruiters spend close to half of their productive time in providing information to internal stakeholders.
 
-Focus on laying down processes which help recruiters in easy sourcing, screening, reporting and analyzing. [Recruitment teams](https://www.thetalentpool.ai/blogs/how-to-induct-and-orient-new-recruiters-in-your-team/) will have to respond to changes faster, if not anticipate and prepare for them. More than gathering data, leaders should spend time in analyzing data.
+Focus on laying down processes which help recruiters in easy sourcing, screening, reporting and analyzing. [Recruitment teams](https://www.thetalentpool.ai/blogs/how-to-induct-and-orient-new-recruiters-in-your-team) will have to respond to changes faster, if not anticipate and prepare for them. More than gathering data, leaders should spend time in analyzing data.
 
 COVID has caught us all unprepared and has brought about some unprecedented changes. This is the right time to pause and prepare for the next development period.

@@ -54,7 +54,7 @@ A "talent community" is a database containing the names of candidates who could 
 _A talent community can include:_
 
 - Sourced candidates
-- [Referral candidates](https://www.thetalentpool.ai/blogs/boost-your-recruitment-efforts-with-employee-referral-program/)
+- [Referral candidates](https://www.thetalentpool.ai/blogs/boost-your-recruitment-efforts-with-employee-referral-program)
 - Passive candidates
 - Candidate profiles on social media and networking sites
 - Leads from offline and virtual career fairs
@@ -68,7 +68,7 @@ Having a rich talent community offers several benefits, like:
 
 ### 1\. **Reduces the Cost of Hiring**
 
-Having a candidate pool significantly [reduces the cost of recruitment](https://www.thetalentpool.ai/blogs/4-cost-reducing-recruitment-strategies-for-startups/) because your firm will no longer need to conduct recruitment drives or advertise open positions. If you already have a database of candidates, your organization will not have to spend on reviewing resumes or advertising job openings on expensive job boards.
+Having a candidate pool significantly [reduces the cost of recruitment](https://www.thetalentpool.ai/blogs/4-cost-reducing-recruitment-strategies-for-startups) because your firm will no longer need to conduct recruitment drives or advertise open positions. If you already have a database of candidates, your organization will not have to spend on reviewing resumes or advertising job openings on expensive job boards.
 
 ### 2\. **Reduces the Time to Hire**
 
@@ -76,7 +76,7 @@ As HR professionals are aware, sourcing applicants can consume a significant amo
 
 ### 3\. **Improves the Quality of Recruitment**
 
-A talent community can assist you in identifying [top talent](https://www.thetalentpool.ai/blogs/effective-hiring-methods-to-hire-quality-candidates/) even before a position in the organization has opened. It also enables HR managers to continually source top talent while diversifying the talent required by the firm to achieve its objectives.
+A talent community can assist you in identifying [top talent](https://www.thetalentpool.ai/blogs/effective-hiring-methods-to-hire-quality-candidates) even before a position in the organization has opened. It also enables HR managers to continually source top talent while diversifying the talent required by the firm to achieve its objectives.
 
 ## **How to Build a Talent Community?**
 
@@ -88,7 +88,7 @@ As HR professionals, you must have come across individuals who did not quite fit
 
 ### 2\. **Connect with Sourced Candidates**
 
-This is probably the simplest way to get candidates into your talent community. During your [sourcing process](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate/), whenever you come across interesting people who don’t fit any of your current open roles, just add them to your talent community.
+This is probably the simplest way to get candidates into your talent community. During your [sourcing process](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate), whenever you come across interesting people who don’t fit any of your current open roles, just add them to your talent community.
 
 ### 3\. **Use Referrals**
 
@@ -100,7 +100,7 @@ People who interact with your posts on social media are actively demonstrating a
 
 ### 5\. **Employ Recruitment Marketing**
 
-Recruitment marketing refers to how a firm establishes and communicates its [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand/) and employee value proposition.
+Recruitment marketing refers to how a firm establishes and communicates its [employer brand](https://www.thetalentpool.ai/blogs/7-ways-boost-your-employer-brand) and employee value proposition.
 
 Your business can attract and nurture top talent by publicly marketing to candidates and encouraging them to join your talent pool. Inbound recruiting can take the form of a company blog, social media advertising, or attending a career fair.
 

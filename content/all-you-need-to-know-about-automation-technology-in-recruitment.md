@@ -35,7 +35,7 @@ But when your recruitment team is bogged down with piles of resumes and tedious 
 
 <!--more-->
 
-This means you need to streamline your [end-to-end recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/) by cutting down on repetitive manual tasks. This is where automation in recruitment comes into the picture.
+This means you need to streamline your [end-to-end recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle) by cutting down on repetitive manual tasks. This is where automation in recruitment comes into the picture.
 
 Recruitment automation assists organizations in automating their recruitment tasks to minimize recruitment costs, improve their talent profiles, increase productivity, and reduce the time to hire.
 
@@ -43,7 +43,7 @@ Let us discuss what recruitment automation is and how it can help your organizat
 
 ## **What Is Recruitment Automation?**
 
-Recruitment automation is the process of using technology to automate recruitment tasks. It involves automating [candidate sourcing](https://www.thetalentpool.ai/candidate-sourcing-software/), screening, [resume parsing](https://www.thetalentpool.ai/blogs/what-is-resume-parsing-do-you-need-it/), and interview scheduling, among other things.
+Recruitment automation is the process of using technology to automate recruitment tasks. It involves automating [candidate sourcing](https://www.thetalentpool.ai/candidate-sourcing-software), screening, [resume parsing](https://www.thetalentpool.ai/blogs/what-is-resume-parsing-do-you-need-it), and interview scheduling, among other things.
 
 It is a common misconception that recruiting automation solutions are too expensive for every organization to use. But that is not the case. The resources that the firm spends on manual recruitment for each vacant post, as well as the time it takes to fill those positions, are far greater than the one-time cost of having recruiting software. Not to forget the fact that the cost of hiring the wrong candidate is even higher.
 
@@ -67,7 +67,7 @@ With the help of recruitment automation tools like ATS (Applicant Tracking Syste
 
 It does so with the help of keywords given by recruiters or hiring managers. For example, it will use keywords like "SEO," "Google Analytics," "WordPress", etc. to determine if a resume is suitable for the digital marketing role.
 
-Not only that, but some [ATS software](https://www.thetalentpool.ai/applicant-tracking-software/) record candidate profiles for future roles and suggest other roles where their profile would be more appropriate.
+Not only that, but some [ATS software](https://www.thetalentpool.ai/applicant-tracking-software) record candidate profiles for future roles and suggest other roles where their profile would be more appropriate.
 
 ### 3\. **Pre-employment Assessments**
 
@@ -77,7 +77,7 @@ There are numerous pre-employment assignments, each of which is a test meant to 
 
 Pre-employment assessment systems usually offer recruiters and hiring managers a comprehensive picture of candidates. Tests can be merged, and various areas can be evaluated through a single online experience. It gives recruiters and hiring managers an edge over their competitors.
 
-Most talent evaluation platforms may also easily integrate with your company's [applicant tracking system](https://www.thetalentpool.ai/blogs/how-to-smoothly-implement-an-ats/) (ATS). It guarantees that you have up-to-date information on prospects as they take exams and move through the hiring process.
+Most talent evaluation platforms may also easily integrate with your company's [applicant tracking system](https://www.thetalentpool.ai/blogs/how-to-smoothly-implement-an-ats) (ATS). It guarantees that you have up-to-date information on prospects as they take exams and move through the hiring process.
 
 ### 4\. **Interview Scheduling**
 

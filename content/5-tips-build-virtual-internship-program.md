@@ -63,7 +63,7 @@ Setting up interns with the right technology is important, especially if they be
 
 Having said that, interns from any generation can perform better from Week 1 when the right tech access is part of the induction.
 
-Today, HR teams can access a [unified platform](https://www.thetalentpool.ai/) to build a robust induction program and host training and other activities to enrich an intern's experience without overwhelming them.  
+Today, HR teams can access a [unified platform](https://www.thetalentpool.ai) to build a robust induction program and host training and other activities to enrich an intern's experience without overwhelming them.  
 
 ## 5\. Enable Interns to Know Team Members 
 

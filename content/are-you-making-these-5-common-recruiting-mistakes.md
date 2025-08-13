@@ -29,7 +29,7 @@ Companies often indulge in recruitment drives to find the best talent. However, 
 
 <!--more-->
 
-Recruiters face many challenges, such as market fragmentation, poor candidate experience, ungovernable recruitment policies, etc. Inefficient [recruitment processes](https://www.thetalentpool.ai/blogs/how-to-improve-your-existing-talent-sourcing-strategy/) lead to hiring candidates that cannot augment the company’s productivity.
+Recruiters face many challenges, such as market fragmentation, poor candidate experience, ungovernable recruitment policies, etc. Inefficient [recruitment processes](https://www.thetalentpool.ai/blogs/how-to-improve-your-existing-talent-sourcing-strategy) lead to hiring candidates that cannot augment the company’s productivity.
 
 For the same reason, HR professionals endeavor to limit mistakes during the recruitment process. Let’s dive into the five common recruitment mistakes that HR professionals and interviewers must avoid. 
 
@@ -55,13 +55,13 @@ Interviewers might take their time to extract all they need to know about the ca
 
 During the interview, the candidate should feel comfortable and relaxed. Instead of being anxious, candidates should be able to interact freely with the interviewer. However, some interviewers intimidate candidates and exhibit disorderly conduct.
 
-Such behavior will lend a bad name to the company and deteriorate the [candidate’s experience](https://www.thetalentpool.ai/blogs/5-steps-improve-candidate-experience/) and perception of the recruiter. Even the best candidates might decide not to join a company because of a horrible experience with the interviewer.
+Such behavior will lend a bad name to the company and deteriorate the [candidate’s experience](https://www.thetalentpool.ai/blogs/5-steps-improve-candidate-experience) and perception of the recruiter. Even the best candidates might decide not to join a company because of a horrible experience with the interviewer.
 
 ## **4\. Not Checking the Candidates’ References** 
 
 Not all candidates are honest and fill in the appropriate details in their job applications. For example, candidates sometimes add fake their work experience or educational qualifications.
 
-HR professionals need to weed out such candidates to improve their [recruitment process](https://www.thetalentpool.ai/). Candidate references mentioned in resumes should be cross-checked before starting the recruitment process.
+HR professionals need to weed out such candidates to improve their [recruitment process](https://www.thetalentpool.ai). Candidate references mentioned in resumes should be cross-checked before starting the recruitment process.
 
 It is better to reject dishonest candidates before starting interviews or written tests for recruitment. HR professionals that ignore candidate references might end up with poor-quality talent. 
 

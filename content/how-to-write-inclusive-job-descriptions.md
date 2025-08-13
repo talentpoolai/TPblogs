@@ -33,7 +33,7 @@ seo:
 
 _Does it ever happen that you receive responses only from people belonging to certain demographics to your job postings?_
 
-This is because your [job description](https://www.thetalentpool.ai/blogs/why-job-description-important-in-recruitment-these-days/) might not be inclusive.
+This is because your [job description](https://www.thetalentpool.ai/blogs/why-job-description-important-in-recruitment-these-days) might not be inclusive.
 
 Studies have shown that language used in job descriptions can unintentionally discourage talented individuals from certain sections from applying. This limits the candidate pool for these openings.
 
@@ -53,13 +53,13 @@ An inclusive job description is written in such a way that no one feels excluded
 
 In other words, an inclusive job posting is one that describes the position, organization, and what success would look like without assuming that only a certain kind of people would succeed in such a role. This encourages everyone who thinks they can contribute to the company to feel welcome to apply.
 
-**Also Read: [How to Create Job Ads that Attract the Right Talent?](https://www.thetalentpool.ai/blogs/how-to-create-job-ads-that-attract-the-right-talent/)**
+**Also Read: [How to Create Job Ads that Attract the Right Talent?](https://www.thetalentpool.ai/blogs/how-to-create-job-ads-that-attract-the-right-talent)**
 
 ## **Tips to Write Inclusive Job Description**
 
 Here are a few tips for you to be able to write inclusive job descriptions, make a good first impression, stand out from your competitors, and build a welcoming workplace.
 
-Integrating the practices below will ensure that you attract a [diverse pool of candidates.](https://www.thetalentpool.ai/blogs/5-steps-include-diversity-in-hiring/)
+Integrating the practices below will ensure that you attract a [diverse pool of candidates.](https://www.thetalentpool.ai/blogs/5-steps-include-diversity-in-hiring)
 
 ## 1\. **Avoid Gender-Coded Language**
 
@@ -81,7 +81,7 @@ Shift your focus from experience to education, abilities, and certifications in 
 
 Another mistake that recruiters usually make is age-related bias. Try to write a job description that people of any age will relate to.
 
-Avoid loaded terms like "digital native," "young," and "energetic," which are primarily appealing to millennials and [Gen Z](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent/). Such words may discourage more experienced candidates from applying at all. Instead of saying, "We are looking for a young and energetic digital native," try to say, "We are looking for a digital enthusiast who's comfortable learning about new technology." In this way, you can attract people of all ages, even those who didn't grow up with today's technology, and reassure them that your company will give them the space to learn.
+Avoid loaded terms like "digital native," "young," and "energetic," which are primarily appealing to millennials and [Gen Z](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent). Such words may discourage more experienced candidates from applying at all. Instead of saying, "We are looking for a young and energetic digital native," try to say, "We are looking for a digital enthusiast who's comfortable learning about new technology." In this way, you can attract people of all ages, even those who didn't grow up with today's technology, and reassure them that your company will give them the space to learn.
 
 Furthermore, unless it genuinely affects a person's capacity to perform the work, avoid stating an age category in your job description. Also, don't use limiting phrases like "Must have less than X years of experience" or ask for too much experience, as this will limit the number of people who can apply. 
 
@@ -119,4 +119,4 @@ Writing an inclusive job description is essential for attracting a larger pool o
 
 Follow the best practices we have discussed above, broaden your job descriptions, and make sure that every potential candidate feels welcome.
 
-It will assist you in expanding your candidate pool, and simplifying your [recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/), while also providing you with the benefits of an inclusive workplace.
+It will assist you in expanding your candidate pool, and simplifying your [recruitment process](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle), while also providing you with the benefits of an inclusive workplace.

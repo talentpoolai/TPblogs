@@ -40,7 +40,7 @@ However, there are ways to make the process more efficient and manageable.
 
 Artificial Intelligence and machine learning algorithms can help you find the best candidates and speed up the hiring process by automating parts of it while ensuring better talent fits. 
 
-In this blog, we will look in detail at how [Artificial Intelligence technology](https://www.thetalentpool.ai/blogs/boost-sales-with-ai-mastering-chatbot-ecommerce-in/) is changing the recruitment process.
+In this blog, we will look in detail at how [Artificial Intelligence technology](https://www.thetalentpool.ai/blogs/boost-sales-with-ai-mastering-chatbot-ecommerce-in) is changing the recruitment process.
 
 ## **How Artificial Intelligence Is Transforming the Hiring Process?**
 
@@ -69,7 +69,7 @@ With these handy tools, recruiters can save precious time and invest it in build
 ##   
 3\. **Talent Assessment**
 
-Companies are now relying more and more on AI-powered talent assessment tools to evaluate the skills and personality traits of candidates. [AI-powered tools](https://www.thetalentpool.ai/) incorporate gamification, behavioral assessments, and skill testing to provide a comprehensive evaluation.
+Companies are now relying more and more on AI-powered talent assessment tools to evaluate the skills and personality traits of candidates. [AI-powered tools](https://www.thetalentpool.ai) incorporate gamification, behavioral assessments, and skill testing to provide a comprehensive evaluation.
 
 Companies are now relying more and more on AI-powered talent assessment tools to evaluate the skills and personality traits of candidates. AI-powered tools incorporate gamification, behavioral assessments, and skill testing to provide a comprehensive evaluation.
 

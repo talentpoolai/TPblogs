@@ -39,13 +39,13 @@ _Did you know an average professional receives a staggering 121 emails per day, 
 
 _However, a well-crafted email subject line can increase open rates by up to 47%._ The subject line is your first opportunity to capture a candidate's attention, and it holds the key to whether your email will be read or buried in a crowded inbox.
 
-In this blog, we will explore five detailed tips to help you craft [email](https://www.thetalentpool.ai/blogs/10-rules-for-sending-hr-emails-to-employees/) subject lines that win over candidates. But first, we will look at some of the top email subject lines that ensure you make a lasting impression on candidates.
+In this blog, we will explore five detailed tips to help you craft [email](https://www.thetalentpool.ai/blogs/10-rules-for-sending-hr-emails-to-employees) subject lines that win over candidates. But first, we will look at some of the top email subject lines that ensure you make a lasting impression on candidates.
 
 Let us start.
 
 ## **10 Recruitment Email Subject Lines**
 
-Below are some examples of email subject lines that [recruiters](https://www.thetalentpool.ai/blogs/10-must-have-recruitment-skills-to-become-an-ace-recruiter/) can use to engage and win over candidates:
+Below are some examples of email subject lines that [recruiters](https://www.thetalentpool.ai/blogs/10-must-have-recruitment-skills-to-become-an-ace-recruiter) can use to engage and win over candidates:
 
 ### 1\. **(Candidate Name), Your Skills Are in High Demand!**
 
@@ -53,7 +53,7 @@ This subject line immediately emphasizes the candidate's value and makes them fe
 
 ### 2\. **Take Your Career to New Heights with \[Company Name\]**
 
-This subject line suggests that the candidate has the potential for career advancement and growth within the company. It appeals to their desire for professional [development.](https://www.thetalentpool.ai/?s=professional%20development.)
+This subject line suggests that the candidate has the potential for career advancement and growth within the company. It appeals to their desire for professional [development.](https://www.thetalentpool.ai?s=professional%20development.)
 
 ### **3\. Congratulations! You are a Top Match for \[Role\] at \[Company Name\]**
 
@@ -81,7 +81,7 @@ This subject line positions the candidate as a leader in their chosen field, off
 
 ### 9\. **Explore a Rewarding Career Path at \[Company Name\]**
 
-It focuses on the potential fulfillment and [satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it/) the role can offer to the candidate.
+It focuses on the potential fulfillment and [satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it) the role can offer to the candidate.
 
 ### 10\. **(Candidate Name), Discover the Next Chapter of Your Career**
 
@@ -91,7 +91,7 @@ These subject lines aim to engage candidates by appealing to their aspirations, 
 
 ## **Tips for Writing an Email Subject Line**
 
-Writing effective [email](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication/) subject lines is crucial for recruiters to capture candidates' attention and encourage them to open and engage with your message.
+Writing effective [email](https://www.thetalentpool.ai/blogs/6-ways-how-hr-can-improve-their-email-communication) subject lines is crucial for recruiters to capture candidates' attention and encourage them to open and engage with your message.
 
 _Here are the top 5 tips to help you create compelling subject lines:_
 
@@ -107,7 +107,7 @@ A clear subject line not only helps candidates understand the purpose of the ema
 
 ### 2\. **The Personal Touch**
 
-Everyone likes to feel special, right? Including the candidate's name in the subject line shows that you see them as an individual, not just another name in a list. It is a powerful way for [recruiters](https://www.thetalentpool.ai/blogs/7-effective-diversity-recruiting-strategies-for-recruiters/) to connect with candidates on an individual level.
+Everyone likes to feel special, right? Including the candidate's name in the subject line shows that you see them as an individual, not just another name in a list. It is a powerful way for [recruiters](https://www.thetalentpool.ai/blogs/7-effective-diversity-recruiting-strategies-for-recruiters) to connect with candidates on an individual level.
 
 If you have had prior communication with the candidate, reference it in the subject line. It shows continuity and a personalized touch.
 
@@ -133,6 +133,6 @@ Recruitment is not a one-size-fits-all endeavour, and subject lines are no excep
 
 ## **Conclusion**
 
-By incorporating these tips into your [email subject lines](https://www.thetalentpool.ai/blogs/how-to-write-rejection-emails-to-job-applicants/), you will significantly increase the likelihood of candidates opening and engaging with your recruitment emails. Remember, it is crucial to maintain professionalism and respect in your subject lines, avoiding clickbait or misleading tactics. Tailor your subject lines to suit the industry, role, and individual preferences of the candidates you are targeting.
+By incorporating these tips into your [email subject lines](https://www.thetalentpool.ai/blogs/how-to-write-rejection-emails-to-job-applicants), you will significantly increase the likelihood of candidates opening and engaging with your recruitment emails. Remember, it is crucial to maintain professionalism and respect in your subject lines, avoiding clickbait or misleading tactics. Tailor your subject lines to suit the industry, role, and individual preferences of the candidates you are targeting.
 
 ![email-subject](images/email-subject-1-1024x554.jpg)

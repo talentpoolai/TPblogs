@@ -45,12 +45,12 @@ Candidate engagement starts from anything that could be emails, advertising, tex
 
 **b.** **Networking is key-** Networking plays a special role when it comes to niche hiring. Spreading your network by including more and more people in the domain of your niche is bound to result in a higher turnout for your job listing. The way to network is to find communities and organizations related to your niche and connect with them. Referrals from nodes in your network will lead to a better quality of candidates.
 
-But simply networking isn't enough for optimized **[niche hiring](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring/)**. Even your network must be specialized. Share the job listing within specialized networks to find like-minded people who have the skills you need. It'll reduce the candidate pool to those who pass the benchmark you've set. Using social media tactfully can also act as a powerful tool in specialized networking.
+But simply networking isn't enough for optimized **[niche hiring](https://www.thetalentpool.ai/blogs/3-unknown-recruitment-strategies-for-niche-hiring)**. Even your network must be specialized. Share the job listing within specialized networks to find like-minded people who have the skills you need. It'll reduce the candidate pool to those who pass the benchmark you've set. Using social media tactfully can also act as a powerful tool in specialized networking.
 
 ### **3.** **Using the right resources**
 
 Niche hiring is tricky, and you'll need all the help you can get. Using job boards is a pretty common tactic. Take it up a notch by posting your job listings on websites and blogs about your niche. Reach out to niche boards or make your recruitment website, information-rich. With the advent of digitalization, the process of niche hiring can be simplified and optimized with the help of recruitment software.
 
-The approach that usually works for regular hiring, may not work for niche hiring. Sometimes, recruitment needs to be viewed from another angle also. Most importantly, a start-up or small business [recruiting strategy](https://www.thetalentpool.ai/blogs/todays-recruitment-methods-may-not-work-tomorrow-are-you-future-ready/) needs to have an emotional investment in candidates that helps to create a brand image and builds a great confidence in any candidate.
+The approach that usually works for regular hiring, may not work for niche hiring. Sometimes, recruitment needs to be viewed from another angle also. Most importantly, a start-up or small business [recruiting strategy](https://www.thetalentpool.ai/blogs/todays-recruitment-methods-may-not-work-tomorrow-are-you-future-ready) needs to have an emotional investment in candidates that helps to create a brand image and builds a great confidence in any candidate.
 
 ![niche-hiring-strategy](images/niche-hiring-strategy-1.jpg)

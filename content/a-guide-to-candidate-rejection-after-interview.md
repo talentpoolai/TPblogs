@@ -28,7 +28,7 @@ seo:
   keywords: *ref_0
 ---
 
-As the job market becomes more and more competitive, every interaction with a candidate shapes your [employer branding](https://www.thetalentpool.ai/blogs/10-key-metrics-for-tracking-your-employer-brand/). While hiring decisions can be difficult, how you handle rejection is just as important as the interview process itself. A thoughtful candidate rejection mail after an interview can leave a lasting impression, which can turn a potentially negative experience into one of respect and professionalism.   
+As the job market becomes more and more competitive, every interaction with a candidate shapes your [employer branding](https://www.thetalentpool.ai/blogs/10-key-metrics-for-tracking-your-employer-brand). While hiring decisions can be difficult, how you handle rejection is just as important as the interview process itself. A thoughtful candidate rejection mail after an interview can leave a lasting impression, which can turn a potentially negative experience into one of respect and professionalism.   
 
 That is why understanding the nitty-gritty of writing a job rejection email is essential for recruiters. We will outline best practices for writing polite applicant rejection emails and provide prompts for generating the best rejection email through ChatGPT, Gemini or alternative Gen AI tools.  
 
@@ -38,7 +38,7 @@ Before we understand the how-to, let us take a moment to understand why candidat
 
 ### **1\. Positive Candidate Experience**  
 
-PwC research indicates that nearly 70%1 of job seekers who have a negative experience will discourage others from applying. The way you handle job candidates during the entire [recruitment process](https://www.thetalentpool.ai/blogs/how-integrated-technology-can-improve-your-recruitment-process/) determines whether rejected candidates provide positive feedback about your company. Candidates who get a job rejection mail on time leave with a positive [candidate experience](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips/) and are more likely to reapply and endorse your organization's employer brand across their networks.    
+PwC research indicates that nearly 70%1 of job seekers who have a negative experience will discourage others from applying. The way you handle job candidates during the entire [recruitment process](https://www.thetalentpool.ai/blogs/how-integrated-technology-can-improve-your-recruitment-process) determines whether rejected candidates provide positive feedback about your company. Candidates who get a job rejection mail on time leave with a positive [candidate experience](https://www.thetalentpool.ai/blogs/creating-positive-candidate-experience-actionable-tips) and are more likely to reapply and endorse your organization's employer brand across their networks.    
 
 ### **2\. Relationship Maintenance**  
 
@@ -54,7 +54,7 @@ Candidates who experience respectful rejections are more likely to speak well of
 
 ### **5\. Legal and Ethical Compliance**  
 
-Handling rejections professionally ensures fairness and equality in the [hiring process](https://www.thetalentpool.ai/blogs/7-reasons-why-candidates-drop-out-from-hiring-process/). It reduces the risk of potential legal issues related to discrimination or unfair treatment during recruitment.  
+Handling rejections professionally ensures fairness and equality in the [hiring process](https://www.thetalentpool.ai/blogs/7-reasons-why-candidates-drop-out-from-hiring-process). It reduces the risk of potential legal issues related to discrimination or unfair treatment during recruitment.  
 
 ## ****How to Reject a Candidate After an Interview Politely?**** 
 

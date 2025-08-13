@@ -2,7 +2,7 @@
 id: '51'
 title: 7 Common Mistakes to Avoid When Using Applicant Tracking System (ATS) Software
 slug: 7-common-mistakes-to-avoid-when-using-applicant-tracking-system-ats-software
-excerpt: "Did you know that 98.8% of Fortune 500 companies use [ATS software](https://www.thetalentpool.ai/applicant-tracking-software/) to manage their recruitment?\_\_\n\nWell, that’s because hiring top talent t..."
+excerpt: "Did you know that 98.8% of Fortune 500 companies use [ATS software](https://www.thetalentpool.ai/applicant-tracking-software) to manage their recruitment?\_\_\n\nWell, that’s because hiring top talent t..."
 author:
   name: Namrata Gupta
   role: Senior Sales Manager
@@ -20,11 +20,11 @@ seo:
   metaTitle: >-
     7 Common Mistakes to Avoid When Using Applicant Tracking System (ATS)
     Software
-  metaDescription: "Did you know that 98.8% of Fortune 500 companies use [ATS software](https://www.thetalentpool.ai/applicant-tracking-software/) to manage their recruitment?\_\_\n\nWell, that’s because hiring top talent t..."
+  metaDescription: "Did you know that 98.8% of Fortune 500 companies use [ATS software](https://www.thetalentpool.ai/applicant-tracking-software) to manage their recruitment?\_\_\n\nWell, that’s because hiring top talent t..."
   keywords: *ref_0
 ---
 
-Did you know that 98.8% of Fortune 500 companies use [ATS software](https://www.thetalentpool.ai/applicant-tracking-software/) to manage their recruitment?  
+Did you know that 98.8% of Fortune 500 companies use [ATS software](https://www.thetalentpool.ai/applicant-tracking-software) to manage their recruitment?  
 
 Well, that’s because hiring top talent today isn’t as simple as posting a job opening and waiting for applications to roll in. With the job market more competitive than ever, recruiters now must act fast to attract, evaluate, and secure the best candidates before they’re gone. This is where applicant tracking system software (ATS) becomes a lifesaver for recruiters, automating tedious tasks and ensuring top talents don’t slip through the cracks.  
 
@@ -32,11 +32,11 @@ However, simply having an application tracking software doesn’t automatically 
 
 ## **What is Applicant Tracking System Software?**  
 
-An ATS software is an advanced recruitment solution that automates, organizes, and optimizes the [hiring process](https://www.thetalentpool.ai/blogs/how-artificial-intelligence-changing-hiring-process/) from start to finish. It serves as an efficient tool through which recruiters can post job openings, screen resumes, track applicants, communicate with candidates, and even manage onboarding, all from a single platform.
+An ATS software is an advanced recruitment solution that automates, organizes, and optimizes the [hiring process](https://www.thetalentpool.ai/blogs/how-artificial-intelligence-changing-hiring-process) from start to finish. It serves as an efficient tool through which recruiters can post job openings, screen resumes, track applicants, communicate with candidates, and even manage onboarding, all from a single platform.
 
 ## **What is the Main Purpose of an ATS Software?**  
 
-The aim of applicant tracking software is to remove inefficiencies in hiring while improving [candidate experience](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience/) and successful recruitment decisions. Here’s how it helps businesses:  
+The aim of applicant tracking software is to remove inefficiencies in hiring while improving [candidate experience](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience) and successful recruitment decisions. Here’s how it helps businesses:  
 
 - **Centralised Candidate Database:** ATS software stores and organizes candidate information, including resumes, cover letters, references, and interview feedback, making it easily accessible for recruiters and hiring managers.  
 
@@ -52,7 +52,7 @@ The aim of applicant tracking software is to remove inefficiencies in hiring whi
 
 ### **Writing Generic Job Descriptions**  
 
-[Job descriptions](https://www.thetalentpool.ai/blogs/why-job-description-important-in-recruitment-these-days/) that are too vague, broad, or generic tend to attract more irrelevant applications. When job descriptions lack clarity, it becomes difficult for your applicant tracking system software to filter qualified candidates precisely. Also, if you are not adding the right keywords in your job post, your ATS won't be able to find the best candidates.    
+[Job descriptions](https://www.thetalentpool.ai/blogs/why-job-description-important-in-recruitment-these-days) that are too vague, broad, or generic tend to attract more irrelevant applications. When job descriptions lack clarity, it becomes difficult for your applicant tracking system software to filter qualified candidates precisely. Also, if you are not adding the right keywords in your job post, your ATS won't be able to find the best candidates.    
 
 Besides, if you use short forms, abbreviations, or special words in the job posts, especially for a technical job, it can confuse the system. Not all ATS and applicants understand the same short forms.   
 
@@ -92,7 +92,7 @@ Many businesses fail to leverage ATS-generated insights, which eventually leads 
 
 #### How to fix it?
 
-Regularly review [ATS reports](https://www.thetalentpool.ai/reports-and-analytics/) to track key metrics like time-to-fill, applicant sources, and candidate conversion rates. Use data-driven insights to refine job postings and improve recruitment strategies.  
+Regularly review [ATS reports](https://www.thetalentpool.ai/reports-and-analytics) to track key metrics like time-to-fill, applicant sources, and candidate conversion rates. Use data-driven insights to refine job postings and improve recruitment strategies.  
 
 ### **Not Updating Job Listings and ATS Settings**  
 
@@ -132,6 +132,6 @@ If you're looking for a powerful, AI-powered applicant tracking system software 
 
 - **Vendor Management:** Our recruitment management software enables organizations to efficiently manage relationships with external recruitment agencies to streamline the procurement and management of third-party recruiting services.   
 
-By integrating these features, [Talentpool](https://www.thetalentpool.ai/) can reduce time-to-hire, secure top talent, and ensure a secure and efficient hiring experience for all stakeholders involved. Schedule a one-on-one FREE demo now!  
+By integrating these features, [Talentpool](https://www.thetalentpool.ai) can reduce time-to-hire, secure top talent, and ensure a secure and efficient hiring experience for all stakeholders involved. Schedule a one-on-one FREE demo now!  
 
 ![](images/59563728_9318694-1-1024x1024.jpg)

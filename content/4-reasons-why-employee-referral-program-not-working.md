@@ -45,13 +45,13 @@ Here's a rundown of the top four reasons why employee referral programs don't wo
 
 ## **1\. A Complicated Process** 
 
-In a digitally-transformed world, employees are used to quick and easy digital workflows for any process. Your company's [employee referral program](https://www.thetalentpool.ai/blogs/4-tips-fuel-existing-referral-program/) must mirror this expectation.
+In a digitally-transformed world, employees are used to quick and easy digital workflows for any process. Your company's [employee referral program](https://www.thetalentpool.ai/blogs/4-tips-fuel-existing-referral-program) must mirror this expectation.
 
 Instead, many companies tend to have complicated steps as part of their referral program. For instance, an employee may need to fill out a long form with many details on their role at the organization as well as the individual they are referring.
 
 This can be counter-productive; you don't want employees to see referrals as another target they need to meet in exchange for some benefits.
 
-By leveraging the power of AI-driven automation and integration into existing systems, the [workflow](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/) of employee referral programs can be simplified. This makes it easy for employees to participate and tap into the power of their networks.
+By leveraging the power of AI-driven automation and integration into existing systems, the [workflow](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle) of employee referral programs can be simplified. This makes it easy for employees to participate and tap into the power of their networks.
 
 ## **2\. Inefficient Referral Awards** 
 
@@ -71,7 +71,7 @@ Proper information design and flow play an important role in the success of any 
 
 For instance, employees may not be aware of new positions that need to be filled. The friends, family members, and peers whom they referred with enthusiasm may not hear back from the company or post their referrals. Employees may also be unaware of the exciting new rewards you just introduced.
 
-Treating [employee referral programs](https://www.thetalentpool.ai/blogs/boost-your-recruitment-efforts-with-employee-referral-program/) as an ongoing campaign is a key to their success. Any lag in information can disrupt the workflow, demotivate employees and create a poor impression among potential hires.
+Treating [employee referral programs](https://www.thetalentpool.ai/blogs/boost-your-recruitment-efforts-with-employee-referral-program) as an ongoing campaign is a key to their success. Any lag in information can disrupt the workflow, demotivate employees and create a poor impression among potential hires.
 
 ## **4\. Company Culture** 
 

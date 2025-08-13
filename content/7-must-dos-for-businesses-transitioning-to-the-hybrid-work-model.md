@@ -63,9 +63,9 @@ The most important aspect is to get buy-in and agreement to the new rules. After
 
 Tech-enabled solutions will play an increasingly important role in the smooth functioning of hybrid workplaces.
 
-Some of the key tools include recruitment and online induction software, video conferencing, collaboration, document management, [data management](https://www.thetalentpool.ai/), learning management, and performance management.
+Some of the key tools include recruitment and online induction software, video conferencing, collaboration, document management, [data management](https://www.thetalentpool.ai), learning management, and performance management.
 
-For instance, recruitment and online [applicant tracking software](https://www.thetalentpool.ai/blogs/are-you-getting-rejected-by-the-applicant-tracking-software/) can equip companies to hire and onboard employees from any geography in a streamlined and standardized way.
+For instance, recruitment and online [applicant tracking software](https://www.thetalentpool.ai/blogs/are-you-getting-rejected-by-the-applicant-tracking-software) can equip companies to hire and onboard employees from any geography in a streamlined and standardized way.
 
 Companies that adopt the right tools will have a competitive edge and be able to bring in more efficient collaboration and profitability through these interventions.  
 

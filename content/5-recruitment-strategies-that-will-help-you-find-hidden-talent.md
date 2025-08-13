@@ -79,7 +79,7 @@ You can assess the candidate based on skills that are most suited to the job req
 
 ## 4\. Assign Out-of-the-Box Tasks
 
-Even if you have a [talent pool](https://www.thetalentpool.ai/) to choose from, recruiting the best among them requires a bit of effort.
+Even if you have a [talent pool](https://www.thetalentpool.ai) to choose from, recruiting the best among them requires a bit of effort.
 
 One way to do it is to assign out-of-box tasks to a select few candidates. On the other hand, have a set performance indicator to measure the degree of success for each potential name.
 

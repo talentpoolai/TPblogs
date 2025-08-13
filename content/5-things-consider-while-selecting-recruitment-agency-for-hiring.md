@@ -42,7 +42,7 @@ You cannot keep the recruitment agency in the dark as they might provide you wit
 
 It is required to interview the talent hunters just like you interview candidates for a job position. You need to know whether the recruitment agency has experienced talent hunters or not. If you are unable to interview talent hunters, schedule a call to learn more about them.
 
-You can either interview the talent hunters yourself or ask a senior recruiter in your company to do it. If you feel like the talent hunters aren't experienced, you can always switch to another recruitment agency. Make sure you interview the talent hunters before paying for the [recruitment process](https://www.thetalentpool.ai/blogs/top-4-signs-of-an-inefficient-hiring-process/).
+You can either interview the talent hunters yourself or ask a senior recruiter in your company to do it. If you feel like the talent hunters aren't experienced, you can always switch to another recruitment agency. Make sure you interview the talent hunters before paying for the [recruitment process](https://www.thetalentpool.ai/blogs/top-4-signs-of-an-inefficient-hiring-process).
 
 ## **Understand the Expertise/Experience of the Recruitment Agency** 
 

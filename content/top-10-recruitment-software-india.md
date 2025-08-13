@@ -63,13 +63,13 @@ Not built for staffing agencies
 
 #### Costing:
 
-The cost varies based on the customer’s needs. [**Talentpool**](https://www.thetalentpool.ai/) offers three modules i.e. Startup, Standard, and Enterprise Solutions. Opt for any based on the needs of your company. 
+The cost varies based on the customer’s needs. [**Talentpool**](https://www.thetalentpool.ai) offers three modules i.e. Startup, Standard, and Enterprise Solutions. Opt for any based on the needs of your company. 
 
 ### 2.  Zoho Recruiting  
 
 This talent acquisition system can help iron out many of the challenges faced by recruiters. Zoho Recruiting comes loaded with features backed by experience and a significant user base. 
 
-The tool can assist with a roadmap for recruiting to streamline the process. Its advanced recruit analytics help enhance the company [recruiting process](https://www.thetalentpool.ai/blogs/start-up-hiring-things-need-to-considered-before-hiring/) and provide multiple channels for sourcing candidates for a wholesome hiring experience.
+The tool can assist with a roadmap for recruiting to streamline the process. Its advanced recruit analytics help enhance the company [recruiting process](https://www.thetalentpool.ai/blogs/start-up-hiring-things-need-to-considered-before-hiring) and provide multiple channels for sourcing candidates for a wholesome hiring experience.
 
 #### Pros: 
 

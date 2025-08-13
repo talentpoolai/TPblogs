@@ -63,7 +63,7 @@ Keep in mind that the aim is not only to boost applicant numbers but boost the n
 
 ### **Become an Employer of Choice** 
 
-Highlighting the reasons why your company is a desirable place to build career growth helps create a compelling proposition for potential candidates. It is another excellent tactic to improve your [end-to-end recruitment lifecycle](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle/). Showcasing your company's values, culture, employee experiences, community involvement, awards, and unique perks is key. Make the most of social media channels and your websites to give your audience a glimpse into what makes your company special.
+Highlighting the reasons why your company is a desirable place to build career growth helps create a compelling proposition for potential candidates. It is another excellent tactic to improve your [end-to-end recruitment lifecycle](https://www.thetalentpool.ai/end-to-end-recruitment-process-lifecycle). Showcasing your company's values, culture, employee experiences, community involvement, awards, and unique perks is key. Make the most of social media channels and your websites to give your audience a glimpse into what makes your company special.
 
 Motivate your team to consistently share updates, photos, and videos that showcase the candidate’s experience. Leveraging existing employees can be a valuable asset in promoting your employer's brand. By presenting the conversation from their perspective, you can showcase genuine testimonials that highlight why your organization is an exceptional workplace.
 
@@ -83,6 +83,6 @@ Start with a captivating job title that accurately reflects the role and resonat
 
 Enhancing end-to-end recruitment efficiencies is a multifaceted process that involves the collaboration of the HR department and all the other relevant departments to work together seamlessly.
 
-[Talentpool recruitment software](https://www.thetalentpool.ai/) is a unified platform that manages a company’s end-end recruitment process. It is a comprehensive platform that handles everything, making the hiring process a breeze. Streamlining the entire recruitment process, this tool helps you discover top-notch talent by creating an internal talent pool, effortlessly posting jobs on relevant platforms, and efficiently managing all applicants through a single interface.
+[Talentpool recruitment software](https://www.thetalentpool.ai) is a unified platform that manages a company’s end-end recruitment process. It is a comprehensive platform that handles everything, making the hiring process a breeze. Streamlining the entire recruitment process, this tool helps you discover top-notch talent by creating an internal talent pool, effortlessly posting jobs on relevant platforms, and efficiently managing all applicants through a single interface.
 
 ![end to end recruitment process](images/4182778-1024x538.jpg)

@@ -67,7 +67,7 @@ Here are some of the most significant benefits of recruitment software for busin
 
 ### 1\. **Improves Communication**
 
-The first and most crucial benefit of [recruitment software](https://www.thetalentpool.ai/) is that it improves communication between different stakeholders.
+The first and most crucial benefit of [recruitment software](https://www.thetalentpool.ai) is that it improves communication between different stakeholders.
 
 In any hiring process, at least three parties are involved: the candidate, the recruiter, and the hiring manager. Seamless communication is needed between these three parties, which can be achieved using dynamic recruitment software. 
 
@@ -85,7 +85,7 @@ Resources can be put to more productive uses, and the cost of hiring can be dras
 
 ### 4\. **Improves the Quality of Hire** 
 
-[Applicant tracking software](https://www.thetalentpool.ai/applicant-tracking-software/) is designed to optimize the hiring process for companies. The artificial intelligence technology used in the software helps identify the best candidates for a job role, improving the quality of hire. 
+[Applicant tracking software](https://www.thetalentpool.ai/applicant-tracking-software) is designed to optimize the hiring process for companies. The artificial intelligence technology used in the software helps identify the best candidates for a job role, improving the quality of hire. 
 
 ### 5\. **Structures the Hiring Process**
 

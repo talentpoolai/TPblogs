@@ -60,7 +60,7 @@ For volume hiring, recruiters have to deal with many job applications. Furthermo
 
 Often, manual screening takes a toll on the recruiters, and they may select wrong or underqualified candidates. Manual screening can thus become subjective and inconsistent at times.
 
-Hiring the wrong employees can cost a lot to a company. Not to forget, manual screening takes a significant amount of time and extends the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process/).
+Hiring the wrong employees can cost a lot to a company. Not to forget, manual screening takes a significant amount of time and extends the [recruitment process](https://www.thetalentpool.ai/blogs/slow-recruitment-process).
 
 If recruiters cannot screen candidates fast enough, a competitor may get their hands on top talent. Hence, there is a need for digital screening tools that can reduce the need for manual labor.
 
@@ -108,11 +108,11 @@ This eventually slows down the recruitment process, especially in the case of vo
 
 Some steps for successful volume hiring are as follows:
 
-- Start using advanced screening tools to reduce the manual burden on recruiters. One can rely on a resume parsing system or an ATS ([Applicant Tracking System](https://www.thetalentpool.ai/applicant-tracking-software/)).
+- Start using advanced screening tools to reduce the manual burden on recruiters. One can rely on a resume parsing system or an ATS ([Applicant Tracking System](https://www.thetalentpool.ai/applicant-tracking-software)).
 
 - Define the hiring structure and interview steps on one platform to make tracking easy.
 
-- Outsource your volume hiring processes to a reliable talent acquisition firm. By doing so, you can also have access to a larger [talent pool](https://www.thetalentpool.ai/).
+- Outsource your volume hiring processes to a reliable talent acquisition firm. By doing so, you can also have access to a larger [talent pool](https://www.thetalentpool.ai).
 
 - Define recruiting strategies that include multiple sources such as referral programs, internal promotions, competitions, and hackathons.
 

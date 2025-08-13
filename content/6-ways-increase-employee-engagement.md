@@ -35,7 +35,7 @@ Employee engagement is becoming one of the key indicators in determining workpla
 
 Engaging employees refers to the level of the emotional and mental connection which your employees feel towards the work, team, or organization. It is directly proportional to some of the most essential aspects of any organization including revenue, profitability, customer experience, and more.
 
-Employee engagement helps in higher retention of employees, better employee [productivity](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools/), and lower employee absenteeism, many employers do not take even the most known measures to engage their employees. This leads to low engagement. This low engagement can be due to several factors such as poor company communication, lack of recognition, and employees not feeling in alignment with the company's mission.
+Employee engagement helps in higher retention of employees, better employee [productivity](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools), and lower employee absenteeism, many employers do not take even the most known measures to engage their employees. This leads to low engagement. This low engagement can be due to several factors such as poor company communication, lack of recognition, and employees not feeling in alignment with the company's mission.
 
 In this blog, we share 6 top strategies to overcome the issue and gradually enhance employee engagement.
 
@@ -103,6 +103,6 @@ Evaluate the possibility to grow employees rather than hiring externally. Provid
 
 ## **Conclusion**
 
-Employee engagement is quit e a complex and wide-reaching subject for organizations to master. However, using the strategies mentioned above, you can be thoughtful in your approach to increase employee engagement and reap the [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits/) and rewards of an engaged workforce for years to come.
+Employee engagement is quit e a complex and wide-reaching subject for organizations to master. However, using the strategies mentioned above, you can be thoughtful in your approach to increase employee engagement and reap the [benefits](https://www.thetalentpool.ai/recruitment-management-software-benefits) and rewards of an engaged workforce for years to come.
 
 ![](images/employee-engagement-1-1024x644.jpg)

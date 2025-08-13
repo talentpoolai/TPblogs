@@ -39,9 +39,9 @@ It is essential to understand the reasons for the misalignment. Here are a few c
 
 ## 1\. **An undefined recruitment process**
 
-Are you also one of those companies who assumes that [recruitment process](https://www.thetalentpool.ai/blogs/3-ways-of-structured-hiring-through-unstructured-time/) implies – shortlisting screening, interviewing and selecting?
+Are you also one of those companies who assumes that [recruitment process](https://www.thetalentpool.ai/blogs/3-ways-of-structured-hiring-through-unstructured-time) implies – shortlisting screening, interviewing and selecting?
 
-No here we are talking about it from a different perspective. While you might be giving concrete data points for the recruiter to run a search and get candidates into the pipeline, are you also [making the interview process clear and lucid](https://www.thetalentpool.ai/recruitment-management-software-benefits/)?
+No here we are talking about it from a different perspective. While you might be giving concrete data points for the recruiter to run a search and get candidates into the pipeline, are you also [making the interview process clear and lucid](https://www.thetalentpool.ai/recruitment-management-software-benefits)?
 
 Are your interviewers clear about the criteria? When you internally rate candidate on their appraisal, you provide clear guidelines to your managers on competencies. Then why not provide similar guidelines to interviewers? This can also help avoid any subliminal biases that may creep in.
 

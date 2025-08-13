@@ -33,7 +33,7 @@ seo:
 
 The hybrid work model was never a necessity; rather, this work model was born out of necessity.
 
-When the [pandemic hit the world in 2019](https://www.thetalentpool.ai/blogs/what-is-the-great-resignation-and-how-does-it-affect-recruitment/), companies were forced to vacate their offices, and full-time remote working became the new norm.
+When the [pandemic hit the world in 2019](https://www.thetalentpool.ai/blogs/what-is-the-great-resignation-and-how-does-it-affect-recruitment), companies were forced to vacate their offices, and full-time remote working became the new norm.
 
 <!--more-->
 
@@ -47,7 +47,7 @@ In this blog, we will explore what a hybrid work model is, its pros and cons, an
 
 ## What is a Hybrid Work Model?
 
-The [hybrid work model](https://www.thetalentpool.ai/blogs/7-must-dos-for-businesses-transitioning-to-the-hybrid-work-model/) is a blend of both onsite and remote work. This means that employees can divide their working days between doing their jobs remotely and coming into the office, depending on the needs of the organization.
+The [hybrid work model](https://www.thetalentpool.ai/blogs/7-must-dos-for-businesses-transitioning-to-the-hybrid-work-model) is a blend of both onsite and remote work. This means that employees can divide their working days between doing their jobs remotely and coming into the office, depending on the needs of the organization.
 
 Hybrid work schedules may vary according to the company and industry. Some employees may work three days in the office and two days remotely. Others may spend three months at the workplace and the next month checking in online.
 
@@ -67,7 +67,7 @@ One of the most important lessons from the pandemic has been that working at a d
 
 **_In fact, a study by Stanford researchers says that employees are [13% more productive](https://news.stanford.edu/2020/03/30/productivity-pitfalls-working-home-age-covid-19/#:~:text=The%20experiment%20revealed%20that%20working,home%20to%20the%20whole%20firm.) at home._**
 
-When employees work [remotely](https://www.thetalentpool.ai/blogs/top-remote-work-trends-for-2022-2023/), the focus shifts from how long they worked to how many tasks they finished. It is no longer about the hours they have worked. What matters is work quality and punctuality, which lead to a more productive work environment. When employees have the freedom to choose when and where they work, they usually do a better and more efficient job.
+When employees work [remotely](https://www.thetalentpool.ai/blogs/top-remote-work-trends-for-2022-2023), the focus shifts from how long they worked to how many tasks they finished. It is no longer about the hours they have worked. What matters is work quality and punctuality, which lead to a more productive work environment. When employees have the freedom to choose when and where they work, they usually do a better and more efficient job.
 
 ### 2\. **Better Work-Life Balance**
 

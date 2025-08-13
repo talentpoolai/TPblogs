@@ -39,7 +39,7 @@ Shocking, isn’t it?
 
 <!--more-->
 
-Of course, [retaining employees](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent/) is more beneficial and less costly than acquiring new talent in the long term.
+Of course, [retaining employees](https://www.thetalentpool.ai/blogs/5-tips-attract-retain-gen-z-talent) is more beneficial and less costly than acquiring new talent in the long term.
 
 So, as an HR manager, what can you do to build an engaging and healthy workforce?
 
@@ -47,7 +47,7 @@ Worry not; we have got you covered. In this blog, we will discuss how you can re
 
 ## **What Employees are Resigning?**
 
-The [Great Resignation](https://www.thetalentpool.ai/blogs/what-is-the-great-resignation-and-how-does-it-affect-recruitment/) 2022 is an incident where an unprecedented number of employees resigned after the end of the COVID-19 epidemic. Why did this happen?
+The [Great Resignation](https://www.thetalentpool.ai/blogs/what-is-the-great-resignation-and-how-does-it-affect-recruitment) 2022 is an incident where an unprecedented number of employees resigned after the end of the COVID-19 epidemic. Why did this happen?
 
 The pandemic prompted people to pause and reconsider their work and life situations. Studies show that many have realized they are burned out and are now seeking a better work-life balance, while others are unhappy with their employer's response to the COVID-19 pandemic. Many people are also looking for new opportunities for more compensation, better career advancement, or remote work.
 
@@ -59,14 +59,14 @@ Check out the given 5 tips to retain employees during the Great Resignation:
 
 ### 1\. **Provide Flexibility and Work-Life Balance**
 
-Yes, many employees prefer [remote work](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools/) after the pandemic. This is because by working remotely, an employee can save travel time, and that time can be utilized to boost productivity. Also, the ability to stay at home ensures that the employees can support their families by being available for children and elderly people.
+Yes, many employees prefer [remote work](https://www.thetalentpool.ai/blogs/remote-working-collaboration-tools) after the pandemic. This is because by working remotely, an employee can save travel time, and that time can be utilized to boost productivity. Also, the ability to stay at home ensures that the employees can support their families by being available for children and elderly people.
 
 Employees also crave more work-life balance. They want to have a life outside of work. They also want the freedom to choose where and how to work. Allowing staff to choose their own schedule rather than simply telling employees when they should be working helps businesses thrive in this age of the Great Resignation.
 
 _To retain top talent, you can offer flexible working arrangements like:_
 
 - Remote working options
-- [Hybrid work model](https://www.thetalentpool.ai/blogs/7-must-dos-for-businesses-transitioning-to-the-hybrid-work-model/)
+- [Hybrid work model](https://www.thetalentpool.ai/blogs/7-must-dos-for-businesses-transitioning-to-the-hybrid-work-model)
 - Flexible working schedules
 - Shortened work weeks
 
@@ -102,7 +102,7 @@ Also, using surveys to collect feedback from employees is another way to find ou
 
 ### 3\. **Focus on Employees’ Learning and Growth Opportunities**
 
-Opportunities for growth and learning are usually regarded as desirable by employees. Many employees wish to continue developing their abilities and growing their knowledge. Investing in [training and development](https://www.thetalentpool.ai/blogs/how-build-talent-mobility-plan-and-benefits-it/) opportunities does not mean you must exceed the organization’s budget.
+Opportunities for growth and learning are usually regarded as desirable by employees. Many employees wish to continue developing their abilities and growing their knowledge. Investing in [training and development](https://www.thetalentpool.ai/blogs/how-build-talent-mobility-plan-and-benefits-it) opportunities does not mean you must exceed the organization’s budget.
 
 Low-cost solutions to investing in the professional development of your staff include:
 

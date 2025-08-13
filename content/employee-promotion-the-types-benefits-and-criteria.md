@@ -57,7 +57,7 @@ However, basically, there are three different types of employee promotions that 
 
 ### 1\. **Vertical Promotion**
 
-Vertical promotions provide employees with more or different responsibilities, a higher salary, and a new job title. This is what most people envision when they consider promotions. Vertical promotions are an excellent way to reward high-performing employees and fill open jobs that might benefit from an internal perspective. They also communicate to your employees that the organisation values their professional [development.](https://www.thetalentpool.ai/blogs/importance-employee-development-modern-workplace/)
+Vertical promotions provide employees with more or different responsibilities, a higher salary, and a new job title. This is what most people envision when they consider promotions. Vertical promotions are an excellent way to reward high-performing employees and fill open jobs that might benefit from an internal perspective. They also communicate to your employees that the organisation values their professional [development.](https://www.thetalentpool.ai/blogs/importance-employee-development-modern-workplace)
 
 ### 2\. **Horizontal Promotion**
 
@@ -79,13 +79,13 @@ On the other hand, closed promotion is a process where the promotion opportuniti
 
 ## **Benefits of Employee Promotion**
 
-Promoting employees creates a win-win situation for both the organisation and the individuals involved. It fosters a positive work environment, enhances [employee satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it/) and loyalty, drives productivity, and contributes to long-term organisational success.
+Promoting employees creates a win-win situation for both the organisation and the individuals involved. It fosters a positive work environment, enhances [employee satisfaction](https://www.thetalentpool.ai/blogs/what-employee-satisfaction-how-measure-it) and loyalty, drives productivity, and contributes to long-term organisational success.
 
 Let us discuss the advantages of promoting employees:
 
 ### 1. **Retention of Top Talent**
 
-Promoting employees from within the organisation is an effective strategy for [retaining top talent.](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation/)
+Promoting employees from within the organisation is an effective strategy for [retaining top talent.](https://www.thetalentpool.ai/blogs/retaining-talent-amid-great-resignation)
 
 **_According to a study by LinkedIn, internal promotion reduces employee turnover by 61%._**
 
@@ -93,7 +93,7 @@ When employees see clear paths for advancement, they are more likely to stay wit
 
 ### 2. **Increase Motivation and Engagement**
 
-Promotions recognize and reward employees’ hard work and achievements, boosting their motivation and job satisfaction. It instills a sense of pride and accomplishment, leading to increased [engagement](https://www.thetalentpool.ai/blogs/10-ways-boost-candidate-engagement-in-recruitment-rocess/) and dedication to their roles and the organisation.
+Promotions recognize and reward employees’ hard work and achievements, boosting their motivation and job satisfaction. It instills a sense of pride and accomplishment, leading to increased [engagement](https://www.thetalentpool.ai/blogs/10-ways-boost-candidate-engagement-in-recruitment-rocess) and dedication to their roles and the organisation.
 
 Promotions can have a positive impact on overall morale and team dynamics. They inspire other employees to work hard and strive for advancement opportunities, creating a culture of growth. It fosters a positive work environment and enhances teamwork and collaboration.
 
@@ -101,7 +101,7 @@ Promotions can have a positive impact on overall morale and team dynamics. They 
 
 **_The Corporate Leadership Council found that organisations that effectively promote from within have 20% higher employee performance._**
 
-Promoting employees allows organisations to nurture and develop their talent pool, ensuring a pipeline of capable individuals for higher-level positions. It facilitates succession planning, mitigates talent gaps, and reduces the time and resources required for external [recruitment](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate/) and onboarding.
+Promoting employees allows organisations to nurture and develop their talent pool, ensuring a pipeline of capable individuals for higher-level positions. It facilitates succession planning, mitigates talent gaps, and reduces the time and resources required for external [recruitment](https://www.thetalentpool.ai/blogs/what-recruitment-sourcing-best-recruitment-sourcing-strategies-find-right-candidate) and onboarding.
 
 ### 4. **Enhance Skills and Knowledge**
 
@@ -113,7 +113,7 @@ There is no right or wrong time to promote an employee. Most of the time, it dep
 
 - Consistent demonstration of exceptional performance and track record of delivering high-quality work
 
-- Develop new [skills](https://www.thetalentpool.ai/blogs/right-skills-but-right-fit/) required for the higher-level position or the specific needs of the organisation.
+- Develop new [skills](https://www.thetalentpool.ai/blogs/right-skills-but-right-fit) required for the higher-level position or the specific needs of the organisation.
 
 - Take on new responsibilities to handle higher-level tasks
 
@@ -141,11 +141,11 @@ Clearly define the criteria for promotion, including the skills, competencies, e
 
 ### 3. **Identify Potential Candidates**
 
-Evaluate the pool of potential candidates based on their performance, skills, and alignment with the promotion criteria. Consider both internal and external candidates but prioritize [internal talent](https://www.thetalentpool.ai/blogs/guide-internal-mobility-for-hr-professionals/) to promote career growth and retain top performers.
+Evaluate the pool of potential candidates based on their performance, skills, and alignment with the promotion criteria. Consider both internal and external candidates but prioritize [internal talent](https://www.thetalentpool.ai/blogs/guide-internal-mobility-for-hr-professionals) to promote career growth and retain top performers.
 
 ### 4. **Provide Feedback**:
 
-Engage in open and transparent communication with the employee regarding their potential for promotion. Provide constructive feedback on their strengths and areas for [development.](https://www.thetalentpool.ai/blogs/importance-employee-development-modern-workplace/) You can also offer guidance on how they can improve their chances of being promoted.
+Engage in open and transparent communication with the employee regarding their potential for promotion. Provide constructive feedback on their strengths and areas for [development.](https://www.thetalentpool.ai/blogs/importance-employee-development-modern-workplace) You can also offer guidance on how they can improve their chances of being promoted.
 
 ### 5. **Conduct a Performance Evaluation**:
 

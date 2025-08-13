@@ -32,7 +32,7 @@ seo:
 
 Shyam is thrilled about the prospect of joining your team. He has researched your company and prepared extensively and is eager to make an impression. However, his excitement fades when he encounters delayed responses, unclear instructions, and a lack of connection.
 
-This scenario highlights a common oversight in hiring—the [candidate's experience](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience/) during the interview process. According to research, 83% of candidates say a negative experience can change their perception of a company, while 72% share their frustrations with others, potentially damaging your employer's brand.
+This scenario highlights a common oversight in hiring—the [candidate's experience](https://www.thetalentpool.ai/blogs/actionable-tips-to-improve-candidate-experience) during the interview process. According to research, 83% of candidates say a negative experience can change their perception of a company, while 72% share their frustrations with others, potentially damaging your employer's brand.
 
 ![](images/Picture1-1024x807.jpg)
 
@@ -58,7 +58,7 @@ The casual chaos that once worked starts becoming a liability. Teams feel stretc
 
 ### How to do: 
 
-- Reference specific details from a candidate's resume during [interviews.](https://www.thetalentpool.ai/blogs/how-identify-and-avoid-interview-bias/) For instance, "We noticed your leadership in \[project\]. Can you tell us more about that?"
+- Reference specific details from a candidate's resume during [interviews.](https://www.thetalentpool.ai/blogs/how-identify-and-avoid-interview-bias) For instance, "We noticed your leadership in \[project\]. Can you tell us more about that?"
 
 - Tailor follow-up emails with unique touches, like sharing company initiatives or upcoming events that align with the candidate's interests.
 

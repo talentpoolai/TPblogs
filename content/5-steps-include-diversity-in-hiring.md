@@ -37,7 +37,7 @@ The diversity in hiring also gives the establishment an altered hiring process t
 
 The popular workspace insights company Glassdoor surveyed diversity at the workplace and determined that 67% of new employees look for variety. Additionally, over 40% of all women working in a corporate structure feel disconnected from decision-making. This imbalance is fixable only by fixing the gender ratio in the workplace. 
 
-This change is possible by setting up a system that sees merit and not other facts mentioned above. Whether using a recruitment agency, [screening](https://www.thetalentpool.ai/recruitment-management-software-benefits/) workers, or even shortlisting the final candidates, each process should allow the best talent to shine irrespective of other factors.
+This change is possible by setting up a system that sees merit and not other facts mentioned above. Whether using a recruitment agency, [screening](https://www.thetalentpool.ai/recruitment-management-software-benefits) workers, or even shortlisting the final candidates, each process should allow the best talent to shine irrespective of other factors.
 
 Here are a few steps your company can remain mindful about to promote the culture of diversity in hiring better.
 
@@ -45,7 +45,7 @@ Here are a few steps your company can remain mindful about to promote the cultur
 
 The first step is to determine if there is a problem and to what degree it has affected your workplace. This is possible by running a few diversity hiring audits and examining the current recruitment process. 
 
-The company must also study the existing workforce for patterns of biased hiring. Are there too many people from the same community? Does the office lack gender equality? Does one of the [hiring processes](https://www.thetalentpool.ai/blogs/6-things-considered-while-doing-international-hiring/) hamper diversity in hiring?
+The company must also study the existing workforce for patterns of biased hiring. Are there too many people from the same community? Does the office lack gender equality? Does one of the [hiring processes](https://www.thetalentpool.ai/blogs/6-things-considered-while-doing-international-hiring) hamper diversity in hiring?
 
 Additionally, also note all the factors in favour of diversity in hiring. What are some steps you have already taken to ensure better workplace equality? These factors further help you steam ahead in the right direction. 
 

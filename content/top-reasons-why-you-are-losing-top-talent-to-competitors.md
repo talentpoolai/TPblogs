@@ -64,7 +64,7 @@ Comparatively, companies with a toxic environment usually lose employees. If you
 
 These days, employees are trying to understand the company’s values to find meaning in their work.
 
-For many people, life after the [pandemic](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process/) has been difficult and demanding. When they give you their time and energy, they want to know that their contribution makes a difference. They want their job to have significance. It is difficult to find meaning in a business operating only for numbers and financial benchmarks.
+For many people, life after the [pandemic](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process) has been difficult and demanding. When they give you their time and energy, they want to know that their contribution makes a difference. They want their job to have significance. It is difficult to find meaning in a business operating only for numbers and financial benchmarks.
 
 This is when your mission enters the picture. What motivates your organization to do what it does? If the answer is just to make more money, you will have a difficult time in today's job market.
 
@@ -94,11 +94,11 @@ Aside from the potential consequences, it is a poor business practice to show no
 
 ### 7\. **Your Recruitment Process Is Not Streamlined**
 
-For some businesses, the desire to identify the perfect candidate for every open role can lead to a lengthy and time-consuming [hiring process](https://www.thetalentpool.ai/blogs/6-onboarding-metrics-most-important-in-hiring-process/). While it is understandable to be cautious when hiring; if your process takes too long, prospective candidates may just choose other offers while waiting for your next step.
+For some businesses, the desire to identify the perfect candidate for every open role can lead to a lengthy and time-consuming [hiring process](https://www.thetalentpool.ai/blogs/6-onboarding-metrics-most-important-in-hiring-process). While it is understandable to be cautious when hiring; if your process takes too long, prospective candidates may just choose other offers while waiting for your next step.
 
 Remember that most of your candidates are applying for jobs at various companies. If your recruitment procedure is too long, you may lose excellent candidates to more agile firms.
 
-So, try to streamline your end-to-end recruitment process using modern tools like [ATS software](https://www.thetalentpool.ai/applicant-tracking-software/) that automates your manual tasks.
+So, try to streamline your end-to-end recruitment process using modern tools like [ATS software](https://www.thetalentpool.ai/applicant-tracking-software) that automates your manual tasks.
 
 ### **Conclusion**
 

@@ -37,7 +37,7 @@ To this end, this blog explores how Talentpool’s vendor management tool can he
 
 ## **Understanding the Need for a Vendor Management System** 
 
-A company has professional relationships with many agencies for hiring purposes. These external agencies can be talent acquisition firms, staffing firms, or [recruitment](https://www.thetalentpool.ai/blogs/digital-age-hiring-whats-next-in-the-recruitment-world/) partners.
+A company has professional relationships with many agencies for hiring purposes. These external agencies can be talent acquisition firms, staffing firms, or [recruitment](https://www.thetalentpool.ai/blogs/digital-age-hiring-whats-next-in-the-recruitment-world) partners.
 
 Since hiring can get complicated, companies rely on external partners for support. These external partners help companies identify and access the talent pools in the industry.
 
@@ -47,7 +47,7 @@ For the same reason, companies depend on vendor management systems. HR professio
 
 ## **How Talentpool’s Vendor Management System Can Help**
 
-The vendor management solution offered by [Talentpool](https://www.thetalentpool.ai/) can help HR professionals in several ways: 
+The vendor management solution offered by [Talentpool](https://www.thetalentpool.ai) can help HR professionals in several ways: 
 
 ### 1\. **Avoiding Duplicate Profiles** 
 

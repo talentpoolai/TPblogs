@@ -51,7 +51,7 @@ When new hires join your team, they may feel a little lost. This is perfectly no
 
 It's up to you to give them a warm welcome and show them the ropes. One way is by creating itineraries for your new hires. By doing this, you can help them feel more welcome and enable them to know the company culture faster.
 
-Planning team lunches, outings, and catch-ups can be a great way to systematically introduce some order in their [onboarding process](https://www.thetalentpool.ai/blogs/6-onboarding-metrics-most-important-in-hiring-process/).
+Planning team lunches, outings, and catch-ups can be a great way to systematically introduce some order in their [onboarding process](https://www.thetalentpool.ai/blogs/6-onboarding-metrics-most-important-in-hiring-process).
 
 ## **3\. Introduce them to their Colleagues** 
 

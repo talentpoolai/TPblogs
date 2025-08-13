@@ -77,7 +77,7 @@ A robust employer branding also ensures a sense of job stability which most peop
 
 ## **How to Prevent Candidate Ghosting?**
 
-In modern times, it is crucial to have a robust [recruitment strategy](https://www.thetalentpool.ai/blogs/digital-age-hiring-whats-next-in-the-recruitment-world/) to avoid being ghosted by shortlisted candidates.
+In modern times, it is crucial to have a robust [recruitment strategy](https://www.thetalentpool.ai/blogs/digital-age-hiring-whats-next-in-the-recruitment-world) to avoid being ghosted by shortlisted candidates.
 
 Here are some essential tips that can help reduce the chances of candidate ghosting: 
 
@@ -97,7 +97,7 @@ Therefore, making quick decisions is crucial to keep candidates happy during the
 
 Discussing compensation during job interviews is essential.
 
-Companies should have some flexibility in their compensation plan. They should also be open to discussing the pay scale during the [recruitment process](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process/).
+Companies should have some flexibility in their compensation plan. They should also be open to discussing the pay scale during the [recruitment process](https://www.thetalentpool.ai/blogs/ai-recruitment-how-ai-changing-recruiting-process).
 
 Candidates often ghost employers due to the low pay scale offered for a particular job.   
 

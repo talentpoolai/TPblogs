@@ -66,7 +66,7 @@ Consider a job opening that invites an applicant from a CSE background. If appli
 
 Modern-day applicant tracking systems also come with a chat function. Hiring teams can chat in real-time with each other with the ATS. Decisions can be taken from a central point with collaborative efforts. Many recruiters use an applicant tracking system to add commentary for each applicant.
 
-Not to forget, an ATS can also help you with applicant communication and job posting. An ATS is a type of application software programmed to integrate different hiring processes. Modern-day [applicant tracking systems](https://www.thetalentpool.ai/blogs/are-you-getting-rejected-by-the-applicant-tracking-software/) run on AI/ML algorithms.
+Not to forget, an ATS can also help you with applicant communication and job posting. An ATS is a type of application software programmed to integrate different hiring processes. Modern-day [applicant tracking systems](https://www.thetalentpool.ai/blogs/are-you-getting-rejected-by-the-applicant-tracking-software) run on AI/ML algorithms.
 
 With modern-day ATS, recruiters can make informed decisions in real-time. The ATS creates a recruitment funnel that is easy to be followed. An example of a recruitment funnel created by an ATS for a job opening is as follows:
 
@@ -100,7 +100,7 @@ The top features of ATS are listed below:
 
 ## **Pros of Using an ATS**
 
-The [pros of using an ATS in 2022](https://www.thetalentpool.ai/recruitment-management-software-benefits/) for recruitment are as follows:
+The [pros of using an ATS in 2022](https://www.thetalentpool.ai/recruitment-management-software-benefits) for recruitment are as follows:
 
 - With an ATS, recruiters can decrease the time and cost for each hire. More than 80% of recruiters believe ATS has helped them save time during recruitment.
 

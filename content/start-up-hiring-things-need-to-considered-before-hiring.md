@@ -61,7 +61,7 @@ Clear non-negotiables create motivation in candidates and help them to excel in 
 
 ### 3\. **Focus on Employer Branding**
 
-Creating a strong brand name in the industry will definitely ease your worries when it comes to recruiting the best talent. You should always highlight what the individuals can get from working with your organization. One of the best ways to build a strong [employer brand](https://www.thetalentpool.ai/blogs/5-tips-on-social-media-recruitment-strategies/) is by analyzing the organization's work culture and making it a good place to work. Employer branding can help you obtain the right talent without spending a ton of money and resources.
+Creating a strong brand name in the industry will definitely ease your worries when it comes to recruiting the best talent. You should always highlight what the individuals can get from working with your organization. One of the best ways to build a strong [employer brand](https://www.thetalentpool.ai/blogs/5-tips-on-social-media-recruitment-strategies) is by analyzing the organization's work culture and making it a good place to work. Employer branding can help you obtain the right talent without spending a ton of money and resources.
 
 If you have a high employee retention rate, you must highlight the same. It gives people a sense of security, and they are more likely to join a stable organization.
 

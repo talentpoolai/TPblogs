@@ -28,9 +28,9 @@ seo:
   keywords: *ref_0
 ---
 
-In this competitive market, talent and resources can be a game-changer for any organization. You cannot afford to lose the best talent to some other company or your competitors due to a lag or recruitment delay at your end. Human resource team and top management should therefore prioritize the [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process/) and weed out all the reasons that are causing delays in the process.
+In this competitive market, talent and resources can be a game-changer for any organization. You cannot afford to lose the best talent to some other company or your competitors due to a lag or recruitment delay at your end. Human resource team and top management should therefore prioritize the [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process) and weed out all the reasons that are causing delays in the process.
 
-Recruitment delays can be caused due to a number of reasons. Since the implications of delays can cost a lot to the company; it is best to take stock of the [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process/) regularly to root cause of delays in the recruitment process.
+Recruitment delays can be caused due to a number of reasons. Since the implications of delays can cost a lot to the company; it is best to take stock of the [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process) regularly to root cause of delays in the recruitment process.
 
 <!--more-->
 
@@ -56,6 +56,6 @@ Historically interviewers have become a bottleneck. They always seem to take a l
 
 Any company that believes in candidate engagement also deploys creative processes and techniques to engage the candidate. It is important to keep the communication lines are open with the recruiter so that at any point of time the candidate can get in touch for any query related to the profile or the process. A one way communication almost never works and doesn’t fetch the desired results in the hiring process. Responding to queries and engaging candidates through timely feedback are very important aspects of speedy hiring processes. Any lack in any of these crucial processes can cause unnecessary delay in the hiring process.
 
-So, what can one do to avoid these delays? Well, the solutions are not complicated, in fact many a times the solution is hidden in the problem itself. The reasons causing delays in [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process/) may not be found at the surface but may be found at a much deeper level and that may have been overlooked before!
+So, what can one do to avoid these delays? Well, the solutions are not complicated, in fact many a times the solution is hidden in the problem itself. The reasons causing delays in [recruitment process](https://www.thetalentpool.ai/blogs/covid-19-reset-and-revamp-the-recruitment-process) may not be found at the surface but may be found at a much deeper level and that may have been overlooked before!
 
 It is best to hire efficient and competitive managers for recruitment process. Competent and experienced managers with all their expertise can foresee or envision the probable problems that might occur in the recruitment process. It can reduce the down-time in the recruitment process in the present and immediate future too.

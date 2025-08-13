@@ -37,11 +37,11 @@ Over the past decade in recruitment technology, talent acquisition has evolved f
 
 But with hundreds of tools claiming to transform recruitment, what truly moves the needle? 
 
-In this blog post, we will talk about five essential tools in [talent acquisition software](https://www.thetalentpool.ai/) that have been proven to be useful in simplifying hiring, improving decision-making, and strengthening collaboration across teams. Let’s get started! 
+In this blog post, we will talk about five essential tools in [talent acquisition software](https://www.thetalentpool.ai) that have been proven to be useful in simplifying hiring, improving decision-making, and strengthening collaboration across teams. Let’s get started! 
 
 ## **What is Talent Acquisition Software?** 
 
-Talent acquisition software is the type of [recruitment software](https://www.thetalentpool.ai/blogs/the-ultimate-guide-to-selecting-the-right-recruitment-software/) that is used to automate and optimize the entire process of hiring employees. Unlike other conventional applicant tracking systems whose job is mainly to handle applications, the [talent acquisition](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025/) systems assist at all the stages of a recruiting process, namely, job requisition, candidate sourcing, screening, interviewing, and reporting. 
+Talent acquisition software is the type of [recruitment software](https://www.thetalentpool.ai/blogs/the-ultimate-guide-to-selecting-the-right-recruitment-software) that is used to automate and optimize the entire process of hiring employees. Unlike other conventional applicant tracking systems whose job is mainly to handle applications, the [talent acquisition](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025) systems assist at all the stages of a recruiting process, namely, job requisition, candidate sourcing, screening, interviewing, and reporting. 
 
 A competent talent acquisition software helps the recruiter to:  
 
@@ -55,7 +55,7 @@ A competent talent acquisition software helps the recruiter to:  
 
 ### **1\. AI-Powered ATS** 
 
-The main requirement of any modern talent acquisition software is an AI-powered [ATS](https://www.thetalentpool.ai/blogs/choosing-the-right-ats-key-features-to-look-for-in-2025/). The purpose of these systems is to decrease the manual work of recruiters and enhance the quality of shortlisting. Find an ATS that has capabilities that include: 
+The main requirement of any modern talent acquisition software is an AI-powered [ATS](https://www.thetalentpool.ai/blogs/choosing-the-right-ats-key-features-to-look-for-in-2025). The purpose of these systems is to decrease the manual work of recruiters and enhance the quality of shortlisting. Find an ATS that has capabilities that include: 
 
 - **Job board integrations including Naukri plug-in**: Directs job postings and two-way sync with Naukri and other major portals. 
 
@@ -75,7 +75,7 @@ Talentpool offers an AI-first ATS that combines all these features with recruite
 
 ### **2\. AI Recruitment Assistant (Chatbot)** 
 
-Recruitment chatbots or AI assistants are useful in [Talent Acquisition Software](https://www.thetalentpool.ai/blogs/why-businesses-need-talent-acquisition-software-in-2025/) to ensure that communication between the hiring managers and the recruiter is simplified. Talentpool provides MAYA, an AI-powered, mobile-first chatbot, built specifically around recruiter-hiring manager partnership. Here’s what it offers: 
+Recruitment chatbots or AI assistants are useful in [Talent Acquisition Software](https://www.thetalentpool.ai/blogs/why-businesses-need-talent-acquisition-software-in-2025) to ensure that communication between the hiring managers and the recruiter is simplified. Talentpool provides MAYA, an AI-powered, mobile-first chatbot, built specifically around recruiter-hiring manager partnership. Here’s what it offers: 
 
 - **Easy Login with OTP**: Hiring managers can access the system securely through a one-time password sent to their registered email. 
 
@@ -103,7 +103,7 @@ Along with these features, Talentpool stands out with its AI summary, that gives
 
 ### **4\. Employee Onboarding Platform** 
 
-[Onboarding](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires/) should begin the moment a candidate accepts the offer. Effective talent acquisition solutions include onboarding modules with: 
+[Onboarding](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires) should begin the moment a candidate accepts the offer. Effective talent acquisition solutions include onboarding modules with: 
 
 - **Digital Document Collection**: Collects PAN, Aadhaar, academic certificates, and other documents securely. 
 
@@ -147,6 +147,6 @@ These five tools, when integrated into a single, modern talent acquisition softw
 
 - Greater transparency and accountability across hiring stages 
 
-For any organization serious about scaling or improving recruitment outcomes, Talentpool offers a trusted, AI-first, and enterprise-ready [talent acquisition](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025/) management solution. Connect with us to schedule a 1:1 demo now! 
+For any organization serious about scaling or improving recruitment outcomes, Talentpool offers a trusted, AI-first, and enterprise-ready [talent acquisition](https://www.thetalentpool.ai/blogs/how-ai-recruiting-is-changing-talent-acquisition-in-2025) management solution. Connect with us to schedule a 1:1 demo now! 
 
 ![](images/4730593_2488482-1-1024x914.jpg)

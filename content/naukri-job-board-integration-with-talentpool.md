@@ -30,9 +30,9 @@ Enable Naukri integration to get all candidate applications into one single data
 
 ## **How Naukri Integration Helps?** 
 
-- **Unify** - Publish job positions directly on the Naukri portal without leaving the [Talentpool](https://www.thetalentpool.ai/recruitment-management-software-benefits/). Keep a track record of published job positions. Get all your applicants from Naukri resdex, portal, and mass mailer application in one unified database.  Eliminate duplicate resumes and leverage the Naukri platform effectively.
+- **Unify** - Publish job positions directly on the Naukri portal without leaving the [Talentpool](https://www.thetalentpool.ai/recruitment-management-software-benefits). Keep a track record of published job positions. Get all your applicants from Naukri resdex, portal, and mass mailer application in one unified database.  Eliminate duplicate resumes and leverage the Naukri platform effectively.
 
-- **Search** - Use the robust search functionalities in [Talentpool](https://www.thetalentpool.ai/) to search on the basis of skills, years of experience, location, college, past employer as well as other keywords. Get candidates ranked as per relevance. Use custom tags to create your own segment to reach the right profiles easily.
+- **Search** - Use the robust search functionalities in [Talentpool](https://www.thetalentpool.ai) to search on the basis of skills, years of experience, location, college, past employer as well as other keywords. Get candidates ranked as per relevance. Use custom tags to create your own segment to reach the right profiles easily.
 
 - **Maintain** - Get access to the entire conversation history, feedback, and ratings of a candidate that you have contacted or evaluated in the past.
 
@@ -42,10 +42,10 @@ Enable Naukri integration to get all candidate applications into one single data
 
 - Reduces manual work by 40% to 50%
 - Saves time and improves visibility
-- [Accelerates hiring process](https://www.thetalentpool.ai/blogs/recruitment-metrics/)
+- [Accelerates hiring process](https://www.thetalentpool.ai/blogs/recruitment-metrics)
 
 ## **Wrapping It Up** 
 
 We always look for new ways to expand our features and functionalities that help recruiters to complete their tasks faster.  
 
-Contact us to know more about how [Talentpool](https://www.thetalentpool.ai/) helps you seamlessly integrate with Naukri.
+Contact us to know more about how [Talentpool](https://www.thetalentpool.ai) helps you seamlessly integrate with Naukri.

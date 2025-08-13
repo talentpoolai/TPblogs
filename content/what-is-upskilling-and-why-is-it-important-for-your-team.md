@@ -44,7 +44,7 @@ The workplace is evolving faster than ever. With AI, automation, and emerging te
 
 - **It keeps your team happy and sticking around:** Employees leave companies when they feel stuck. When you invest in their growth, they feel valued. According to LinkedIn Learning, 94% of employees said they’d stay longer at a company that supports their development. Upskilling fosters engagement, reduces turnover, and keeps your team motivated.
 
-- **You can react faster to market changes:** In fast-moving industries, the ability to adapt quickly is everything. Upskilled teams are agile and ready to pivot, whether embracing new technology or responding to market trends. While competitors scramble for external [hires](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires/), your team will already be a step ahead.
+- **You can react faster to market changes:** In fast-moving industries, the ability to adapt quickly is everything. Upskilled teams are agile and ready to pivot, whether embracing new technology or responding to market trends. While competitors scramble for external [hires](https://www.thetalentpool.ai/blogs/top-8-tips-to-onboard-new-hires), your team will already be a step ahead.
 
 - **It builds a culture of growth:** Upskilling goes beyond individual development—it creates a ripple effect across your organization. A culture of learning inspires employees to step up, share ideas, and innovate. It also positions your company as a magnet for ambitious, forward-thinking talent.
 
@@ -52,7 +52,7 @@ The workplace is evolving faster than ever. With AI, automation, and emerging te
 
 The skills your team needs will vary by industry, but here are some areas in high demand:
 
-- **Tech Skills:** [AI](https://www.thetalentpool.ai/blogs/how-artificial-intelligence-changing-hiring-process/), machine learning, and data analytics are no longer optional. In fact, LinkedIn’s Workforce Report revealed that demand for AI skills has grown by 190% in the past five years. If your business isn’t preparing for this, you risk falling behind.
+- **Tech Skills:** [AI](https://www.thetalentpool.ai/blogs/how-artificial-intelligence-changing-hiring-process), machine learning, and data analytics are no longer optional. In fact, LinkedIn’s Workforce Report revealed that demand for AI skills has grown by 190% in the past five years. If your business isn’t preparing for this, you risk falling behind.
 
 - **Leadership and Soft Skills:** Leadership, problem-solving, and emotional intelligence become critical for scaling teams effectively. These skills turn managers into inspiring leaders.
 
@@ -68,7 +68,7 @@ Upskilling doesn’t have to be overwhelming or expensive. Here are actionable w
 
 - **Partner with Experts:** Bring in specialists to conduct workshops tailored to your industry.
 
-- **Encourage Peer Learning:** Your team is already full of knowledge—tap into it! Create knowledge-sharing sessions where [employees](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement/) teach one another. This is cost-effective and fosters collaboration.
+- **Encourage Peer Learning:** Your team is already full of knowledge—tap into it! Create knowledge-sharing sessions where [employees](https://www.thetalentpool.ai/blogs/6-ways-increase-employee-engagement) teach one another. This is cost-effective and fosters collaboration.
 
 - **Offer Certifications:** Support your team in earning recognized certifications. Not only does it boost their confidence, but it also enhances your company’s credibility in the market.
 
@@ -76,7 +76,7 @@ Upskilling doesn’t have to be overwhelming or expensive. Here are actionable w
 
 ## Wrapping Up
 
-Upskilling isn’t just about keeping up—it’s about staying ahead. For growing companies, it’s the secret to competing with more prominent players, retaining [top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors/), and future-proofing your business.
+Upskilling isn’t just about keeping up—it’s about staying ahead. For growing companies, it’s the secret to competing with more prominent players, retaining [top talent](https://www.thetalentpool.ai/blogs/top-reasons-why-you-are-losing-top-talent-to-competitors), and future-proofing your business.
 
 With 2025’s focus on skill development, there’s no better time to get started!
 
