@@ -1,7 +1,7 @@
 ---
 
 id: ''
-title: "Candidate Sourcing 101: How to Stop Candidate Drop-Offs Before It’s Too Late"
+title: "Candidate Sourcing 101: How to Reduce Candidate Drop-Offs Before It’s Too Late"
 slug: how-to-reduce-candidate-drop-offs
 excerpt: "Candidate drop-offs are one of the biggest challenges in modern hiring, and they directly impact time-to-hire and quality-of-hire. The key to reducing them lies in proactive tracking and data-driven candidate sourcing strategies. With the help of modern candidate tracking software, recruiters can identify drop-off points, streamline communication, and significantly reduce candidate drop-off at every stage of the hiring process."
 author:
