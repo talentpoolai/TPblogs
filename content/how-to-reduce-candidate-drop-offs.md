@@ -26,8 +26,6 @@ seo:
   keywords: *ref_0
 ---
 
-# Candidate Sourcing 101: How to Stop Candidate Drop-Offs Before It’s Too Late  
-
 Imagine investing days in screening resumes, scheduling interviews, and engaging a promising candidate only to have them ghost you. No explanation. No response. Just gone.  
 
 That’s the most common modern candidate sourcing problem, commonly known as candidate drop-offs. According to recent data1, 28% of job-seeking candidates have admitted to ghosting recruiters during the hiring process, and in most cases, recruiters don’t know when it happened or why. It is not only frustrating but also costly, time-consuming, and highly disruptive to the hiring process.  
