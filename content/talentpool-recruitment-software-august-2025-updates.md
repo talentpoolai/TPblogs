@@ -1,7 +1,7 @@
 ---
 
 id: ''
-title: Talentpool Recruitment Software - August 2025 Feature Updates
+title: Talentpool Recruitment Software: August 2025 Feature Updates
 slug: talentpool-recruitment-software-august-2025-updates
 excerpt: "Discover Talentpool Recruitment Software’s August 2025 feature updates, built to make hiring faster and more collaborative. These updates help recruiters boost productivity, simplify approvals, and improve team communication. With new features and enhancements, Talentpool ensures your recruitment process stays transparent, efficient, and audit-ready."
 author:
@@ -10,7 +10,7 @@ author:
   avatar: /sanchita.png
 publishedAt: 2025-09-02T18:30:00.000Z
 readTime: ""
-category: Monthly Feature Updates
+category: Feature Release
 tags: &ref_0
   - recruitment software
   - recruitment management system
