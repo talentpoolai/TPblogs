@@ -1,7 +1,7 @@
 ---
 
 id: ''
-title: Internal Talent Marketplaces - How It is Changing the Future of Workforce Planning
+title: How Internal Talent Marketplaces are Changing Workforce Planning
 slug: how-internal-talent-marketplaces-are-changing-workforce-planning
 excerpt: "In 2025, workforce planning is shifting towards internal talent marketplaces. Through integration of internal recruitment and employee referrals, companies are able to reskill, redeploy and retain top talent. This end-to-end recruiting strategy improves skills mapping, attrition, and employee retention strategies, and will result in more agile, cost-efficient, and future-ready organizations in a swiftly shifting talent environment."
 author:
