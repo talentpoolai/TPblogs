@@ -1,7 +1,7 @@
 ---
 
 id: ''
-title: Insurance Recruitment in India: Best Practices for Insurance Agencies
+title: Insurance Recruitment in India - Best Practices for Insurance Agencies
 slug: insurance-recruitment-in-india--best-practices
 excerpt: "The Indian insurance industry is developing fast, and the competition has never been more intense to hire talented professionals. This blog discusses the effective insurance recruitment best practices, current hiring trends, and how to attract, engage and retain the best talent. Understand with how insurance agencies can define roles, channel sources, decrease time-to-hire, and develop more robust onboarding programs to increase productivity and long-term employee performance in 2025."
 author:
