@@ -22,7 +22,7 @@ tags: &ref_0
 featuredImage: the-impact-of-remote-work-on-hiring-trends-jLtJSU.jpg
 featured: false
 seo:
-  metaTitle: The Impact of Remote Work: What It Means for Recruiters
+  metaTitle: The Impact of Remote Work - What It Means for Recruiters
   metaDescription: Discover the impact of remote work and how it is reshaping recruitment. Learn the must-have features in modern recruitment software for effective virtual hiring.
   keywords: *ref_0
 ---
