@@ -18,7 +18,7 @@ tags: &ref_0
   - talent acquisition solutions
   - talent pipeline
   - talent acquisition tools
-featuredImage: ""
+featuredImage: the-ultimate-guide-to-talent-mapping-D7BIb6.jpg
 featured: false
 seo:
   metaTitle: "How to Create Effective Talent Mapping Strategy | Talentpool"
