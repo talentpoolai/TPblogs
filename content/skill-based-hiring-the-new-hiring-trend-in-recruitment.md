@@ -1,7 +1,7 @@
 ---
 
 id: ''
-title: Skill-Based Hiring: The New Hiring Trend Shaping the Recruitment Industry
+title: Skill-Based Hiring - The New Hiring Trend Shaping the Recruitment Industry
 slug: skill-based-hiring-the-new-hiring-trend-in-recruitment
 excerpt: "Skill-based hiring is redefining how organizations attract and evaluate talent in 2025. By focusing on real-world capabilities instead of degrees, recruiters can hire faster, reduce bias, and improve retention. Discover how AI-driven hiring software and structured skills assessments are shaping the future of recruitment and workforce planning."
 author:
@@ -24,7 +24,7 @@ tags: &ref_0
 featuredImage: skill-based-hiring-the-new-hiring-trend-in-recruitment-sWkVwx.jpg
 featured: false
 seo:
-  metaTitle: Skill-Based Hiring Trend: Everything Recruiters Need to Know
+  metaTitle: Skill-Based Hiring Trend - Everything Recruiters Need to Know
   metaDescription: Discover how skill-based hiring trend is transforming recruitment in 2025. Learn how recruiters can prioritize soft skills and implement necessary strategies.
   keywords: *ref_0
 ---
