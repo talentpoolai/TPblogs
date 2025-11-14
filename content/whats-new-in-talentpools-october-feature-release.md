@@ -3,7 +3,7 @@
 id: ''
 title: "What’s New in Talentpool’s October Feature Release?"
 slug: whats-new-in-talentpools-october-feature-release
-excerpt: ""
+excerpt: "Talentpool recruitment software’s October 2025 Release brings powerful feature upgrades designed around the core needs of modern hiring teams - speed, security, and simplicity. This update strengthens system adoption, improves data accuracy, and gives recruiters a faster, more intuitive recruitment experience. Read on to see how these features can improve your hiring efficiency."
 author:
   name: Poushali Ganguly
   role: Business Head
@@ -21,7 +21,7 @@ tags: &ref_0
 featuredImage: whats-new-in-talentpools-october-feature-release-EBiIdz.jpg
 featured: false
 seo:
-  metaTitle: New in Talentpool Recruitment Software - October Feature Updates
+  metaTitle: New in Talentpool Recruitment Software: October Feature Updates
   metaDescription: "Upgrade your hiring experience with Talentpool Recruitment Software's October feature updates. Get instant support, offer timeline & better recruiter workflows."
   keywords: *ref_0
 ---
