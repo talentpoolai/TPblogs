@@ -21,7 +21,7 @@ tags: &ref_0
 featuredImage: whats-new-in-talentpools-october-feature-release-EBiIdz.jpg
 featured: false
 seo:
-  metaTitle: New in Talentpool Recruitment Software: October Feature Updates
+  metaTitle: New in Talentpool Recruitment Software - October Feature Updates
   metaDescription: "Upgrade your hiring experience with Talentpool Recruitment Software's October feature updates. Get instant support, offer timeline & better recruiter workflows."
   keywords: *ref_0
 ---
