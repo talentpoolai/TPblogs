@@ -3,7 +3,7 @@
 id: ''
 title: 5 Signs Your Hiring Process Needs a Candidate Tracking Software Upgrade
 slug: signs-you-need-candidate-tracking-software-upgrade
-excerpt: "Upgrade your candidate tracking system if you notice these 5 signs. Learn how ATS & AI candidate tracking software empowers hiring with speed, clarity & automation and the must-have features you should look for in your recruitment software"
+excerpt: "A slow, manual hiring process is not only frustrating to recruiters, but it also costs you the best talent. When you work manually or use outdated candidate tracking tools, your team is already behind. This blog explains the five obvious indicators that tell you to opt for a modern candidate tracking system and how AI-based ATS candidate tracking software like Talentpool can change the speed, visibility and collaboration within hiring teams."
 author:
   name: Sanchita Paul
   role: Marketing Communication Specialist
