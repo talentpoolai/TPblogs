@@ -3,7 +3,7 @@
 id: ''
 title: 5 Signs Your Hiring Process Needs a Candidate Tracking Software Upgrade
 slug: signs-you-need-candidate-tracking-software-upgrade
-excerpt: "Upgrade your candidate tracking system if you notice these 5 signs. Learn how ATS & AI candidate tracking software empowers hiring with speed, clarity & automation."
+excerpt: "Upgrade your candidate tracking system if you notice these 5 signs. Learn how ATS & AI candidate tracking software empowers hiring with speed, clarity & automation and the must-have features you should look for in your recruitment software"
 author:
   name: Sanchita Paul
   role: Marketing Communication Specialist
