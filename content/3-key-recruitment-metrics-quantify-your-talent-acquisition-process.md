@@ -3,7 +3,7 @@ id: '9'
 title: Top 3 Metrics to Measure Recruitment Efficiency 
 slug: 3-key-recruitment-metrics-quantify-your-talent-acquisition-process
 excerpt: >-
-Measuring recruitment efficiency is essential for building a high-performing hiring engine. In this blog, we break down the most important talent acquisition metrics and hiring KPIs that every recruitment team should track. Learn how to set SMART hiring goals to get the best results out of these recruitment metrics.
+  Measuring recruitment efficiency is essential for building a high-performing hiring engine. In this blog, we break down the most important talent acquisition metrics and hiring KPIs that every recruitment team should track. Learn how to set SMART hiring goals to get the best results out of these recruitment metrics.
 author:
   name: Sanchita Paul
   role: Marketing Communication Specialist
@@ -23,7 +23,7 @@ featured: false
 seo:
   metaTitle: 3 Key Recruitment Metrics to Quantify Your Talent Acquisition
   metaDescription: >-
-Learn how to use three essential recruitment metrics, cost per hire, time to fill, and quality of hire to evaluate and improve your Recruitment process.
+    Learn how to use three essential recruitment metrics, cost per hire, time to fill, and quality of hire to evaluate and improve your Recruitment process.
   keywords: *ref_0
 ---
 
