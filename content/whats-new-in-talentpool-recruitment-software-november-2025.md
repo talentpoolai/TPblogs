@@ -1,7 +1,7 @@
 ---
 
 id: ''
-title: "What's New in Talentpool Recruitment Software - November Release - November 2025 Feature Updates"
+title: "What's New in Talentpool Recruitment Software - November 2025 Feature Updates"
 slug: whats-new-in-talentpool-recruitment-software-november-2025
 excerpt: Discover November releases created to eliminate redundant recruiter workflows and speed up the hiring process with more efficient applicant tracking.
 author:
