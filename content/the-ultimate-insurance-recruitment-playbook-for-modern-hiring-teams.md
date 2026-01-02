@@ -8,7 +8,7 @@ author:
   name: Poushali Ganguly
   role: Business Head
   avatar: /poushali.png
-publishedAt: 2026-01-28T18:30:00.000Z
+publishedAt: 2025-12-25T18:30:00.000Z
 readTime: ""
 category: Insurance Recruitment
 tags: &ref_0
