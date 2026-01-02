@@ -8,7 +8,7 @@ author:
   name: Sanchita Paul
   role: Marketing Communication Specialist
   avatar: /sanchita.png
-publishedAt: 2026-01-25T18:30:00.000Z
+publishedAt: 2025-12-25T18:30:00.000Z
 readTime: ""
 category: Recruitment Know How
 tags: &ref_0
