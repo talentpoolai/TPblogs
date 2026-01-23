@@ -29,7 +29,7 @@ faqs:
   - question: "How does a strong cultural fit help improve productivity at work?"
     answer: "Employees who have harmony with the values and culture of a business experience greater interaction and connection through communication; enhanced collaboration due to shared experience; increased passion and connection to job, thus less conflict and quicker group performance, leading to increased productivity."
   - question: "What role do company core values play in assessing cultural fit?"
-    answer: "The company's values form an important part of its culture. When candidates possess the same values, they will be better prepared to fit into the company, support their team in achieving team objectives, and engage in the behaviours the company expects from its employees.
+    answer: "The company's values form an important part of its culture. When candidates possess the same values, they will be better prepared to fit into the company, support their team in achieving team objectives, and engage in the behaviours the company expects from its employees."
   - question: "Can hiring for cultural fit reduce employee turnover?"
     answer: "Yes, when an employee's personal values align with their employer's cultural values and core values, it will provide them with a stronger sense of connection and engagement. This leads to a lower chance of employees leaving. This ultimately leads to increased retention, lower recruitment costs, and the creation of a stable team environment."
     
