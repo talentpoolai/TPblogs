@@ -24,11 +24,11 @@ seo:
   metaDescription: >-
 Learn 5 effective ways to post jobs online for free without using traditional job boards by leveraging social platforms, career pages, online threads, classifieds, and freelancing sites. 
   keywords: &ref_0
-  - job-boards
-  - recruitment-methods
-  - recruitment-process
-  - job board sites
-  - work opportunities
+    - job-boards
+    - recruitment-methods
+    - recruitment-process
+    - job board sites
+    - work opportunities
 
 faqs:
   - question: "What are the best platforms to post jobs online for free without using traditional job boards?"
