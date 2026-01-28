@@ -22,6 +22,7 @@ seo:
   metaDescription: >-
     Learn everything recruiters need to know about Applicant Tracking Systems, including core ATS features, benefits, and how to choose the right ATS software for your team. 
   keywords: *ref_0
+
   faqs:
   - question: "How does an ATS improve the hiring process?"
     answer: >-
