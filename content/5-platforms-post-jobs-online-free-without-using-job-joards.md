@@ -45,6 +45,7 @@ faqs:
     Employee referrals enable teams to share employment opportunities with people in their networks, allowing the employment recruiter to gain referrals without having to spend money on employment advertisements. 
     
 ---
+
 Looking to hire or create work opportunities without spending on job board sites? This blog breaks down five effective ways to post jobs online for free by using alternative platforms. Discover how these sourcing channels help you unlock new work opportunities, reach passive candidates, and reduce hiring costs, without relying solely on paid listings or an AI job board.  
 
 Job board sites are an essential part of any recruitment strategy, and this plays a crucial role in cost per acquisition. A healthy recruitment strategy needs to include both paid AI job boards and free resources to balance out the given budget.  Well, there are many free digital channels one can utilize for posting job positions. Usually, large companies that can afford to do recruitment marketing go for paid job boards.
