@@ -9,7 +9,7 @@ author:
   role: Marketing Specialist
   avatar: /ankita.jpg
 publishedAt: 2026-02-15T18:30:00.000Z
-readTime: "https://drive.google.com/file/d/1sO3zkn6ZnDOhV1KKWPJ3gYD7tt3ljOKJ/view?usp=sharing"
+readTime: ""
 category: Artificial Intelligence
 tags: &ref_0
   - ethics in ai
