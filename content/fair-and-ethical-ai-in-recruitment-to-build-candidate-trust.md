@@ -16,7 +16,7 @@ tags: &ref_0
   - ai in recruitment
   - ai for interviews
   - ai recruitment software
-featuredImage: ""
+featuredImage: fair-and-ethical-ai-in-recruitment-to-build-candidate-trust-3ljOKJ.jpg
 featured: false
 seo:
   metaTitle: "How to Ensure Fair & Ethical Use of AI in Recruitment - Talentpool"
