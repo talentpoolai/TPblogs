@@ -23,7 +23,7 @@ featuredImage: talentpool-ai-interviewer-to-automate-first-round-interviews-Qa3a
 featured: false
 seo:
   metaTitle: "AI Interviewer for Automated First-Round Interviews | Talentpool"
-  metaDescription: "Explore Talentpool’s AI Interviewer integration to automate first-round interviews, improve time-to-hire, & maintain full human control with bias-aware screening."
+  metaDescription: "Explore Talentpool’s AI Interviewer to automate first-round interviews, improve time-to-hire, & maintain full human control with bias-aware screening."
   keywords: *ref_0
 ---
 
@@ -33,7 +33,7 @@ Now multiply across roles. Across departments. Across time zones.
 
 Round-one interviews are essential. But they are also repetitive, calendar-heavy, and time-consuming. And when recruiters are stuck screening for one role, another role quietly gets delayed.
 
-And that is exactly why Talentpool [recruitment software](https://www.thetalentpool.ai/) has introduced integration with AI Interviewer, powered by Fabric. Let’s walk through what that really means.
+And that is exactly why Talentpool [recruitment software](https://www.thetalentpool.ai/) has introduced its all-new AI Interviewer. Let’s walk through what that really means.
 
 ## **What are the Challenges with First-Round Interviews?**
 
@@ -53,11 +53,11 @@ Modern recruitment automation solves it with AI interviewers.
 
 ## **Meet the AI Interviewer - Automated, Structured, Always On**
 
-Talentpool’s integration with Fabric’s AI Interviewer helps recruiters conduct preliminary interviews automatically, 24/7. It can interview multiple candidates simultaneously, across roles and geographies. No scheduling coordination. No back-and-forth emails.
+Talentpool’s AI Interviewer helps recruiters conduct preliminary interviews automatically, 24/7. It can interview multiple candidates simultaneously, across roles and geographies. No scheduling coordination. No back-and-forth emails.
 
 For high-volume hiring or growing teams, this changes everything. Instead of recruiters spending hours conducting screening calls, they review structured scorecards and move forward with the right candidates – all inside the same [applicant tracking software](https://www.thetalentpool.ai/applicant-tracking-software/). That is why AI Interviewer is one of the top emerging [recruitment trends in 2026](https://www.thetalentpool.ai/blogs/top-7-recruitment-trends-2026/).
 
-Here’s what all our integration with AI Interviewer offers:
+Here’s what our AI Interviewer offers:
 
 ### **JD-Based Custom Questions**
 
@@ -145,4 +145,4 @@ And hiring becomes what it should be - strategic, data-backed, and still human a
 
 ## **Curious to See the AI Interviewer in Action?**
 
-If you would like a walkthrough of Talentpool’s AI Interviewer integration or want to explore how our recruitment software can simplify and streamline your hiring workflow, reach out to us at [info@thetalentpool.ai](mailto:info@thetalentpool.ai) or call us directly at +91-9922963760.
+If you would like a walkthrough of Talentpool’s AI Interviewer or want to explore how our recruitment software can simplify and streamline your hiring workflow, reach out to us at [info@thetalentpool.ai](mailto:info@thetalentpool.ai) or call us directly at +91-9922963760.
