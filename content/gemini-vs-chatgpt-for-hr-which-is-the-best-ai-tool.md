@@ -27,8 +27,6 @@ seo:
   keywords: *ref_0
 ---
 
-# **Gemini vs ChatGPT for HR: Which is the Best AI Tool for Recruitment?**
-
 In the last three years, AI adoption in HR has shifted from curiosity to necessity.
 
 [AIHR](https://www.aihr.com/blog/gemini-vs-chatgpt-for-hr/) shows that HR workloads have increased by 10%, while budgets have shrunk by 1.5% and headcount by 2%. The result? A widening productivity gap that AI is expected to close.
