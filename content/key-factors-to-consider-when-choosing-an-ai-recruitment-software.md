@@ -24,8 +24,6 @@ seo:
   keywords: *ref_0
 ---
 
-# **7 Key Factors to Consider When Choosing AI Recruitment Software**
-
 Recruitment teams nowadays are under growing pressure to recruit more quickly, improve candidate quality, and at a lower cost. Artificial intelligence (AI) recruiting tools have become one of the most important tools to address these needs, enabling teams to streamline their [candidate sourcing](https://www.thetalentpool.ai/blogs/how-to-reduce-candidate-drop-offs) process, automate their shortlists, and improve multi-team collaboration.
 
 However, selecting an AI-based recruitment platform is not so easy. Good ROI can only be achieved when organizations perform a thorough assessment of the software prior to its implementation. The review should not merely focus on the surface-level features, but alignment with long-term hiring goals. Here are the 7 most important factors to consider when selecting AI recruitment software.
