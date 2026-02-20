@@ -26,8 +26,6 @@ seo:
   keywords: *ref_0
 ---
 
-# **How Candidate Rediscovery is Helping Recruiters Fill Roles in Half the Time**
-
 The pressure to fill roles quickly has never been higher. In a talent-based marketplace where the skill gap is increasing and the competition to attract the most talented employees is growing, recruiters are faced with the same problem. Each time there is a new open role or vacancy, they have to begin all over again. Job ads are placed, [candidate sourcing](https://www.thetalentpool.ai/blogs/how-to-reduce-candidate-drop-offs) starts, and teams scramble to find qualified candidates. This is a slow, reactive strategy that is both expensive and unsustainable.
 
 However, there is a smarter way out. More and more organizations are relying on candidate rediscovery with [AI recruitment software](https://www.thetalentpool.ai/) and other AI recruiting tools to turn the static database of past applicants into a living, intelligent talent pipeline.
