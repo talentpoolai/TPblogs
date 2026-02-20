@@ -28,8 +28,6 @@ seo:
   keywords: *ref_0
 ---
 
-# **How Candidate Experience Impacts Your Glassdoor Reviews (and What to Do About It)**
-
 As the talent market becomes more and more competitive, candidate experience has become one of the strongest indicators of employer branding. Every touchpoint of the candidate journey becomes part of a story candidates share with others. And unlike a decade ago, these stories rarely stay private.
 
 According to a LinkedIn study, 72% of candidates who have a negative experience share it online or with their network. Meanwhile, 83% of job seekers check company reviews on platforms like Glassdoor before they apply. The job seekers today, especially the [Gen Z workforce](https://www.thetalentpool.ai/blogs/what-gen-z-workforce-expect-from-recruiters), not only read several interview reviews to understand what the hiring process _really_ feels like but also to understand workplace culture.
