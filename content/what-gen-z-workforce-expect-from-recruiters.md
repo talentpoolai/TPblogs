@@ -26,8 +26,6 @@ seo:
   keywords: *ref_0
 ---
 
-# **Gen Z Workforce is Here - What They Expect from Recruiters in 2026**
-
 India alone is home to around 377 million Gen Z individuals in the job market, currently accounting for roughly 27% of the Indian workforce.<sup>1,2</sup> The Gen Z workforce is now the colleagues your managers are onboarding, the candidates flooding your talent pipelines, and the people reimagining what "a good job" looks like.
 
 At the same time, the job market they are entering is tough with shrinking classic entry-level opportunities. This can automatically make anyone think that a hungry Gen Z workforce facing this tough employment environment would cling to any opportunity. Instead, they're increasingly disappointed with recruiters, with the majority of them being dissatisfied with poor communication from employers.
