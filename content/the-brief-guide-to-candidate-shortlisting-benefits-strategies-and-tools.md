@@ -23,7 +23,7 @@ featured: false
 seo:
   metaTitle: 'The Brief Guide to Candidate Shortlisting: Benefits, Strategies, and Tools'
   metaDescription: >-
-Learn how to identify the right hire by creating accurate candidate personas. Improve recruitment decisions and streamline hiring that truly fits your organization.
+Discover candidate shortlisting strategies and tips to streamline hiring and select top talent efficiently. Read on to learn about the best candidate shortlisting tools.
   keywords: *ref_0
 
 faqs:
