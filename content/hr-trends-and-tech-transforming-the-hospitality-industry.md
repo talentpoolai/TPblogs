@@ -64,7 +64,7 @@ Hospitality has always had high turnover, but now, the cost of it is rising. Thi
 
 It is not just an issue for HR in hospitality anymore, but a business risk.
 
-###**4\. Hybrid Workforce Models are Becoming the New Normal**
+### **4\. Hybrid Workforce Models are Becoming the New Normal**
 
 The gig economy is now an operational reality in India.
 
