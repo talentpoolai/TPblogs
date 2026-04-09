@@ -86,7 +86,7 @@ Over-automation and unsupervised usage of [AI recruitment software](https://www.
 - Increases perceived bias
 - Creates skepticism
 
-This aligns with broader concerns around AI fairness and transparency, especially in recruitment. Because hiring is not just about efficiency but also about credibility.
+This is in line with wider issues of AI fairness and transparency, particularly regarding hiring, since it is not only concerned with efficiency but also credibility. 
 
 **Also Read:** [Fair and Ethical AI in Recruitment - How to Build Trust with Candidates](https://www.thetalentpool.ai/blogs/fair-and-ethical-ai-in-recruitment-to-build-candidate-trust/)
 
