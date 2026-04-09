@@ -42,18 +42,18 @@ Similar trends are also observed in the initial stages of employment, which is g
 
 The results indicate that women are less prone to early attrition, which is one of the biggest concerns among employers dealing with the cost of hiring and employee retention.
 
-## **Low Workforce Participation Remains a Key Concern**
+## **Low Workforce Participation is a Major Issue**
 
-Despite stronger retention metrics, women continue to be severely underrepresented in India’s formal workforce.
+Though the retention levels have been stronger, women remain highly underrepresented in the formal labour force in India.
 
 - Women account for just 7.6% of employees
-- Equivalent to roughly 1 in 13 workers
+- Equivalent to about 1 per 13 employees
 
-This indicates that the primary challenge is not retaining women employees, but ensuring their participation at the entry level.
+This implies that retaining women employees is not the main issue, but rather their participation at the entry level.
 
 ## **Sectoral Distribution Highlights Uneven Opportunities**
 
-The data also points to significant variation in female representation across industries. Sectors with higher women representation include:
+The statistics also indicate that there is a great disparity in the female representation across the industries. Sectors with higher women representation include:
 
 - Education: 20.3%
 - Information Technology: 13.2%
