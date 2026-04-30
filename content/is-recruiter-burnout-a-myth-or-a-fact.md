@@ -3,7 +3,7 @@
 id: ''
 title: "Is Recruiter Burnout a Myth or a Fact? Here’s the Reality"
 slug: is-recruiter-burnout-a-myth-or-a-fact
-excerpt: "Struggling with recruiter burnout? Discover the warning signs, real causes, and how Talentpool recruitment management software is the ultimate fix in 2025."
+excerpt: "Struggling with recruiter burnout? Discover the warning signs, real causes, and how Talentpool recruitment management software is the ultimate fix in 2026."
 author:
   name: Sanchita Paul
   role: Marketing Communication Specialist
