@@ -1,7 +1,7 @@
 ---
 
 id: ''
-title: The Ultimate Guide to Talent Mapping - Strategies Every HR Leader Needs in 2025
+title: The Ultimate Guide to Talent Mapping - Strategies Every HR Leader Needs in 2026
 slug: the-ultimate-guide-to-talent-mapping
 excerpt: "With talent shortage and skill gaps increasing, talent mapping is becoming the backbone of strategic talent management. Discover how talent mapping can anticipate skill gaps, build a resilient talent pipeline, and transform hiring from reactive to proactive with smart, data-driven talent acquisition solutions."
 author:
