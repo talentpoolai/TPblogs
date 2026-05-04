@@ -124,7 +124,7 @@ It acts as a full-stack recruitment and sourcing platform, not just a sourcing t
 - May be more than what small teams need if they only want sourcing
 - Not a single sourcing tool but a complete ATS software
 
-## **2\. LinkedIn Recruiter**
+### **2\. LinkedIn Recruiter**
 
 **Best for:** Passive candidate sourcing and professional networks
 
@@ -144,7 +144,7 @@ With over 1 billion users globally, LinkedIn Recruiter helps you search, filter,
 - No built-in skill validation
 - Heavy reliance on recruiter effort
 
-## **3\. Naukri**
+### **3\. Naukri**
 
 
 **Best for:** Active candidate sourcing in India
@@ -165,7 +165,7 @@ For recruiters hiring in India, it remains a high-volume sourcing channel.
 - Requires heavy filtering and manual effort
 - Limited deep evaluation capability
 
-## **4\. hireEZ**
+### **4\. hireEZ**
 
 **Best for:** AI-powered outbound sourcing
 
