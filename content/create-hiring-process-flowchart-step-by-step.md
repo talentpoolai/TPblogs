@@ -150,7 +150,7 @@ That changes how hiring process flowcharts should be designed. Recruitment teams
 
 Here’s how you can build the actual end-to-end recruitment process flowchart in 2026.
 
-### **Step 1: Start With Workforce Planning**
+### **Step 1 - Start With Workforce Planning**
 
 Most hiring teams make the mistake of starting with a job posting. But the process should actually begin with workforce planning.
 
@@ -170,7 +170,7 @@ The World Economic Forum estimates that 170 million new jobs will emerge globall
 
 Your hiring process flowchart should reflect those decision points early.
 
-### **Step 2: Define the Role Properly**
+### **Step 2 -Define the Role Properly**
 
 A weak intake process creates weak hiring outcomes.
 
@@ -186,7 +186,7 @@ Your recruitment process flowchart should include a structured role intake stage
 
 Don't develop unrealistic 'wish list' job descriptions. Today's hiring process is more effective when jobs are designed for specific, quantifiable abilities and business objectives.
 
-### **Step 3: Build a Structured Candidate Sourcing Strategy**
+### **Step 3 - Build a Structured Candidate Sourcing Strategy**
 
 The 2025 Talent Trends report from SHRM reveals that 50% of employers feel a growing competition to hire top talent.<sup>8</sup> Hence, it has become crucial to use proactive sourcing techniques in the current hiring process.
 
@@ -202,7 +202,7 @@ Your sourcing channels should be clearly mapped out in your recruitment flowchar
 
 Talentpool consolidates all your [candidate sourcing](https://www.thetalentpool.ai/candidate-sourcing/) efforts, from job boards and referrals to career sites and HR databases, into a single recruitment workflow. Recruiters have more visibility into their pipeline without having to navigate through multiple, unintegrated solutions.
 
-### **Step 4: Standardize Resume Screening**
+### **Step 4 - Standardize Resume Screening**
 
 One of the top recruitment challenges is screening resumes. This is where AI-powered [resume management systems](https://www.thetalentpool.ai/resume-management-software/) are changing hiring operations.
 
@@ -218,7 +218,7 @@ But avoid over-automation. Candidates still expect fairness and transparency dur
 
 Talentpool’s [AI Scoring](https://www.thetalentpool.ai/ai-scoring/) feature enables recruiters to automatically score resumes against job requirements based on skill-based weightages set by the recruiter, along with trasparent scoring explanations. It speeds up the hiring team's ability to narrow down the candidates without losing sight of why they're matched.
 
-### **Step 5: Add Skills Assessments Before Interviews**
+### **Step 5 - Add Skills Assessments Before Interviews**
 
 One of the smartest recruitment process steps in 2026 is moving capability testing earlier in the funnel. Instead of relying only on interviews, companies are increasingly using:
 
@@ -232,7 +232,7 @@ This improves hiring accuracy while reducing bias. It also helps recruiters avoi
 
 Talentpool’s [AI Interviewer](https://www.thetalentpool.ai/ai-interviewer/) helps recruitment teams conduct structured preliminary technical interviews before the final interview rounds with hiring managers. It asks JD-based questions, creates situation-based or case-study-based assessments, evaluates candidate responses with follow-up probing, and generates competency-based scorecards.
 
-### **Step 6: Create a Structured Interview Process**
+### **Step 6 - Create a Structured Interview Process**
 
 Deloitte’s 2025 talent acquisition research highlights that poor interview experiences significantly impact candidate perception and hiring outcomes. This is why modern recruitment process flowcharts focus heavily on interview consistency.
 
@@ -244,7 +244,7 @@ A strong interview process should include:
 - Independent interviewer scoring
 - Interviewer calibration sessions
 
-### **Step 7: Offer Management and Pre-Boarding**
+### **Step 7 - Offer Management and Pre-Boarding**
 
 The hiring process doesn’t end when the candidate says yes. Your recruitment flowchart should therefore include:
 
