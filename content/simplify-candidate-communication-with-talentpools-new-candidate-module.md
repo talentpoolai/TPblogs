@@ -24,9 +24,19 @@ seo:
   metaTitle: "Introducing Candidate Module | Talentpool Feature Update"
   metaDescription: "Discover how Talentpool’s new Candidate Module streamlines candidate communication, saves time with automated updates, ensures compliance & enhances employer brand."
   keywords: *ref_0
----
 
-# **Simplify Candidate Communication - Introducing Talentpool's New Candidate Module**
+faqs:
+  - question: "How does candidate communication impact candidate experience?"
+    answer: >-
+    Candidate communication plays a major role in shaping candidate experience. Delayed responses, unclear updates, and fragmented communication often lead to candidate drop-offs and poor employer perception. A centralized candidate communication platform helps recruiters provide timely updates, improve transparency, and create a more engaging hiring experience.
+  - question: "How can recruitment software reduce candidate drop-offs?"
+    answer: >-
+    Talentpool recruitment software reduces candidate drop-offs by automating status updates, simplifying document collection, centralizing communication, and improving hiring transparency. Candidates stay informed throughout the recruitment journey, which improves engagement and builds trust in the hiring process.
+  - question: "Does recruitment software automate candidate communication?"
+    answer: >-
+    Yes, Talentpool offers a candidate portal, a dedicated space within a Recruitment Software where candidates can track application status, upload documents, complete forms, and communicate directly with recruiters. It improves recruitment efficiency, reduces manual follow-ups, and strengthens employer branding through automated status updates and a branded interface.
+    
+---
 
 Our mission has always been simple at Talentpool - to help recruiters and hiring teams with a [recruitment software](https://www.thetalentpool.ai/) that makes hiring faster, more transparent, and streamlined.
 
