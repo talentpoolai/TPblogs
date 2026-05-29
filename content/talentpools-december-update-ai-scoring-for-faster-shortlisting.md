@@ -50,7 +50,7 @@ Speed alone is not enough anymore. The use of AI in recruitment demands accuracy
 
 ## **Introducing AI Scoring: Shortlisting That Recruiters Can Trust**
 
-AI Scoring is Talentpool's latest upgrade to its [AI recruiting](https://www.thetalentpool.ai/ai-recruitment-software/) software, built for recruiters to improve their productivity.
+[AI Scoring](https://www.thetalentpool.ai/ai-scoring/) is Talentpool's latest upgrade to its [AI recruiting](https://www.thetalentpool.ai/ai-recruitment-software/) software, built for recruiters to improve their productivity.
 
 Instead of vague keyword-based rankings and shortlisting, AI Scoring helps you see role-based fit, clearly and confidently.
 
