@@ -53,7 +53,7 @@ Modern recruitment automation solves it with AI interviewers.
 
 ## **Meet the AI Interviewer - Automated, Structured, Always On**
 
-Talentpool’s AI Interviewer helps recruiters conduct preliminary interviews automatically, 24/7. It can interview multiple candidates simultaneously, across roles and geographies. No scheduling coordination. No back-and-forth emails.
+Talentpool’s [AI Interviewer](https://www.thetalentpool.ai/ai-interviewer/) helps recruiters conduct preliminary interviews automatically, 24/7. It can interview multiple candidates simultaneously, across roles and geographies. No scheduling coordination. No back-and-forth emails.
 
 For high-volume hiring or growing teams, this changes everything. Instead of recruiters spending hours conducting screening calls, they review structured scorecards and move forward with the right candidates – all inside the same [applicant tracking software](https://www.thetalentpool.ai/applicant-tracking-software/). That is why AI Interviewer is one of the top emerging [recruitment trends in 2026](https://www.thetalentpool.ai/blogs/top-7-recruitment-trends-2026/).
 
