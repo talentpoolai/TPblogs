@@ -27,8 +27,6 @@ seo:
 ---
 
 
-# **What's New in Talentpool's October Feature Release?**
-
 Talentpool is constantly developing as an effective [recruitment software](https://www.thetalentpool.ai/) used by modern recruiters, talent acquisition leaders, and HR teams. The October 2025 release targets three pillars of hiring - speed, security, and simplicity.
 
 This month has some new features and some upgrades to offer more support to the recruiter, provide flexibility to the vendors, and ensure a better user experience in the recruitment management system. Let's take a look!
