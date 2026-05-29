@@ -35,7 +35,7 @@ Today, if you are still relying on manually writing questions, you will fall beh
 
 According to LinkedIn\*, 70% of companies will use AI in hiring, and creating interview questions is already the most common use case in AI-enabled interviews.
 
-This guide breaks down how AI transforms interview question creation, step-by-step workflows hiring teams can implement, the best prompts to generate personalized AI interview questions, and more. Read on!
+This guide breaks down how AI transforms interview question creation, step-by-step workflows hiring teams can implement, the best prompts to generate personalized [AI interview](https://www.thetalentpool.ai/ai-interviewer/) questions, and more. Read on!
 
 ## **Why Should You Use AI for Creating Interview Questions?**
 
